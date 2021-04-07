@@ -31,13 +31,13 @@ READ THE PRIVATE REPO RULES BEFORE THE ISSUE
 
 # WHO DOESN'T COME TO THE NEW PRIVATE REPO
 
-1. Contributors and Users (Issues) from IPTV-ORG
+1. Contributors and Users (Issues) from IPTV-ORG!!! The reason should be known by now!
 2. Blocked users
-3. New users who recently created an account on Github
+3. New users who recently created an account on Github. The reason should be known by now!
 
 As usual, the new (private) repo has regular updates and free and LEGAL streams from many countries. :-)
 
-# TO GET INTO THE NEW PRIVATE REPO, CONTACT ME VIA THE MENU "[Issues](https://github.com/Free-IPTV/Countries/issues)" THEN YOU WILL GET FURTHER INFORMATION FOR ACCESS
+# TO GET INTO THE NEW PRIVATE REPO, CONTACT ME VIA THE MENU "[Issues](https://github.com/Free-IPTV/Countries/issues)" THEN YOU WILL GET FURTHER INFORMATION FOR ACCESs Please post e NEW issue. Don´t post in any other issue. Thanks for reading this. ;-) 
 
 ----------------------------------------------------------------------------------------------------------
 The old text also here!!!
