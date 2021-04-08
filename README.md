@@ -1,9 +1,5 @@
-# Donation Button
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/FreeIPTVGitgub)
-Thanks for a small donation. :-)
-
 # Countries
-Free legally receivable IPTV channels for Kodi, VLC or other media players as .m3u for Kodi. :-)
+Free IPTV with legally receivable TV channels for Kodi, VLC or other media players as .m3u for Kodi. :-)
 
 # IMPOTANT CHANGES!
 
