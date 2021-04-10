@@ -2688,16 +2688,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af0008
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="3AW Melburne (Webradio)" tvg-id="" tvg-logo="https://i.imgur.com/Uvie0ws.png" group-title="AUSTRALIA",3AW Melburne (Webradio)
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
-#EXTINF:-1 tvg-name="ABC Kids AU" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.abckids.png" group-title="AUSTRALIA",ABC Kids Australia
-https://c.mjh.nz/101002210222/
-#EXTINF:-1 tvg-name="ABC Me" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="AUSTRALIA",ABC Me
-https://c.mjh.nz/101002210224/
 #EXTINF:-1 tvg-name="ABC News Australia" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="AUSTRALIA",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-name="ABC News Australia" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="AUSTRALIA",ABC News Australia (2)
-https://c.mjh.nz/101002210220/
-#EXTINF:-1 tvg-name="ACCTV" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.acctv.png" group-title="AUSTRALIA",ACCTV
-https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
 #EXTINF:-1 tvg-name="Action Hollywood Movies" tvg-id="" tvg-logo="https://i.imgur.com/wnlzC0w.jpg" group-title="AUSTRALIA",Action Hollywood Movies
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Ausbiz TV" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" group-title="AUSTRALIA",Ausbiz TV
@@ -2718,8 +2710,6 @@ https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Inwonder TV" tvg-id="" tvg-logo="https://i.imgur.com/d3LshRd.png" group-title="AUSTRALIA",Inwonder TV
 https://inwonder-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name"Juice" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="AUSTRALIA",Juice TV
-https://i.mjh.nz/nz/tv.juice.m3u8
 #EXTINF:-1 tvg-name"MAVTV Motor Sports" tvg-id="" tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="AUSTRALIA",MAVTV Motor Sports
 https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="MIS Televizija" tvg-id="" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="AUSTRALIA",MIS Televizija
@@ -2734,8 +2724,6 @@ https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Australia Extra 1" tvg-id="skynews.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="AUSTRALIA",Sky News Australia Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="AUSTRALIA",Snowy Mountains TV
-http://c.mjh.nz/snowy-mountains/
 #EXTINF:-1 tvg-id="" tvg-name="Toon Goggles" tvg-logo="https://i.imgur.com/XusVyxA.jpg" group-title="AUSTRALIA",Toon Goggles
 https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="AUSTRALIA",Travel XP
@@ -2750,12 +2738,6 @@ https://
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Kordia TV" tvg-id="tv.66" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/7FCjq7C.png",Kordia TV
 https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
-#EXTINF:-1 tvg-id="tv.13" tvg-name="Maori Television" tvg-logo="https://i.imgur.com/yo8kEk5.png" group-title="NEWZEALAND",Maori Television
-http://i.mjh.nz/nz/tv.13.m3u8
-#EXTINF:-1 tvg-name="Parliament TV" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://www.parliament.nz/timeline/assets/logo.jpg",Parliament TV
-https://i.mjh.nz/nz/tv.18.m3u8
-#EXTINF:-1 tvg-id="tv.20" tvg-name="Te Reo - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/UermurO.png" group-title="NEWZEALAND",Te Reo - github.com/Free-IPTV
-http://i.mjh.nz/nz/tv.20.m3u8
 #EXTINF:-1 tvg-name="TVSN NZ" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/qQALC7M.png",TVSN NZ
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 #EXTINF:-1 tvg-name="Wairarapa TV" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/qwGFZKE.png",Wairarapa TV
