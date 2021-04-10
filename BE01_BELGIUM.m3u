@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="*** BELGIUM - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/51uhUUT.png" group-title="BELGIUM",*** BELGIUM - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A T V Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="BELGIUM",A T V Say thank you to IPTV-ORG!
-http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
