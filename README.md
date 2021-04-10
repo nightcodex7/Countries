@@ -11,7 +11,7 @@ NOW THAT'S THE END WITH THIS CLAWING IN FREE-IPTV/COUNTRIES!
 
 Of course, the honest users, the genuine users of our m3u's, will have no disadvantages because of certain idiots!
 
-# IMPOTANT INFORTAMTION!
+# IMPOTANT INFORMATION!
 
 10. April 2021: Since a guy from New Zealand has apparently started a hate campaign against me here at Github, I don't feel like it anymore!
 
