@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="*** BULGARIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/nCmtGS8.png" group-title="BULGARIA",*** BULGARIA - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BTK Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="BULGARIA",BTK Say thank you to IPTV-ORG!
-http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
