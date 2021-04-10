@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="*** TAIWAN - github.com/Free-IPTV" group-title="TAIWAN" tvg-logo="https://i.imgur.com/KXcPGuA.png",*** TAIWAN - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CTS Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="TAIWAN",CTS Say thank you to IPTV-ORG!
-plugin://plugin.video.youtube/play/?video_id=PQLMD4iHhG8
