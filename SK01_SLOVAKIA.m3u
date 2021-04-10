@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="*** SLOVAKIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/ajHUvqV.png" group-title="SLOVAKIA",*** SLOVAKIA - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BTV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="SLOVAKIA",BTV Say thank you to IPTV-ORG!
-rtmp://s1.media-planet.sk:80/live/bardejov1
