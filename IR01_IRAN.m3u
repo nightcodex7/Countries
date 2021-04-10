@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name=vg-name="*** IRAN - github.com/Free-IPTV" group-title="IRAN" tvg-logo="https://i.imgur.com/6Fb1ysK.jpg",*** IRAN - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="11 TV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="IRAN",11 TV Say thank you to IPTV-ORG!
-http://51.210.199.43/hls/stream.m3u8
