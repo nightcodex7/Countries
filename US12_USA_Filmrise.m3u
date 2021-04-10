@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="*** USA FILMRISE - github.com/Free-IPTV" group-title="USA FILMRISE"  tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA FILMRISE - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Filmrise  Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA FILMRISE",Filmrise  Say thank you to IPTV-ORG!
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
