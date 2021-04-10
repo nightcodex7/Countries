@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="*** ISRAEL - github.com/Free-IPTV" group-title="ISRAEL" tvg-logo="https://i.imgur.com/IZCtGmD.png",*** ISRAEL - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JBS Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="ISRAEL",JBS Say thank you to IPTV-ORG!
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
