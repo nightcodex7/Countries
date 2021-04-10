@@ -1,5 +1,0 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/uk.xml"
-#EXTINF:-1 tvg-name="*** UK PLUTO - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/vKXvAZx.png" group-title="UK PLUTO",*** PLUTO UK - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="5e8db96bccae160007c71eec" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="UK PLUTO",Andromeda Say thank you to IPTV-ORG!
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bccae160007c71eec/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
