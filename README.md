@@ -1,7 +1,7 @@
 # Countries
 Free IPTV with legally receivable TV channels for Kodi, VLC or other media players as .m3u for Kodi. :-)
 
-# IMPOTANT CHANGES!
+# IMPORTANT CHANGES!
 
 Thanks to a few people, both here at Github and on other websites on the Internet, there is an important change here!
 
@@ -11,7 +11,7 @@ NOW THAT'S THE END WITH THIS CLAWING IN FREE-IPTV/COUNTRIES!
 
 Of course, the honest users, the genuine users of our m3u's, will have no disadvantages because of certain idiots!
 
-# IMPOTANT INFORMATION!
+# ALSO IMPOTANT INFORMATION!
 
 10. April 2021: Since a guy from New Zealand has apparently started a hate campaign against me here at Github, I don't feel like it anymore!
 
