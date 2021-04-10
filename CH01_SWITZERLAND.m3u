@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="*** SWITZERLAND - github.com/Free-IPTV" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/eqVr8td.jpg",*** SWITZERLAND - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Canal 9 Say thank you to IPTV-ORG!" tvg-id="Kanal9.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/Eer3cMw.png",Canal 9 Say thank you to IPTV-ORG!
-https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
