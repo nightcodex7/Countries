@@ -15,6 +15,14 @@ Of course, the honest users, the genuine users of our m3u's, will have no disadv
 
 10. April 2021: Since a guy from New Zealand has apparently started a hate campaign against me here at Github, I don't feel like it anymore!
 
+https://github.com/linuxmint/hypnotix/issues/124#issuecomment-817116183
+
+11. April: Next one,  hate campaign against me here at Github:
+
+https://github.com/linuxmint/hypnotix/issues/124#issuecomment-817215089
+
+You are welcome to thank these 2! 
+
 There are currently NO NEW USERS added to our new closed repo, it is really enough!!!
 
-
+**I'm 61 years old and I don't do this shit to myself anymore. The streams are free, but NOT our work. It is over with public repo and also with this constant stealing of our work!**
