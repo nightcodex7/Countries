@@ -21,8 +21,22 @@ https://github.com/linuxmint/hypnotix/issues/124#issuecomment-817116183
 
 https://github.com/linuxmint/hypnotix/issues/124#issuecomment-817215089
 
-You are welcome to thank these 2! 
+You are welcome to thank these 2 above! 
 
-There are currently NO NEW USERS added to our new closed repo, it is really enough!!!
+# IF YOU WANT TO ACCESS OUR NEW PRIVATE REPO, PLEASE READ THE FOLLOWING CAREFULLY
+
+# THE FOLLOWING RULES MUST BE OBSERVED:
+
+1. CREATE A FORK FOR FUN IS NOT ALLOWED
+2. DO YOU WANT TO CREATE A FORK; PLEASE DISCUSS US BEFORE VIA ISSUE
+3. A FORK MAY ONLY BE CREATED, IF THEN THERE ALSO COMES A PULL REQUEST
+4. ALL M3Us ARE INTENDED FOR PRIVATE USE ONLY
+5. IT IS NOT ALLOWED TO SEND ME ILLGEGAL STREAMS VIA PULL REQUEST OR POST HERE IN MY REPO
+6. USE FOR COMMERCIAL PURPOSES IS NOT PERMITTED
+7. DISTRIBUTING OR POSTING OUR M3U´s AT GITHUB, FORUMS, HOMEPAGES OR IN SOCIAL NETWORKS IS NOT PERMITTED
+8. WHO BREACHES THESE RULES, FLY OUT OF HERE IMMEDIATELY
+9. USERS WHO RECENTLY CREATED AN ACCOUNT, CANNOT GET ACCESS YET, I'M SORRY
+
+ If you agree with these rules and adhere to them, you can contact us via "[Issues](https://github.com/Free-IPTV/Countries/issues)". :-)
 
 **I'm 61 years old and I don't do this shit to myself anymore. The streams are free, but NOT our work. It is over with public repo and also with this constant stealing of our work!**
