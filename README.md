@@ -11,7 +11,7 @@ NOW THAT'S THE END WITH THIS CLAWING IN FREE-IPTV/COUNTRIES!
 
 Of course, the honest users, the genuine users of our m3u's, will have no disadvantages because of certain idiots!
 
-# ALSO IMPOTANT INFORMATION!
+# ALSO IMPORTANT INFORMATION!
 
 10. April 2021: Since a guy from New Zealand has apparently started a hate campaign against me here at Github, I don't feel like it anymore!
 
@@ -39,4 +39,4 @@ You are welcome to thank these 2 above!
 
  If you agree with these rules and adhere to them, you can contact us via "[Issues](https://github.com/Free-IPTV/Countries/issues)". :-)
 
-**I'm 61 years old and I don't do this shit to myself anymore. The streams are free, but NOT our work. It is over with public repo and also with this constant stealing of our work!**
+**The streams are free, access to new repo is free. It is over with public repo and also with this constant stealing of our work! From now on our daily work on the new private repo is worth something again!**
