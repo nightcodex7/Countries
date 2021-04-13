@@ -39,4 +39,4 @@ You are welcome to thank these 2 above!
 
  If you agree with these rules and adhere to them, you can contact us via "[Issues](https://github.com/Free-IPTV/Countries/issues)". :-)
 
-**The streams are free, access to new repo is free. It is over with public repo and also with this constant stealing of our work! From now on our daily work on the new private repo is worth something again!**
+**The streams are free, access to new repo is free. It is over with public repo and also with this constant stealing of our work! From now on our daily work in the new private repo is worth something again!**
