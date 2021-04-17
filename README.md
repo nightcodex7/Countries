@@ -21,7 +21,15 @@ https://github.com/linuxmint/hypnotix/issues/124#issuecomment-817116183
 
 https://github.com/linuxmint/hypnotix/issues/124#issuecomment-817215089
 
-You are welcome to thank these 2 above! 
+You are welcome to thank these 2 above!
+
+# 17. April 2021: Furthermore, IPTVMATE.NET also uses our work WITHOUT SOURCE INFORMATION! 
+
+While this idiot also now no longer has access to our private repo, he does use the m3u's we last posted here. He only took the trouble to replace tvg-logo= this time!  
+
+This guy and also so some others are the reason why there is NO public repo anymore! You are welcome to thank him!
+
+https://iptvmate.net
 
 # ISSUES MENU DEACTIVATED! CURRENTLY WE HAVE TOO MANY INQUIRIES! FROM MONDAY, 19 APRIL THE MENU ISSUES IS AVAILABLE AGAIN AND YOU CAN CONTINUE WITH INQUIRIES!
 
