@@ -48,8 +48,8 @@ iptvmate.net
 7. DISTRIBUTING OR POSTING OUR M3U´s AT GITHUB, FORUMS, HOMEPAGES OR IN SOCIAL NETWORKS IS NOT PERMITTED
 8. WHO BREACHES THESE RULES, FLY OUT OF HERE IMMEDIATELY
 9. USERS WHO HAVE RECENTLY CREATED AN ACCOUNT, CANNOT GET ACCESS YET, I'M SORRY
-10. Users who are not able to read and understand points 1 to 10 correctly!
+10. Users who are not able to read and understand points 1 to 10 correctly do not get access!
 
- If you agree with these rules and adhere to them, you can contact us via "[Issues](https://github.com/Free-IPTV/Countries/issues)". :-)
+If you agree with these rules and adhere to them, you can contact us via "[Issues](https://github.com/Free-IPTV/Countries/issues)". PLEASE make a new ISSUE and don´t write in existing ISSUE. Thank you :-)
 
 **The streams are free, access to new repo is free. It is over with public repo and also with this constant stealing of our work! From now on our daily work in the new private repo is worth something again!**
