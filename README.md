@@ -27,11 +27,11 @@ You are welcome to thank these 2 above!
 
 While this idiot also now no longer has access to our private repo, he does use the m3u's we last posted here. He only took the trouble to replace tvg-logo= this time!  
 
-This guy and also so some others are the reason why there is NO public repo anymore! You are welcome to thank him!
+This guy and also so some others are the reason why there is NO public repo anymore! This asshole copied the complete m3u's incl. file names to make a name for himself. The source WITH LINK to our repo is missing.
 
-https://iptvmate.net
+You are welcome to thank him!
 
-# ISSUES MENU DEACTIVATED! CURRENTLY WE HAVE TOO MANY INQUIRIES! FROM MONDAY, 19 APRIL THE MENU ISSUES IS AVAILABLE AGAIN AND YOU CAN CONTINUE WITH INQUIRIES!
+iptvmate.net
 
 # IF YOU WANT TO ACCESS OUR NEW PRIVATE REPO, PLEASE READ THE FOLLOWING CAREFULLY
 
@@ -48,6 +48,7 @@ https://iptvmate.net
 7. DISTRIBUTING OR POSTING OUR M3U´s AT GITHUB, FORUMS, HOMEPAGES OR IN SOCIAL NETWORKS IS NOT PERMITTED
 8. WHO BREACHES THESE RULES, FLY OUT OF HERE IMMEDIATELY
 9. USERS WHO HAVE RECENTLY CREATED AN ACCOUNT, CANNOT GET ACCESS YET, I'M SORRY
+10. Users who are not able to read and understand points 1 to 10 correctly!
 
  If you agree with these rules and adhere to them, you can contact us via "[Issues](https://github.com/Free-IPTV/Countries/issues)". :-)
 
