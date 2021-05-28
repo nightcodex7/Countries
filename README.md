@@ -1,5 +1,5 @@
 # Countries
-Free IPTV with legally receivable TV channels for Kodi, VLC or other media players as .m3u for Kodi. :-)
+Free IPTV with legally receivable TV channels for Kodi. VLC or other media players as .m3u for Kodi. :-)
 
 # IMPORTANT CHANGES!
 
@@ -50,7 +50,8 @@ iptvmate.net
 7. DISTRIBUTING OR POSTING OUR M3U´s AT GITHUB, FORUMS, HOMEPAGES OR IN SOCIAL NETWORKS IS NOT PERMITTED
 8. WHO BREACHES THESE RULES, FLY OUT OF HERE IMMEDIATELY
 9. USERS WHO HAVE RECENTLY CREATED AN ACCOUNT, CANNOT GET ACCESS YET, I'M SORRY
-10. Users who are not able to read and understand points 1 to 10 correctly do not get access!
+10. If you don't want to donate anything as an appreciation of our work, move on!
+11. Users who are not able to read and understand points 1 to 10 correctly do not get access!
 
 If you agree with these rules and adhere to them, you can contact us via "[Issues](https://github.com/Free-IPTV/Countries/issues)". PLEASE make a new ISSUE and don´t write in existing ISSUE. Thank you :-)
 
