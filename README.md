@@ -1,5 +1,5 @@
 # Countries
-Free IPTV with legally receivable TV channels for Kodi. VLC or other media players as .m3u for Kodi. :-)
+Free IPTV with legally receivable TV channels for Kodi, VLC or other media players as .m3u for Kodi. :-)
 
 # IMPORTANT CHANGES!
 
