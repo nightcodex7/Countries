@@ -1,6 +1,14 @@
 # Countries
 Free IPTV with legally receivable TV channels for Kodi, VLC or other media players as .m3u for Kodi. :-)
 
+# FREE SHIT ALSO AVAILABLE!
+
+With so many issues because of the new closed repo, so many people are so poor that they can't even donate, we decided to make free shit available in the old free repo for everyone.  
+
+Free shit, no updates, as of March 2021. 
+
+All m3us and also the latest m3u's with the daily updates are ONLY available in the NEW CLOSED REPO. 
+
 # IMPORTANT CHANGES!
 
 Thanks to a few people, both here at Github and on other websites on the Internet, there is an important change here!
