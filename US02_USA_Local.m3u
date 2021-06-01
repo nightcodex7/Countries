@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="***USA Local TV - github.com/Free-IPTV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA Local TV - github.com/Free-IPTV
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Southeastern Channel" tvg-id="" tvg-logo="https://i.imgur.com/5yAdX7E.png" group-title="USA LOCAL",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1 tvg-name="The Rockville Channel" tvg-id="The Rockville Channel" tvg-logo="https://i.imgur.com/0mvGibX.jpg" group-title="USA LOCAL",The Rockville Channel
+http://granicusliveus12-a.akamaihd.net/rockvillemd/G0458_001/chunklist.m3u8
+#EXTINF:-1 tvg-name="TSTV" tvg-id="" tvg-logo="https://i.imgur.com/tV8tVxQ.png" group-title="USA LOCAL",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 tvg-name="TVW" tvg-id="" tvg-logo="https://i.imgur.com/SrRxU67.png" group-title="USA LOCAL",TVW
+https://wowzaprod13-i.akamaihd.net/hls/live/254985/29c28f19/persisTarget_9375922947_TVWAIR_247_720p/chunklist.m3u8
+#EXTINF:-1 tvg-name="UCTV - University of California" tvg-id="UCTV - University of California" tvg-logo="https://i.imgur.com/ehMz9T5.png" group-title="USA LOCAL",UCTV - University of California
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="WCCA-TV (Worcester)" tvg-id="" tvg-logo="https://i.imgur.com/EX5hpVY.png" group-title="USA LOCAL",WCCA-TV (Worcester)
+http://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 tvg-name="WFTV Channel 9 - Florida - Orlando" tvg-id="WFTV" tvg-logo="https://i.imgur.com/S3fqmWY.png" group-title="USA LOCAL",WFTV Channel 9 - Florida - Orlando
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
+#EXTINF:-1 tvg-name="WGN9 (Chicago)" tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/lpaqfc.png" group-title="USA LOCAL",WGN9 (Chicago)
+https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/playlist.m3u8
+#EXTINF:-1 tvg-name="White Plains Community Media" tvg-id="" tvg-logo="https://i.imgur.com/hhjrOB1.png" group-title="USA LOCAL",White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:-1 tvg-name="WHOH TV - Hastings-On-Hudson - NY" tvg-id="WHOH TV" tvg-id="" tvg-logo="https://i.imgur.com/oua9m6O.jpg" group-title="USA LOCAL",WHOH TV - Hastings-On-Hudson - NY
+http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 tvg-name="WHPR - github.com/Free-IPTV" tvg-id="" tvg-logo="https://i.imgur.com/Gys19EC.png" group-title="USA LOCAL",WHPR - github.com/Free-IPTV
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+#EXTINF:-1  tvg-name="WJAX Action News - Jacksonville" tvg-id="" tvg-logo="https://i.imgur.com/LW3Dfbt.png" group-title="USA LOCAL",WJAX Action News - Jacksonville
+https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8?aws.sessionId=dcb19887-c2ac-40ff-94fa-4f9c8692f754
+#EXTINF:-1 tvg-name="WMFD (Mansfield - Ohio)" tvg-id="" tvg-logo="https://i.imgur.com/4i7Ve3E.png" group-title="USA LOCAL",WMFD (Mansfield - Ohio)
+https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
+#EXTINF:-1 tvg-name="WPSU" tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/eqanuc.png" group-title="USA LOCAL",WPSU PBS (Penn State - Pennsylvania)
+https://bozztv.com/teleyupp/lnABbIUBrO/index.m3u8
+#EXTINF:-1 tvg-name="WSVI TV - Virgin Islands USA" tvg-id="" tvg-logo="https://i.imgur.com/SlS8xic.png" group-title="USA LOCAL",WSVI TV - Virgin Islands USA
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+#EXTINF:-1 tvg-name="WSVN FOX 7 (Florida)" tvg-id="" tvg-logo="https://i.imgur.com/zQlK5ux.png" group-title="USA LOCAL",WSVN FOX 7 (Florida)
+https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8

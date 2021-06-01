@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** LITHUANIA  - github.com/Free-IPTV" group-title="LITHUANIA" tvg-logo="https://i.imgur.com/t9dFrZw.png",*** LITHUANIA  - github.com/Free-IPTV
+https://
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="LITHUANIA",LRT
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
