@@ -3,6 +3,8 @@
 
 The public repo is no longer updated but we have our successful private repo for that ;-)
 
+07. July 2021:  With today's updates now we have 5130 FREE and LEGAL streams you can use WITHOUT VPN. ;-)
+
 24 June 2021: With today's updates we have now reached the 5000, we now have 5008 streams, YEAH!
 
 22 June 2021: The stream Press TV (sized by USA) is dead. More you can see and read here:
