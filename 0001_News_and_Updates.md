@@ -3,6 +3,28 @@
 
 The public repo is no longer updated but we have our successful private repo for that ;-)
 
+09. July 2021:
+
+For information times the updates to Friday in our private repo!
+
+With the changes today now we have 5146 FREE and LEGAL streams.
+
+DE05_SG_TV_PLUS
+- Added Samsung TV+: Deutsches Kino, Romance , Thriller
+
+ES01_SPAIN
+FR01_FRANCE
+IT01_ITALY
+- Added Samsung TV+: Romance, Thriller 
+
+DK01_DENMARK
+- Added Samsung TV+: Gratis Topp Filmer
+
+UK01_UNITED_KINGDOM
+- Added Samsung TV+: British Films, Romance, Thriller 
+
+Have a good weekend. :-)
+
 07. July 2021:  With today's updates now we have 5130 FREE and LEGAL streams you can use WITHOUT VPN. ;-)
 
 24 June 2021: With today's updates we have now reached the 5000, we now have 5008 streams, YEAH!
