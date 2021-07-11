@@ -3,6 +3,16 @@
 
 The public repo is no longer updated but we have our successful private repo for that ;-)
 
+11-July 2021: Important changes in all files, it is not an update of the streams!
+
+Some well-known island monkeys think they are so clever. Now the laughter is on my side again. The IPTV-Merge add-on from the idiot MH now works again with all m3u's. A warm greeting to the idiot MH Haha.... "Never going to give you up"... to change your code and harm the users of FREE-IPTV.... Haha... 
+
+Here is the thread of the intellectual lowlifes:
+
+https://forums.whirlpool.net.au/thread/3m0107l6
+
+Have a good sunday! Haha...
+
 09. July 2021:
 
 For information times the updates to Friday in our private repo!
