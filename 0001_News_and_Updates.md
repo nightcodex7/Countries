@@ -3,6 +3,44 @@
 
 The public repo is no longer updated but we have our successful private repo for that ;-)
 
+12. July 2021 - Updates in private Repo and news from some monkeys.
+
+With the changes today we have 5161 streams in the private repo. :-)
+
+TR01_TURKEY
+- Update stream address: TRT 1
+
+US01_USA
+- Added: Fite 24/7, Frankly TV, Nashville Country TV, Racing Central TV, Red Scarlet TV, Travel & Food, Winnies World
+
+Haha... and if you give the monkeys sugar...
+
+I had a great time over coffee this morning to read the new postings. Thank you for the funny postings, envy and resentment flow out.... Haha.
+
+https://forums.whirlpool.net.au/thread/3m0107l6?p=2
+
+And for idiot MH! I don´t copy, i find the streams self with an Samsung TV of a friend and with tools to find subdomains!!!! In your m3u's are ONLY the crappy URL's from amazonaws.com in it, which have constantly dropouts! I have the streams from wurl and amagi, they run clean! Why is:
+
+-TOP FILM DE
+-KINO DE
+-DEUTSCHES KINO DE
+-ROMANCE DE 
+
+and some others not in your lists??? Why are they NOT in your lists, you are supposed to be so good! They have been in our m3´s for a longer time! Haha...
+
+2 Examples, Subdomains and the correct stream address (DK and DE):
+
+Subdomain;rakuten-gratis-topfilm-1-eu.rakuten.wurl.tv
+Correct stream: https://rakuten-gratis-topfilm-1-eu.rakuten.wurl.tv/playlist.m3u8
+Subdomain: travelxp-travelxp-2-de.samsung.wurl.com
+Correct stream: https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8
+
+and so on. It is similar with Amagi.TV! So... fuck you and don't talk that bullshit about copy your stocking streams from amazonaws.com!
+
+Just stop posting lies about our repo, in the long run you are ONLY hurting yourself! And... Never going to give you up... Haha... 
+
+Have a good week
+
 11-July 2021: Important changes in all files, it is not an update of the streams!
 
 Some well-known island monkeys think they are so clever. Now the laughter is on my side again. The IPTV-Merge add-on from the idiot MH now works again with all m3u's. A warm greeting to the idiot MH Haha.... "Never going to give you up"... to change your code and harm the users of FREE-IPTV.... Haha... 
