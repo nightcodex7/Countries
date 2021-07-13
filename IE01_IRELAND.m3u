@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** IRELAND - github.com/Food4Monkeys" tvg-logo="https://i.imgur.com/IF4p2pM.png" group-title="IRELAND",*** IRELAND - github.com/Food4Monkeys
-https://raw.githubusercontent.com/Food4Monkeys/Nevergoingtogiveyouup_MH/master/Fuck_You_MH.mp4
+#EXTINF:-1 tvg-name="*** IRELAND - github.com/Raspifan2020" tvg-logo="https://i.imgur.com/IF4p2pM.png" group-title="IRELAND",*** IRELAND - github.com/Raspifan2020
+https://raw.githubusercontent.com/Raspifan2020/Inselaffen//master/Fuck_You_MH.mp4
 #EXTINF:-1 tvg-name="RTE News Now" tvg-id="RTENewsNow.ie" group-title="IRELAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtenewsnow.png",RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1  tvg-name="TG4 IE" tvg-id="" tvg-logo="https://i.imgur.com/TT9kAEp.png" group-title="IRELAND",TG4 IE

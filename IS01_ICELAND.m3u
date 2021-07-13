@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** ICELAND - github.com/Food4Monkeys" tvg-logo="https://i.imgur.com/4DcfPZp.png" group-title="ICELAND",*** ICELAND - github.com/Food4Monkeys
-https://raw.githubusercontent.com/Food4Monkeys/Nevergoingtogiveyouup_MH/master/Fuck_You_MH.mp4
+#EXTINF:-1 tvg-name="*** ICELAND - github.com/Raspifan2020" tvg-logo="https://i.imgur.com/4DcfPZp.png" group-title="ICELAND",*** ICELAND - github.com/Raspifan2020
+https://raw.githubusercontent.com/Raspifan2020/Inselaffen//master/Fuck_You_MH.mp4
 #EXTINF:-1 tvg-name="KVF Faroe Island" tvg-id="KVF Faroe Island" tvg-logo="" group-title="ICELAND",KVF Faroe Island
 https://w2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w587901821_b772000_slfao.m3u8
-#EXTINF:-1 tvg-name="N4" tvg-id="N4 - github.com/Food4Monkeys" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="ICELAND",N4 - github.com/Food4Monkeys
+#EXTINF:-1 tvg-name="N4" tvg-id="N4 - github.com/Raspifan2020" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="ICELAND",N4 - github.com/Raspifan2020
 https://live.tv.c.is/n4/index.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** BELGIUM - github.com/Food4Monkeys" tvg-logo="https://i.imgur.com/51uhUUT.png" group-title="BELGIUM",*** BELGIUM - github.com/Food4Monkeys
-https://raw.githubusercontent.com/Food4Monkeys/Nevergoingtogiveyouup_MH/master/Fuck_You_MH.mp4
+#EXTINF:-1 tvg-name="*** BELGIUM - github.com/Raspifan2020" tvg-logo="https://i.imgur.com/51uhUUT.png" group-title="BELGIUM",*** BELGIUM - github.com/Raspifan2020
+https://raw.githubusercontent.com/Raspifan2020/Inselaffen//master/Fuck_You_MH.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A T V" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="BELGIUM",A T V
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-id="BEL Radio PROS (Webradio)" tvg-name="BEL Radio PROS" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c8/01/37519/1/c175.png" group-title="BELGIUM",BEL Radio PROS (Webradio)
@@ -47,7 +47,7 @@ http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
 #EXTINF:-1 tvg-id="RTL TVI" tvg-name="RTL TVI" tvg-logo="https://i.imgur.com/yjtxdmh.png" group-title="BELGIUM",RTL TVI
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Oost - github.com/Food4Monkeys" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="BELGIUM",TV Oost - github.com/Food4Monkeys
+#EXTINF:-1 tvg-id="" tvg-name="TV Oost - github.com/Raspifan2020" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="BELGIUM",TV Oost - github.com/Raspifan2020
 http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVL" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" group-title="BELGIUM",TVL
 https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8

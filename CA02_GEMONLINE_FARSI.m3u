@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** GEM ONLINE - github.com/Food4Monkeys" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="GEM ONLINE",*** GEM ONLINE - github.com/Food4Monkeys
-https://raw.githubusercontent.com/Food4Monkeys/Nevergoingtogiveyouup_MH/master/Fuck_You_MH.mp4
+#EXTINF:-1 tvg-name="*** GEM ONLINE - github.com/Raspifan2020" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="GEM ONLINE",*** GEM ONLINE - github.com/Raspifan2020
+https://raw.githubusercontent.com/Raspifan2020/Inselaffen//master/Fuck_You_MH.mp4
 #EXTINF:-1 tvg-name="GEM 24B" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM Academy" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Academy
@@ -37,7 +37,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM Nature" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Nature
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist.m3u8
-#EXTINF:-1 tvg-name="GEM Onyx - github.com/Food4Monkeys" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Onyx - github.com/Food4Monkeys
+#EXTINF:-1 tvg-name="GEM Onyx - github.com/Raspifan2020" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Onyx - github.com/Raspifan2020
 https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM Property" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Property
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist.m3u8
