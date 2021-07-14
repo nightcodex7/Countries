@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** BULGARIA - github.com/Raspifan2020" tvg-logo="https://i.imgur.com/nCmtGS8.png" group-title="BULGARIA",*** BULGARIA - github.com/Raspifan2020
-https://raw.githubusercontent.com/Raspifan2020/Inselaffen//master/Fuck_You_MH.mp4
+#EXTINF:-1 tvg-name="*** BULGARIA - bit.ly/3eeynA4" tvg-logo="https://i.imgur.com/nCmtGS8.png" group-title="BULGARIA",*** BULGARIA - bit.ly/3eeynA4
+https://cutt.ly/omDl2kB
 #EXTINF:-1 tvg-id="" tvg-name="100% Auto Moto TV" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="BULGARIA",100% Auto Moto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTK" tvg-logo="https://i.imgur.com/5Sl6bKi.png" group-title="BULGARIA",BTK
@@ -19,7 +19,7 @@ http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 https://streamer103.neterra.tv/mmtv/mmtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="This is Bulgaria" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" group-title="BULGARIA",This is Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/community.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel TV - github.com/Raspifan2020" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" group-title="BULGARIA",Travel TV - github.com/Raspifan2020
+#EXTINF:-1 tvg-id="" tvg-name="Travel TV - bit.ly/3eeynA4" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" group-title="BULGARIA",Travel TV - bit.ly/3eeynA4
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://i.imgur.com/W074hkS.jpg" group-title="BULGARIA",TV+ 
 http://141.136.14.18/kanal1/kanal1.m3u8

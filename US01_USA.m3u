@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** USA - github.com/Raspifan2020" group-title="USA" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA - github.com/Raspifan2020
-https://raw.githubusercontent.com/Raspifan2020/Inselaffen//master/Fuck_You_MH.mp4
+#EXTINF:-1 tvg-name="*** USA - bit.ly/3eeynA4" group-title="USA" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA - bit.ly/3eeynA4
+https://cutt.ly/omDl2kB
 #EXTINF:-1 tvg-id="" tvg-name="30A TV" tvg-logo="https://i.imgur.com/SHEJFbx.png" group-title="USA",30A TV
 https://30a-tv.com/my999.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="30A TV MUSIC" tvg-logo="https://i.imgur.com/SHEJFbx.png" group-title="USA",30A TV MUSIC
@@ -77,7 +77,7 @@ https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classic Movies Channel" tvg-logo="https://i.imgur.com/pltVS6t.png" group-title="USA" ,Classic Movies Channel
 https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CMC-USA - github.com/Raspifan2020" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC-USA - github.com/Raspifan2020
+#EXTINF:-1 tvg-id="" tvg-name="CMC-USA - bit.ly/3eeynA4" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC-USA - bit.ly/3eeynA4
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/20iOLCX.png" group-title="USA",CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
@@ -189,7 +189,7 @@ https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
 https://mavtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="USA",MMA Junkie (Distro TV)
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5F3CgdU.png" group-title="USA",Mo Laughter TV - github.com/Raspifan2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5F3CgdU.png" group-title="USA",Mo Laughter TV - bit.ly/3eeynA4
 https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Lwzdz8U.png" group-title="USA",Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
@@ -293,7 +293,7 @@ https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8
 http://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-name="Smart Lifestyle TV" tvg-id="Smart Lifestyle TV" group-title="USA" tvg-logo="https://i.imgur.com/UyIkHU3.png",Smart Lifestyle TV
 https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:-1 tvg-name="Sports Grid - github.com/Raspifan2020" tvg-id="" group-title="USA" tvg-logo="https://i.imgur.com/T2Opptd.jpg",Sports Grid - github.com/Raspifan2020
+#EXTINF:-1 tvg-name="Sports Grid - bit.ly/3eeynA4" tvg-id="" group-title="USA" tvg-logo="https://i.imgur.com/T2Opptd.jpg",Sports Grid - bit.ly/3eeynA4
 https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sports TV Plus" tvg-id="" group-title="USA" tvg-logo="https://i.imgur.com/ZgFhOZ8.png",Sports TV Plus
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
@@ -345,7 +345,7 @@ https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8
 https://dcunilive262-lh.akamaihd.net/i/dclive_1@303126/index_150_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/tvw.jpg" group-title="USA",TVW
 https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TYT - github.com/Raspifan2020" tvg-logo="https://i.imgur.com/mTd5yQ0.png" group-title="USA",TYT - github.com/Raspifan2020
+#EXTINF:-1 tvg-id="" tvg-name="TYT - bit.ly/3eeynA4" tvg-logo="https://i.imgur.com/mTd5yQ0.png" group-title="USA",TYT - bit.ly/3eeynA4
 https://tyt-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="UN Web TV" tvg-id="UN Web TV" group-title="USA" tvg-logo="https://i.imgur.com/lPyJhBN.png",UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
