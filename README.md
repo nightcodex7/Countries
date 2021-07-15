@@ -18,6 +18,7 @@ If we find a way and I accept it, the following happens:
 1. The private repo is deleted
 2. All m3u's we have with the newest and latest streams will go back into the public repo!
 3. Anything posted by Free-IPTV regarding the smear campaign here or in other media will be deleted by us!
+4. Free-IPTV also publicly apologises
 
 There will be new and simple rules, whoever simply copies and pastes our work as before and does not mention Free-IPTV as a source will be put on the 01_Blacklist.md and will also be mentioned on Twitter and the WP-Blog of Free-IPTV. 
 
