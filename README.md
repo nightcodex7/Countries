@@ -1,70 +1,27 @@
 # Countries
-Free IPTV with legally receivable TV channels for Kodi, VLC or other media players as .m3u for Kodi. :-)
+Free IPTV with legally receivable TV channels for Kodi, VLC or other media players as .m3u for Kodi. :-) The idea and the launch of the repo started at the end of 2019. From the beginning, it was written on the flag to provide ONLY LEGAL streams for everyone. You don't need a VPN, everything in the m3u's should be available everywhere.
 
-# FREE SHIT ALSO AVAILABLE!
+# Soon there will be another change!
 
-With so many issues because of the new closed repo, so many people are so poor that they can't even donate, we decided to make free shit available in the old free repo for everyone.  
+Whether there will be this change now depends on the further behaviour of some people:
 
-Free shit, no updates, as of March 2021. 
+https://forums.whirlpool.net.au/thread/3m0107l6?p=2
 
-All m3us and also the latest m3u's with the daily updates are ONLY available in the NEW CLOSED REPO. 
+Just as Mr Huisman demands something to change, I make the following demand!
 
-# IMPORTANT CHANGES!
+1. Mr Huisman IMMEDIATELY ENDS HIS HUNTING CAMPAIGN
+2. Mr Huisman publicly apologises to Free-IPTV because many of his claims have NOT been true for some time
+3. Likewise, the sheeps, lemmings and other hangers-on end the hate campaign against Free-IPTV
 
-Thanks to a few people, both here at Github and on other websites on the Internet, there is an important change here!
+If we find a way and I accept it, the following happens:
 
-We look for the streams, find new streams. Create the entries for the m3u's. We look for the right logos and integrate them into the m3u. That’s all a lot of work. Others who are too lazy to work just take our m3u's and copy our work and then present it as their best work. Something like that is a NoGo!
+1. The private repo is deleted
+2. All m3u's we have with the newest and latest streams will go back into the public repo!
+3. Anything posted by Free-IPTV regarding the smear campaign here or in other media will be deleted by us!
 
-NOW THAT'S THE END WITH THIS CLAWING IN FREE-IPTV/COUNTRIES!
+There will be new and simple rules, whoever simply copies and pastes our work as before and does not mention Free-IPTV as a source will be put on the 01_Blacklist.md and will also be mentioned on Twitter and the WP-Blog of Free-IPTV. 
 
-Of course, the honest users, the genuine users of our m3u's, will have no disadvantages because of certain idiots!
+What comes now, let's wait and see what the reaction is. I hope that sanity and reason will prevail. A hate campaign should rather be made against the ILLEGAL PROVIDERS but not against Free-IPTV.
 
-# ALSO IMPORTANT INFORMATION!
+**We now have over 5000 free and legal streams, no rights are violated, there are no violations of existing laws. This should be supported and not boycotted with stupid actions.**
 
-10. April 2021: Since a guy from New Zealand has apparently started a hate campaign against me here at Github, I don't feel like it anymore!
-
-https://github.com/linuxmint/hypnotix/issues/124#issuecomment-817116183
-
-11. April: Next one,  hate campaign against me here at Github:
-
-https://github.com/linuxmint/hypnotix/issues/124#issuecomment-817215089
-
-You are welcome to thank these 2 above!
-
-# 17. April 2021: Furthermore, IPTVMATE.NET also uses our work WITHOUT SOURCE INFORMATION! 
-
-While this idiot also now no longer has access to our private repo, he does use the m3u's we last posted here. He only took the trouble to replace tvg-logo= this time!  
-
-This guy and also so some others are the reason why there is NO public repo anymore! This asshole copied the complete m3u's incl. file names to make a name for himself. The source WITH LINK to our repo is missing.
-
-You are welcome to thank him!
-
-iptvmate.net
-
-# CURRENTLY THE ISSUES ARE CLOSED! JUST LOOK AGAIN IN A FEW DAYS
-
-# IF YOU WANT TO ACCESS OUR NEW PRIVATE REPO, PLEASE READ THE FOLLOWING CAREFULLY
-
-# NO INQUIRY PLEASE, IF YOUR ACCOUNT HAS RECENTLY CREATED! I'M SORRY, there is no other way at the moment.
-
-# THE FOLLOWING RULES MUST BE OBSERVED (Free repo and private repo!):
-
-1. CREATE A FORK FOR FUN IS NOT ALLOWED
-2. DO YOU WANT TO CREATE A FORK; PLEASE DISCUSS US BEFORE VIA ISSUE
-3. A FORK MAY ONLY BE CREATED, IF THEN THERE ALSO COMES A PULL REQUEST
-4. ALL M3Us ARE INTENDED FOR PRIVATE USE ONLY
-5. IT IS NOT ALLOWED TO SEND ME ILLGEGAL STREAMS VIA PULL REQUEST OR POST HERE IN MY REPO
-6. USE FOR COMMERCIAL PURPOSES IS NOT PERMITTED
-7. DISTRIBUTING OR POSTING OUR M3U´s AT GITHUB, FORUMS, HOMEPAGES OR IN SOCIAL NETWORKS IS NOT PERMITTED
-8. WHO BREACHES THESE RULES, FLY OUT OF HERE IMMEDIATELY
-9. USERS WHO HAVE RECENTLY CREATED AN ACCOUNT, CANNOT GET ACCESS YET, I'M SORRY
-10. IF YOU DON´T WANT TO DONATE ANYTHING AS AN APPRECATION OT OUR WORK, MOVE ON!
-11. USERS WHO ARE NOT ABLE TO READ AND UNDERSTAND POINTS 1 to 11 CORRECTLY DO NOT GET ACCESS!
-
-# PLEASE make a new ISSUE and don´t write in existing ISSUE. 
-
-If you agree with these rules and adhere to them, you can contact us via "[Issues](https://github.com/Free-IPTV/Countries/issues)". 
-
-Thank you :-)
-
-**The streams are free, access to new repo is free. It is over with public repo and also with this constant stealing of our work! From now on our daily work in the new private repo is worth something again!**
