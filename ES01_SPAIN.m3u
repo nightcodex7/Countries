@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml" url-tvg="https://www.tdtchannels.com/epg/TV.xml" refresh="3600"
-#EXTINF:-1 tvg-name="*** SPAIN - github.com/Food4Monkeys" tvg-logo="https://i.imgur.com/acuIUpD.png" group-title="SPAIN",*** SPAIN - github.com/Food4Monkeys
-https://raw.githubusercontent.com/Food4Monkeys/Nevergoingtogiveyouup_MH/master/Fuck_You_MH.mp4
+#EXTINF:-1 tvg-name="*** SPAIN - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/acuIUpD.png" group-title="SPAIN",*** SPAIN - F R E E - I P T V @Github.com
+https://cutt.ly/omG1nwS
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24 Horas" tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="SPAIN",24 Horas
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-name="25 TV" tvg-id="" tvg-logo="https://i.imgur.com/sADbx7S.png" group-title="SPAIN",25 TV
@@ -41,7 +41,7 @@ http://149.202.68.178:1935/live/peprecasens/manifest.m3u8
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 56" tvg-id="" tvg-logo="https://i.imgur.com/FYIM7SD.png" group-title="SPAIN",Canal 56
 https://videos.canal56.com/directe/stream/index.m3u8
-#EXTINF:-1 tvg-name="Canal Coín - github.com/Food4Monkeys" tvg-logo="https://i.imgur.com/BIAYhBp.jpg" group-title="SPAIN",Canal Coín - github.com/Food4Monkeys
+#EXTINF:-1 tvg-name="Canal Coín - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/BIAYhBp.jpg" group-title="SPAIN",Canal Coín - F R E E - I P T V @Github.com
 http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8
 #EXTINF:-1 tvg-id="Extremadura.TV" tvg-name="Canal Extremadura" tvg-id="" tvg-logo="https://i.imgur.com/9Q7qPSf.png" group-title="SPAIN",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
@@ -83,7 +83,7 @@ https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 https://ce2019100818001.dnssw.net/hls/ceres.m3u8
 #EXTINF:-1 tvg-name="Córdoba TV" tvg-logo="https://i.imgur.com/XwRd7Nb.png" group-title="SPAIN",Córdoba TV
 https://5b38ce71f1f00.streamlock.net/8376/8376/master.m3u8
-#EXTINF:-1 tvg-name="Diez TV - github.com/Food4Monkeys" tvg-logo="https://i.imgur.com/5KXkBbs.jpg" group-title="SPAIN",Diez TV - github.com/Food4Monkeys
+#EXTINF:-1 tvg-name="Diez TV - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/5KXkBbs.jpg" group-title="SPAIN",Diez TV - F R E E - I P T V @Github.com
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 #EXTINF:-1 tvg-name="El Sembrador TV Europa" tvg-logo="https://i.imgur.com/APhSi1Y.jpg" group-title="SPAIN",El Sembrador TV Europa
 https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8
@@ -157,7 +157,7 @@ https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MMA TV" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="SPAIN",MMA TV
 https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Mola TV - github.com/Food4Monkeys" tvg-id="" tvg-logo="https://i.imgur.com/NEHrmYr.png" group-title="SPAIN",Mola TV - github.com/Food4Monkeys
+#EXTINF:-1 tvg-name="Mola TV - F R E E - I P T V @Github.com" tvg-id="" tvg-logo="https://i.imgur.com/NEHrmYr.png" group-title="SPAIN",Mola TV - F R E E - I P T V @Github.com
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Moods" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" group-title="SPAIN",Moods
 https://alchimie-moods-4-es.samsung.wurl.com/manifest/playlist.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** TAIWAN - github.com/Food4Monkeys" group-title="TAIWAN" tvg-logo="https://i.imgur.com/KXcPGuA.png",*** TAIWAN - github.com/Food4Monkeys
-https://raw.githubusercontent.com/Food4Monkeys/Nevergoingtogiveyouup_MH/master/Fuck_You_MH.mp4
+#EXTINF:-1 tvg-name="*** TAIWAN - F R E E - I P T V @Github.com" group-title="TAIWAN" tvg-logo="https://i.imgur.com/KXcPGuA.png",*** TAIWAN - F R E E - I P T V @Github.com
+https://cutt.ly/omG1nwS
 #EXTINF:-1 tvg-id="" tvg-name="CTS" tvg-logo="https://i.imgur.com/VMLLsWs.jpg" group-title="TAIWAN",CTS
 plugin://plugin.video.youtube/play/?video_id=PQLMD4iHhG8
 #EXTINF:-1 tvg-id="" tvg-name="CTV News " tvg-logo="https://i.imgur.com/NKFqN5z.png" group-title="TAIWAN",CTV News 
@@ -17,7 +17,7 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Legislative Yuan" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="TAIWAN",Legislative Yuan
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Set News - github.com/Food4Monkeys" tvg-logo="https://i.imgur.com/d5s3EwA.png" group-title="TAIWAN",Set News - github.com/Food4Monkeys
+#EXTINF:-1 tvg-id="" tvg-name="Set News - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/d5s3EwA.png" group-title="TAIWAN",Set News - F R E E - I P T V @Github.com
 plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
 #EXTINF:-1 tvg-id="" tvg-name="TTV NEWS" tvg-logo="https://cdn.teleon.tv/logo/ttv-news-tw.png" group-title="TAIWAN",TTV NEWS
 plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
