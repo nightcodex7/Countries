@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** KOREA - bit.ly/3eeynA4" group-title="KOREA" tvg-logo="https://i.imgur.com/3lx0R7g.png",*** KOREA - bit.ly/3eeynA4
-https://cutt.ly/omDl2kB
+#EXTINF:-1 tvg-name="*** KOREA - F R E E - I P T V @Github.com" group-title="KOREA" tvg-logo="https://i.imgur.com/3lx0R7g.png",*** KOREA - F R E E - I P T V @Github.com
+https://cutt.ly/omG1nwS
 #EXTINF:-1 tvg-name="KCTV - Nordkorea" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/aYmkkM2.png",KCTV - Nordkorea
 plugin://plugin.video.youtube/play/?video_id=wSGVaSDgkdY
 #EXTINF:-1 tvg-name="All the K-Pop" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/tJ8GRqi.png",All the K-Pop
@@ -13,7 +13,7 @@ http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
 #EXTINF:-1 tvg-name="EBS 2" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/7K7zmoE.png",EBS 2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS e - bit.ly/3eeynA4" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/7K7zmoE.png",EBS e - bit.ly/3eeynA4
+#EXTINF:-1 tvg-name="EBS e - F R E E - I P T V @Github.com" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/7K7zmoE.png",EBS e - F R E E - I P T V @Github.com
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS Kids" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/7K7zmoE.png",EBS Kids
 rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k
