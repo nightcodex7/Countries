@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** ALBANIA - gitlab.com/free-iptv" tvg-logo="https://i.imgur.com/gWTuVrE.png" group-title="ALBANIA",*** ALBANIA - gitlab.com/free-iptv
+#EXTINF:-1 tvg-name="*** ALBANIA - github.com/free-iptv" tvg-logo="https://i.imgur.com/gWTuVrE.png" group-title="ALBANIA",*** ALBANIA - github.com/free-iptv
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="21 Macedonia" tvg-id="" tvg-logo="https://i.imgur.com/5793gRM.png" group-title="ALBANIA",21 Macedonia
 http://us.bestvideostreaming.is/8748/playlist.m3u8

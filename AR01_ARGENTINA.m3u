@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** ARGENTINA - gitlab.com/free-iptv" group-title="ARGENTINA" tvg-logo="https://i.imgur.com/B7vessg.png",*** ARGENTINA - gitlab.com/free-iptv
+#EXTINF:-1 tvg-name="*** ARGENTINA - github.com/free-iptv" group-title="ARGENTINA" tvg-logo="https://i.imgur.com/B7vessg.png",*** ARGENTINA - github.com/free-iptv
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="5RTv" tvg-id="" tvg-logo="https://i.imgur.com/q9Y21R9.jpg" group-title="ARGENTINA",5RTv
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8

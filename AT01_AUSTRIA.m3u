@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** AUSTRIA - gitlab.com/free-iptv" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/RqwwAU5.png",*** AUSTRIA - gitlab.com/free-iptv
+#EXTINF:-1 tvg-name="*** AUSTRIA - github.com/free-iptv" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/RqwwAU5.png",*** AUSTRIA - github.com/free-iptv
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Antenne Vorarlberg (Webradio)" tvg-id="" tvg-logo="https://i.imgur.com/TpBbZwq.png" group-title="AUSTRIA",Antenne Vorarlberg (Webradio)
 https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
@@ -45,7 +45,7 @@ https://travelxp-travelxp-2-at.samsung.wurl.com/manifest/playlist.m3u8
 http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
 #EXTINF:-1 tvg-name="W24 TV" tvg-id="w24.at" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/xZ0lI0U.png",W24 TV
 https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w89103916_b2176000_slger.m3u8
-#EXTINF:-1 tvg-name="*** RK AUSTRIA - gitlab.com/free-iptv" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/7krfGOy.jpg",*** RK AUSTRIA - gitlab.com/free-iptv
+#EXTINF:-1 tvg-name="*** RK AUSTRIA - github.com/free-iptv" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/7krfGOy.jpg",*** RK AUSTRIA - github.com/free-iptv
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Action Movies - AT" tvg-id="" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="AUSTRIA",Action Movies - AT
 https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
