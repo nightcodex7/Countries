@@ -26,3 +26,10 @@ What comes now, let's wait and see what the reaction is. I hope that sanity and 
 
 **We now have over 5000 free and legal streams, no rights are violated, there are no violations of existing laws. This should be supported and not boycotted with stupid actions.**
 
+Friday, 16 July 2021: There are always a few people who think they can continue to spread lies about Free-ITV. I offer a peaceful way and just wait for those who remain factual and think. In Germany there is a saying that goes "Der Klügere gibt nach". ;-) 
+
+https://forums.whirlpool.net.au/thread/3m0107l6?p=3
+
+Have a good weekend
+
+
