@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** CZECH REPUBLIC - github.com/free-iptv" tvg-logo="https://i.imgur.com/cRl8w0t.png" group-title="CZECH REPUBLIC",*** CZECH REPUBLIC - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="CT1" tvg-id="" tvg-logo="https://i.imgur.com/suBiJoD.png" group-title="CZECH REPUBLIC",CT1
+http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8
+#EXTINF:-1 tvg-name="Elektrika TV" tvg-id="" tvg-logo="https://i.imgur.com/rl09RVe.png" group-title="CZECH REPUBLIC",Elektrika TV
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="FashionTV Czech&Slovak" tvg-id="" tvg-logo="https://i.imgur.com/2sXdYxa.png" group-title="CZECH REPUBLIC",FashionTV Czech&Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Nova" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TV_Nova_logo_2017.png" group-title="CZECH REPUBLIC",Nova
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_xq.m3u8
+#EXTINF:-1 tvg-name="Nova Cinema" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" group-title="CZECH REPUBLIC",Nova Cinema
+https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_xq.m3u8
+#EXTINF:-1 tvg-name="Nova Action" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nova-action-logo-2017.png" group-title="CZECH REPUBLIC",Nova Action
+https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist/cze/live_xq.m3u8
+#EXTINF:-1 tvg-name="Nova 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Nova_2_logo-600x207.png" group-title="CZECH REPUBLIC",Nova 2
+https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist/cze/live_xq.m3u8
+#EXTINF:-1 tvg-name="Nova Gold" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" group-title="CZECH REPUBLIC",Nova Gold
+https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist/cze/live_xq.m3u8
+#EXTINF:-1 tvg-name="Polar TV" tvg-id="" tvg-logo="https://i.imgur.com/VrtBSPr.png" group-title="CZECH REPUBLIC",Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Praha TV" tvg-id="" tvg-logo="https://i.imgur.com/1PuqSsu.png" group-title="CZECH REPUBLIC",Praha TV
+https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Retro Music Television" tvg-id="" tvg-logo="https://i.imgur.com/csU5Kbg.png" group-title="CZECH REPUBLIC",Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-name="RTM plus" tvg-id="" tvg-logo="https://i.imgur.com/tt3A546.jpg" group-title="CZECH REPUBLIC",RTM plus
+http://www.rtmplus.cz/live/1-playlist.m3u8
+#EXTINF:-1 tvg-name="Vychodoceska TV" tvg-id="" tvg-logo="https://i.imgur.com/GCEfVy0.jpg" group-title="CZECH REPUBLIC",Vychodoceska TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ocko" tvg-id="" tvg-logo="https://i.imgur.com/QpOUInQ.png" group-title="CZECH REPUBLIC",Ocko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-name="Ocko Expres" tvg-id="" tvg-logo="https://i.imgur.com/yHMMTrz.png" group-title="CZECH REPUBLIC",Ocko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-name="Ocko Gold" tvg-id="" tvg-logo="https://i.imgur.com/g1uaYwu.jpg" group-title="CZECH REPUBLIC",Ocko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Ocko STAR" tvg-id="" tvg-logo="https://i.imgur.com/YgqgU3K.png" group-title="CZECH REPUBLIC",Ocko STAR
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-name="Slagr" tvg-id="" tvg-logo="https://i.imgur.com/XFSqmYS.png" group-title="CZECH REPUBLIC",Slagr
+https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-name="TV NOE" tvg-id="" tvg-logo="https://i.imgur.com/Dg9edVr.jpg" group-title="CZECH REPUBLIC",TV NOE
+https://w101.quickmedia.tv/prozeta-live04/_definst_/prozeta-live04.smil/Playlist.m3u8?id=mPl75tTRpFzGS2-03

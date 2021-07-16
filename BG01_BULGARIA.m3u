@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** BULGARIA - github.com/free-iptv" tvg-logo="https://i.imgur.com/nCmtGS8.png" group-title="BULGARIA",*** BULGARIA - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="100% Auto Moto TV" tvg-id="" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="BULGARIA",100% Auto Moto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-name="BTK" tvg-id="" tvg-logo="https://i.imgur.com/5Sl6bKi.png" group-title="BULGARIA",BTK
+http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bulgaria On Air" tvg-id="" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="BULGARIA",Bulgaria On Air
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Code Fashion TV" tvg-id="" tvg-logo="https://i.imgur.com/AIPOUZn.jpg" group-title="BULGARIA",Code Fashion TV
+https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1 tvg-name="Code Health TV" tvg-id="" tvg-logo="https://i.imgur.com/OJ2HlC4.png" group-title="BULGARIA",Code Health TV
+https://cdn3.invivo.bg/codehealth_test/index.m3u8
+#EXTINF:-1 tvg-name="Diema Sport" tvg-id="" tvg-logo="https://i.imgur.com/ipJyQMi.jpg" group-title="BULGARIA",Diema Sport
+http://94.236.145.205:8000/play/a00s
+#EXTINF:-1 tvg-name="Diema Sport 2" tvg-id="" tvg-logo="https://i.imgur.com/AzoswUy.jpg" group-title="BULGARIA",Diema Sport 2
+http://94.236.145.205:8000/play/a01b
+#EXTINF:-1 tvg-name="DSTV" tvg-id="" tvg-logo="https://i.imgur.com/2vRfj1D.png" group-title="BULGARIA",DSTV
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 tvg-name="Eurokom" tvg-id="" tvg-logo="https://i.imgur.com/ziU6NtW.png" group-title="BULGARIA",Eurokom
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 tvg-name="HomeOne TV" tvg-id="" tvg-logo="https://i.imgur.com/v0gJW1l.jpg" group-title="BULGARIA",HomeOne TV
+https://streamer104.neterra.tv/n1tv/n1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Light Channel" tvg-id="" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="BULGARIA",Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-name="MM TV" tvg-id="" tvg-logo="https://i.imgur.com/Fr1SYxZ.png" group-title="BULGARIA",MM TV
+https://streamer103.neterra.tv/mmtv/mmtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Nova News" tvg-id="" tvg-logo="https://i.imgur.com/F7B6pHf.jpg" group-title="BULGARIA",Nova News
+https://e109-ts.cdn.bg/ntv/fls/NNHD.stream/playlist.m3u8?at=2b9c5997fb03eae680842243f5cd64c5
+#EXTINF:-1 tvg-name="Nova TV" tvg-id="" tvg-logo="https://i.imgur.com/nCqYfVQ.png" group-title="BULGARIA",Nova TV
+https://e6-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/playlist.m3u8?at=2b9c5997fb03eae680842243f5cd64c5
+#EXTINF:-1 tvg-name="This is Bulgaria" tvg-id="" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" group-title="BULGARIA",This is Bulgaria
+https://streamer103.neterra.tv/thisisbulgaria/community.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Tiankov Folk" tvg-id="" tvg-logo="https://i.imgur.com/QwB9XMA.png" group-title="BULGARIA",Tiankov Folk
+https://streamer104.neterra.tv/tiankov/tiankov-folk.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel TV" tvg-id="" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" group-title="BULGARIA",Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TV+" tvg-id="" tvg-logo="https://i.imgur.com/W074hkS.jpg" group-title="BULGARIA",TV+ 
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:-1 tvg-name="Vibee TV" tvg-id="" tvg-logo="https://i.imgur.com/aNoxdla.png" group-title="BULGARIA",Vibee TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-name="Wness TV" tvg-id="" tvg-logo="https://i.imgur.com/n0YJN6v.png" group-title="BULGARIA",Wness TV
+https://wness103.neterra.tv/wness/wness.smil/playlist.m3u8
