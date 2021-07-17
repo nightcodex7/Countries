@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** ICELAND - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/4DcfPZp.png" group-title="ICELAND",*** ICELAND - F R E E - I P T V @Github.com
-https://cutt.ly/omG1nwS
-#EXTINF:-1 tvg-name="KVF Faroe Island" tvg-id="KVF Faroe Island" tvg-logo="" group-title="ICELAND",KVF Faroe Island
-https://w2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w587901821_b772000_slfao.m3u8
-#EXTINF:-1 tvg-name="N4" tvg-id="N4 - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="ICELAND",N4 - F R E E - I P T V @Github.com
+#EXTINF:-1 tvg-name="*** ICELAND - github.com/free-iptv" tvg-logo="https://i.imgur.com/4DcfPZp.png" group-title="ICELAND",*** ICELAND - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="KVF Faroe Island" tvg-id="KVF Faroe Island" tvg-logo="https://i.imgur.com/7p5ew4e.jpg" group-title="ICELAND",KVF Faroe Island
+https://w2.kringvarp.fo/uttanlands/480/manifest.m3u8
+#EXTINF:-1 tvg-name="N4" tvg-id="N4" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="ICELAND",N4
 https://live.tv.c.is/n4/index.m3u8
+#EXTINF:-1 tvg-name="RÚV Islandia" tvg-id="" tvg-logo="https://i.imgur.com/DJXUDEa.png" group-title="ICELAND",RÚV Islandia
+https://ruvruverl-live-hls.secure.footprint.net/24beacf6e543ecd6f62c8dc98b1827650c5507f8-1/ruv/ruv2erl/index/stream1.m3u8

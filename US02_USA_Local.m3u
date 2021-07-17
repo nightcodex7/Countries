@@ -1,6 +1,148 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="***USA Local TV - F R E E - I P T V @Github.com" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA Local TV - F R E E - I P T V @Github.com
-https://cutt.ly/omG1nwS
+#EXTINF:-1 tvg-name="***USA Local TV - github.com/free-iptv" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA Local TV - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="7News - Boston" tvg-id="" tvg-logo="https://i.imgur.com/5MfhbGP.png" group-title="USA LOCAL",7News - Boston
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 tvg-name="Akaku 53 (Hawaii)" tvg-id="" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" group-title="USA LOCAL",Akaku 53 (Hawaii)
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 tvg-name="Akaku 54 (Hawaii)" tvg-id="" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" group-title="USA LOCAL",Akaku 54 (Hawaii)
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1 tvg-name="Akaku 55 (Hawaii)" tvg-id="" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" group-title="USA LOCAL",Akaku 55 (Hawaii)
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:-1 tvg-name="Atlanta Channel" tvg-id="AtlantaChannel" tvg-logo="https://i.imgur.com/zVCz4rY.png" group-title="USA LOCAL",Atlanta Channel
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
+#EXTINF:-1 tvg-name="Beach TV - Panama City" tvg-id="Beach TV Panama City" tvg-logo="https://i.imgur.com/GaUcUCZ.png" group-title="USA LOCAL",Beach TV - Panama City
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-name="Beach TV - Florida - Alabama" tvg-id="Beach TV Florida" tvg-logo="https://i.imgur.com/qjzj4TJ.png" group-title="USA LOCAL",Beach TV - Florida - Alabama
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-name="Beach TV - Key West - Florida Keys" tvg-id="Beach TV Key West" tvg-logo="https://i.imgur.com/p2YKsil.png" group-title="USA LOCAL",Beach TV - Key West - Florida Keys
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 tvg-name="Beach TV - Myrtle Beach - Grand Strand" tvg-id="Beach TV Myrtle Beach" tvg-logo="https://i.imgur.com/LddMCWt.png" group-title="USA LOCAL",Beach TV - Myrtle Beach - Grand Strand
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-name="Bek Sports East" tvg-id="" tvg-logo="https://i.imgur.com/pDeshnR.png" group-title="USA LOCAL",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 tvg-name="Bek Sports West" tvg-id="" tvg-logo="https://i.imgur.com/pDeshnR.png" group-title="USA LOCAL",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-name="Buffalo TV" tvg-id="BuffaloTV" tvg-logo="https://i.imgur.com/f5ZtDhj.png" group-title="USA LOCAL",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 tvg-name="BUTV10 - Boston University" tvg-id="BUTV10" tvg-logo="https://i.imgur.com/7c523zt.jpg" group-title="USA LOCAL",BUTV10 - Boston University
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 tvg-name="Capital City Connection Montgomery" tvg-id="" tvg-logo="https://i.imgur.com/tmKtbf9.png" group-title="USA LOCAL",Capital City Connection Montgomery
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1 tvg-name="Captital OTB Betting" tvg-id="" tvg-logo="https://i.imgur.com/b7KMoEe.png" group-title="USA LOCAL",Captital OTB Betting
+https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+#EXTINF:-1 tvg-name="CCX Media - Minnesota" tvg-id="NWCT 12" tvg-logo="https://i.imgur.com/VqaF8Rd.png" group-title="USA LOCAL",CCX Media - Minnesota
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 tvg-name="CC TV" tvg-id="" tvg-logo="https://i.imgur.com/q5VXdIP.png" group-title="USA LOCAL",CC TV
+https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:-1 tvg-name="CGTV" tvg-id="" tvg-logo="https://i.imgur.com/6zzwmfK.jpg" group-title="USA LOCAL",CGTV
+https://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:-1 tvg-name="CT-N TV  - Conneticut" tvg-id="CT-N TV" tvg-logo="https://i.imgur.com/pb0TFQt.jpg" group-title="USA LOCAL",CT-N TV  - Conneticut
+http://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8
+#EXTINF:-1 tvg-name="CT-N TV Court Feed" tvg-id="" tvg-logo="https://i.imgur.com/pb0TFQt.jpg" group-title="USA LOCAL",CT-N TV Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-name="CTN" tvg-id="" tvg-logo="https://i.imgur.com/xODDqky.png" group-title="USA LOCAL",CTN
+http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
+#EXTINF:-1 tvg-name="Cozi 16 WZTS" tvg-id="" tvg-logo="https://i.imgur.com/6xlSsOY.png" group-title="USA LOCAL",Cozi 16 WZTS
+https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+#EXTINF:-1 tvg-name="CVTV Channel 23" tvg-id="CVTVChannel 23" tvg-logo="https://i.imgur.com/VFPid91.png" group-title="USA LOCAL",CVTV Channel 23
+https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/playlist.m3u8
+#EXTINF:-1 tvg-name="Darcizzle Offshore" tvg-id="Darcizzle Offshore" tvg-logo="https://i.imgur.com/l2O0fY1.png" group-title="USA LOCAL",Darcizzle Offshore
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 tvg-name="DC Council Channel" tvg-id="DC Council Channel" tvg-logo="https://i.imgur.com/ebCxZFw.png" group-title="USA LOCAL",DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 tvg-name="Denver 8 TV" tvg-id="Denver 8 TV" tvg-logo="https://i.imgur.com/I3P0v6r.png" group-title="USA LOCAL",Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 tvg-name="District of Columbia Network" tvg-id="" tvg-logo="https://i.imgur.com/CI8ZspR.png" group-title="USA LOCAL",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 tvg-name="EZWay Network" tvg-id="EZWAY US" tvg-logo="https://i.imgur.com/9IlPgqf.png" group-title="USA LOCAL",EZWay Network
+https://nimble.dashstreams.net/mytvtogo/ezwaytv007/playlist.m3u8
+#EXTINF:-1 tvg-name="Fairfax Ch. 16 - Virginia" tvg-id="Fairfax Ch. 16" tvg-logo="https://i.imgur.com/yP1nhl0.jpg" group-title="USA LOCAL",Fairfax Ch. 16 - Virginia
+https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="Florida - CC-TV" tvg-id="" tvg-logo="https://i.imgur.com/domgBtM.jpg" group-title="USA LOCAL",Florida - CC-TV
+http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/playlist.m3u8
+#EXTINF:-1 tvg-name="Florida - Gainesville Community" tvg-id="" tvg-logo="https://i.imgur.com/RbyebbH.jpg" group-title="USA LOCAL",Florida - Gainesville Community
+https://granicusliveus5-a.akamaihd.net/gainesville/G0152_003/playlist.m3u8
+#EXTINF:-1 tvg-name="Florida - Pinellas Park City" tvg-id="" tvg-logo="https://i.imgur.com/vVcDdtM.png" group-title="USA LOCAL",Florida - Pinellas Park City
+https://granicusliveus5-a.akamaihd.net/pinellaspark/G1564_002/playlist.m3u8
+#EXTINF:-1 tvg-name="Galveston County TV" tvg-id="" tvg-logo="https://i.imgur.com/mGIeNl2.png" group-title="USA LOCAL",Galveston County TV
+https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
+#EXTINF:-1 tvg-name="Glendale 11 - Arizona" tvg-id="" tvg-logo="https://i.imgur.com/TAGILVe.png" group-title="USA LOCAL",Glendale 11 - Arizona
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:-1 tvg-name="Globesville - New York" tvg-id="" tvg-logo="https://i.imgur.com/kQEk8bX.png" group-title="USA LOCAL",Globesville - New York
+https://live-h1.frontlayer.net/fl592468/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Greenbelt TV" tvg-id="greenbeltaccesstv.org" tvg-logo="https://i.imgur.com/uxUqIVT.png" group-title="USA LOCAL",Greenbelt TV
+https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+#EXTINF:-1 tvg-name="Greensboro TV Network" tvg-id="Greensboro TV" tvg-logo="https://i.imgur.com/fuf9HAz.png" group-title="USA LOCAL",Greensboro TV Network
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:-1 tvg-name="HTV 1 - Houston Television" tvg-id="htv1.us" tvg-logo="https://i.imgur.com/zvj1boM.jpg" group-title="USA LOCAL",HTV 1 - Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
+#EXTINF:-1 tvg-name="HTV 2 - Houston Television" tvg-id="htv1.us" tvg-logo="https://i.imgur.com/zvj1boM.jpg" group-title="USA LOCAL",HTV 2 - Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1 tvg-name="KEY TV" tvg-id="kbvr.com" tvg-id="" tvg-logo="https://i.imgur.com/96POFOB.png" group-title="USA LOCAL",KEY TV
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 tvg-name="KIRO 7 (Seattle) (news feed only)" tvg-id="" tvg-logo="https://i.imgur.com/os5b80c.jpg" group-title="USA LOCAL",KIRO 7 (Seattle) (news feed only)
+https://d3brkxnx500hx8.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10090_8e38113f-0933-4706-b0c6-ae96ab12921c_LE/124adea9-222d-43fc-b08c-a1b9d98a6326/0.m3u8
+#EXTINF:-1 tvg-name="KMTV CBS 3 (Omaha) (news feed only)" tvg-id="" tvg-logo="https://i.imgur.com/XgF6S22.png" group-title="USA LOCAL",KMTV CBS 3 (Omaha) (news feed only)
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 tvg-name="KNTV Channel 13" tvg-id="" tvg-logo="https://i.imgur.com/5jtCCzz.jpg" group-title="USA LOCAL",KNTV Channel 13
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
+#EXTINF:-1 tvg-name="KOFY-DT1" tvg-id="" tvg-logo="https://i.imgur.com/nEMsEQG.png" group-title="USA LOCAL",KOFY-DT1
+https://v-ca.mybtv.net/event/125/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2022-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
+#EXTINF:-1 tvg-name="KOMO 4 TV Seattle (news feed only)" tvg-id="" tvg-logo="https://i.imgur.com/g9qLJ2l.jpg" group-title="USA LOCAL",KOMO 4 TV Seattle (news feed only)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 tvg-name="KRCB-DT1" tvg-id="" tvg-logo="https://i.imgur.com/apxeR1Q.png" group-title="USA LOCAL",KRCB-DT1
+https://v-ca.mybtv.net/event/718/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2022-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
+#EXTINF:-1 tvg-name="KTLA 5" tvg-id="" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="USA LOCAL",KTLA 5 (Los Angeles)
+https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8
+#EXTINF:-1 tvg-name="KTLA 5 (2) (news feed only)" tvg-id="" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="USA LOCAL",KTLA 5 (2) (news feed only)
+https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
+#EXTINF:-1 tvg-name="KTVK-DT5" tvg-id="" tvg-logo="https://i.imgur.com/NfsHcO4.png" group-title="USA LOCAL",KTVK-DT5
+https://v-px.mybtv.net/event/725/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2022-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
+#EXTINF:-1 tvg-name="KVVB-TV 33" tvg-id="" tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="USA LOCAL",KVVB-TV 33
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-name="Lake Havasu City" tvg-id="" tvg-logo="https://i.imgur.com/gkybCIC.png" group-title="USA LOCAL",Lake Havasu City
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
+#EXTINF:-1 tvg-name="Leominster TV Educational" tvg-id="" tvg-logo="https://i.imgur.com/nEG2ZST.png" group-title="USA LOCAL",Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-name="Leominster TV Government" tvg-id="" tvg-logo="https://i.imgur.com/nEG2ZST.png" group-title="USA LOCAL",Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-name="Leominster TV Public" tvg-id="" tvg-logo="https://i.imgur.com/nEG2ZST.png" group-title="USA LOCAL",Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-name="Lex TV" tvg-id="" tvg-logo="https://i.imgur.com/4sPOhUN.jpg" group-title="USA LOCAL",Lex TV
+https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8
+#EXTINF:-1 tvg-name="LoveWorld USA" tvg-id="" tvg-logo="https://i.imgur.com/YnOZtNm.png" group-title="USA LOCAL",LoveWorld USA
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
+#EXTINF:-1 tvg-name="MCN6" tvg-id="Metro Cable" tvg-logo="https://i.imgur.com/KOgoXoG.png" group-title="USA LOCAL",MCN6
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+#EXTINF:-1 tvg-name="MCN6 Arts Channel" tvg-id="Metro Cable" tvg-logo="https://i.imgur.com/KOgoXoG.png" group-title="USA LOCAL",MCN6 Arts Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+#EXTINF:-1 tvg-name="MCN6 Music Channel" tvg-id="Metro Cable" tvg-logo="https://i.imgur.com/KOgoXoG.png" group-title="USA LOCAL",MCN6 Music Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#EXTINF:-1 tvg-name="Miami City TV" tvg-id="Miami City TV" tvg-logo="https://i.imgur.com/HJohrzO.png" group-title="USA LOCAL",Miami City TV
+https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
+#EXTINF:-1 tvg-name="WCTX" tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/kpygox.png" group-title="USA LOCAL",My9 WCTX My Network TV (Connecticut)
+https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
+#EXTINF:-1 tvg-name="NO TV - New Orleans Television" tvg-id="New Orleans Television" tvg-logo="https://i.imgur.com/QPWwlo4.png" group-title="USA LOCAL",NO TV - New Orleans Television
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-name="NAU-TV - Northern Arizona University" tvg-id="NAU-TV" tvg-logo="https://i.imgur.com/uNKEoa4.png" group-title="USA LOCAL",NAU-TV - Northern Arizona University
+http://stream.ec.nau.edu/live/amlst:channelfour/playlist.m3u8
+#EXTINF:-1 tvg-name="Olelo 49" tvg-id="" tvg-logo="https://i.imgur.com/Z7RBRkZ.png" group-title="USA LOCAL",Olelo 49
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
+#EXTINF:-1 tvg-name="Olelo 53" tvg-id="" tvg-logo="https://i.imgur.com/Z7RBRkZ.png" group-title="USA LOCAL",Olelo 53
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+#EXTINF:-1 tvg-name="Olelo 54" tvg-id="" tvg-logo="https://i.imgur.com/Z7RBRkZ.png" group-title="USA LOCAL",Olelo 54
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:-1 tvg-name="Olelo 55" tvg-id="" tvg-logo="https://i.imgur.com/Z7RBRkZ.png" group-title="USA LOCAL",Olelo 55
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:-1 tvg-name="PCC-TV - Pinellas County Florida" tvg-id="PCC-TV" tvg-logo="https://i.imgur.com/9PEAPwY.png" group-title="USA LOCAL",PCC-TV - Pinellas County Florida
+http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
+#EXTINF:-1 tvg-ID="PIX11" tvg-name="PIX11" tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/ehggbx.png" group-title="USA LOCAL",PIX11 (New York)
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+#EXTINF:-1 tvg-name="Red Apple 21 - Fairfax County Public Schools - Virginia" tvg-id="Red Apple 21" tvg-logo="https://i.imgur.com/ICcQUCH.png" group-title="USA LOCAL",Red Apple 21 - Fairfax County Public Schools - Virginia
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 tvg-name="Seattle Channel - Washington" tvg-id="Seattle Channel" tvg-id="" tvg-logo="https://i.imgur.com/NfE5jtp.png" group-title="USA LOCAL",Seattle Channel - Washington
+https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8
 #EXTINF:-1 tvg-name="Southeastern Channel" tvg-id="" tvg-logo="https://i.imgur.com/5yAdX7E.png" group-title="USA LOCAL",Southeastern Channel
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 #EXTINF:-1 tvg-name="The Rockville Channel" tvg-id="The Rockville Channel" tvg-logo="https://i.imgur.com/0mvGibX.jpg" group-title="USA LOCAL",The Rockville Channel
@@ -19,11 +161,17 @@ https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
 https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/playlist.m3u8
 #EXTINF:-1 tvg-name="White Plains Community Media" tvg-id="" tvg-logo="https://i.imgur.com/hhjrOB1.png" group-title="USA LOCAL",White Plains Community Media
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
-#EXTINF:-1 tvg-name="WHOH TV - Hastings-On-Hudson - NY" tvg-id="WHOH TV" tvg-id="" tvg-logo="https://i.imgur.com/oua9m6O.jpg" group-title="USA LOCAL",WHOH TV - Hastings-On-Hudson - NY
+#EXTINF:-1 tvg-name="WHOH TV - Hastings-On-Hudson - NY" tvg-id="WHOH TV" tvg-logo="https://i.imgur.com/oua9m6O.jpg" group-title="USA LOCAL",WHOH TV - Hastings-On-Hudson - NY
 http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 tvg-name="WHPR - F R E E - I P T V @Github.com" tvg-id="" tvg-logo="https://i.imgur.com/Gys19EC.png" group-title="USA LOCAL",WHPR - F R E E - I P T V @Github.com
+#EXTINF:-1 tvg-name="WHPR" tvg-id="" tvg-logo="https://i.imgur.com/Gys19EC.png" group-title="USA LOCAL",WHPR
 http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
-#EXTINF:-1  tvg-name="WJAX Action News - Jacksonville" tvg-id="" tvg-logo="https://i.imgur.com/LW3Dfbt.png" group-title="USA LOCAL",WJAX Action News - Jacksonville
+#EXTINF:-1 tvg-name="Winthrop Channel 3" tvg-id="" tvg-logo="https://i.imgur.com/lRfoWqJ.png" group-title="USA LOCAL",Winthrop Channel 3
+https://frontdoor.wcat-tv.org:8787/live/live.m3u8
+#EXTINF:-1 tvg-name="Winthrop Channel 15" tvg-id="" tvg-logo="https://i.imgur.com/lRfoWqJ.png" group-title="USA LOCAL",Winthrop Channel 15
+https://edu-wcat.azureedge.net/live/live.m3u8
+#EXTINF:-1 tvg-name="Winthrop Channel 22" tvg-id="" tvg-logo="https://i.imgur.com/lRfoWqJ.png" group-title="USA LOCAL",Winthrop Channel 22
+https://frontdoor.wcat-tv.org:8686/live/live.m3u8
+#EXTINF:-1 tvg-name="WJAX Action News - Jacksonville" tvg-id="" tvg-logo="https://i.imgur.com/LW3Dfbt.png" group-title="USA LOCAL",WJAX Action News - Jacksonville
 https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8?aws.sessionId=dcb19887-c2ac-40ff-94fa-4f9c8692f754
 #EXTINF:-1 tvg-name="WMFD (Mansfield - Ohio)" tvg-id="" tvg-logo="https://i.imgur.com/4i7Ve3E.png" group-title="USA LOCAL",WMFD (Mansfield - Ohio)
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
@@ -33,3 +181,5 @@ https://bozztv.com/teleyupp/lnABbIUBrO/index.m3u8
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
 #EXTINF:-1 tvg-name="WSVN FOX 7 (Florida)" tvg-id="" tvg-logo="https://i.imgur.com/zQlK5ux.png" group-title="USA LOCAL",WSVN FOX 7 (Florida)
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
+#EXTINF:-1 tvg-name="WVIT 30 News - Hartfort" tvg-id="" tvg-logo="https://i.imgur.com/x0NG7dl.png" group-title="USA LOCAL",WVIT 30 News - Hartfort
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8

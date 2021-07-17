@@ -1,7 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** IRELAND - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/IF4p2pM.png" group-title="IRELAND",*** IRELAND - F R E E - I P T V @Github.com
-https://cutt.ly/omG1nwS
-#EXTINF:-1 tvg-name="RTE News Now" tvg-id="RTENewsNow.ie" group-title="IRELAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtenewsnow.png",RTE News Now
+#EXTINF:-1 tvg-name="*** IRELAND - github.com/free-iptv" tvg-logo="https://i.imgur.com/IF4p2pM.png" group-title="IRELAND",*** IRELAND - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="Action Movies IE" tvg-id="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="IRELAND",Action Movies IE
+https://rakuten-action-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg Quicktake IE" tvg-id="" tvg-logo="https://i.imgur.com/oe5jSEg.jpg" group-title="IRELAND",Bloomberg Quicktake IE
+https://bloomberg-quicktake-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV IE" tvg-id="" tvg-logo="https://i.imgur.com/ZYFF5YN.png" group-title="IRELAND",Bloomberg TV IE
+https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy Movies IE" tvg-id="" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="IRELAND",Comedy Movies IE
+https://rakuten-comedy-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Documentaries IE"  tvg-id="" tvg-logo="https://i.imgur.com/WY5At0t.png" group-title="IRELAND",Documentaries IE
+https://rakuten-documentaries-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Drama IE" tvg-id="" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="IRELAND",Drama IE
+https://rakuten-drama-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Duck TV IE" tvg-id="" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="IRELAND",Duck TV IE
+https://mmm-ducktv-4-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Euronews IE" tvg-id="" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="IRELAND",Euronews IE
+https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Family Channel IE" tvg-id="" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="IRELAND",Family Channel IE
+https://rakuten-family-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="RTE News Now" tvg-id="RTENewsNow.ie" group-title="IRELAND" tvg-logo="https://i.imgur.com/ySHyGRQ.png",RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
-#EXTINF:-1  tvg-name="TG4 IE" tvg-id="" tvg-logo="https://i.imgur.com/TT9kAEp.png" group-title="IRELAND",TG4 IE
+#EXTINF:-1 tvg-name="Spotlight IE" tvg-id="" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="IRELAND",Spotlight IE
+https://rakuten-spotlight-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="TG4 IE" tvg-id="" tvg-logo="https://i.imgur.com/TT9kAEp.png" group-title="IRELAND",TG4 IE
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8

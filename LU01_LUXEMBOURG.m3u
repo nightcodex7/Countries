@@ -1,13 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** LUXEMBOURG - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/eEWsJ3S.png" group-title="LUXEMBOURG",*** LUXENBURG - F R E E - I P T V @Github.com
-https://cutt.ly/omG1nwS
-#EXTINF:-1 tvg-id="Chamber TV" tvg-name="Chamber TV" tvg-logo="" group-title="LUXEMBOURG",Chamber TV
+#EXTINF:-1 tvg-name="*** LUXEMBOURG - github.com/free-iptv" tvg-logo="https://i.imgur.com/eEWsJ3S.png" group-title="LUXEMBOURG",*** LUXENBURG - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="Africa News LU" tvg-id="" tvg-logo="https://i.imgur.com/ld3wXkh.jpg" group-title="LUXEMBOURG",Africa News LU
+https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg Quicktake LU" tvg-id="" tvg-logo="https://i.imgur.com/oe5jSEg.jpg" group-title="LUXEMBOURG",Bloomberg Quicktake LU
+https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TVLU" tvg-id="" tvg-logo="https://i.imgur.com/ZYFF5YN.png" group-title="LUXEMBOURG",Bloomberg TV LU
+https://bloomberg-bloomberg-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Chamber TV" tvg-name="Chamber TV" tvg-logo="https://i.imgur.com/thalxo3.jpg" group-title="LUXEMBOURG",Chamber TV
 https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eldoradio TV (Webradio)" tvg-logo="https://i.imgur.com/4ntor8S.png" group-title="LUXEMBOURG",Eldoradio TV (Webradio)
+#EXTINF:-1 tvg-name="Documentaries LU  tvg-id="" tvg-logo="https://i.imgur.com/WY5At0t.png" group-title="LUXEMBOURG",Documentaries LU
+https://rakuten-documentaries-15-lu.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Duck TV LU" tvg-id="" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="LUXEMBOURG",Duck TV LU
+https://mmm-ducktv-4-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Eldoradio TV (Webradio)" tvg-id="" tvg-logo="https://i.imgur.com/4ntor8S.png" group-title="LUXEMBOURG",Eldoradio TV (Webradio)
 https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL Tele Letzeburg" tvg-name="RTL Tele Letzeburg  (Webradio)" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="LUXEMBOURG",RTL Tele Letzeburg (Webradio)
+#EXTINF:-1 tvg-name="EURONEWS LU" tvg-id="" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="LUXEMBOURG",EURONEWS LU
+https://rakuten-euronews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Family LU" tvg-id="" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="LUXEMBOURG",Family LU
+https://rakuten-family-15-lu.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="RTL Tele Letzeburg (Webradio)" tvg-id="RTL Tele Letzeburg" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="LUXEMBOURG",RTL Tele Letzeburg (Webradio)
 https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL Tele Letzeburg" tvg-name="RTL Tele 2 Letzeburg" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="LUXEMBOURG",RTL Tele Letzeburg
+#EXTINF:-1 tvg-name="RTL Tele 1 Letzeburg" tvg-id="RTL Tele Letzeburg" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="LUXEMBOURG",RTL Tele 1 Letzeburg
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL Tele 2 Letzeburg  - F R E E - I P T V @Github.com" tvg-name="RTL Tele 2 Letzeburg - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="LUXEMBOURG",RTL 2 Tele Letzeburg - F R E E - I P T V @Github.com
+#EXTINF:-1 tvg-name="RTL Tele 2 Letzeburg" tvg-id="" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="LUXEMBOURG",RTL Tele 2 Letzeburg
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8

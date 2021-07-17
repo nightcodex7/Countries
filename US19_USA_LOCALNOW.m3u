@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** USA LOCALNOW - github.com/free-iptv" group-title="USA LOCALNOW" tvg-logo="https://i.imgur.com/rdx2GHQ.png",*** USA LOCALNOW - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="Adrenaline Rush" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Adrenaline Rush
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Black News Channel" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Black News Channel
+https://linear-130.frequency.stream/dist/localnow/130/bpk-tv/BNC-OTT/default/index.m3u8
+#EXTINF:-1 tvg-name="Bloody Disgusting" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Bloody Disgusting
+https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-name="Career Day" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Career Day
+https://linear-88.frequency.stream/dist/localnow/88/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="ChopperTown" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",ChopperTown
+https://linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Christmas in July" tvg-id="" tvg-logo="https://i.imgur.com/09VYB64.png" group-title="USA LOCALNOW",Christmas in July
+https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Comedy
+https://linear-89.frequency.stream/dist/localnow/89/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Comics Unleashed" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Comics Unleashed
+https://linear-208.frequency.stream/dist/localnow/208/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Court TV" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Court TV
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:-1 tvg-name="Culture Q" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Culture Q
+https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Decentric Media" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Decentric Media
+https://linear-68.frequency.stream/dist/localnow/68/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Discover" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Discover
+https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Drama" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Drama
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Electric NOW" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Electric NOW
+https://ov.ottera.tv/live/master.m3u8?channel=elec_en
+#EXTINF:-1 tvg-name="Elevation" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Elevation
+https://linear-210.frequency.stream/dist/localnow/210/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Family Flix" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Fat Guys in the Woods" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Fat Guys in the Woods
+https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Fear This!" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Fear This!
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Fear This! Classics" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Fear This! Classics
+https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Fear This! Sci-Fi" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Fear This! Sci-Fi
+https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Fireside" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Fireside
+https://linear-127.frequency.stream/dist/localnow/127/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Funny You Should Ask" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Funny You Should Ask
+https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Highway Thru Hell" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Highway Thru Hell
+https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Horizon" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Horizon
+https://linear-211.frequency.stream/dist/localnow/211/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Horror Machine" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Horror Machine
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Insight" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Insight
+https://linear-154.frequency.stream/dist/localnow/154/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Inspiration" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Inspiration
+https://linear-134.frequency.stream/dist/localnow/134/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Justice" tvg-id="" tvg-logo="https://i.imgur.com/0VRtdEY.png" group-title="USA LOCALNOW",Justice
+https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Law & Crime" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Law & Crime
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
+#EXTINF:-1 tvg-name="Lone Star" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Lone Star
+https://lonestar-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Loupe Art" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Loupe Art
+https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
+#EXTINF:-1 tvg-name="Movies of the 30's and 40's" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Movies of the 30's and 40's
+https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Movies of the 50's and 60's" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Movies of the 50's and 60's
+https://linear-203.frequency.stream/dist/localnow/203/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Movies of the 70's" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Movies of the 70's
+https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Movies of the 80's" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Movies of the 80's
+https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Movies of the 90's" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Movies of the 90's
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Movies of the 2000s" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Movies of the 2000s
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Movies of the 2010s" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Movies of the 2010s
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Movies of the 2020s" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Movies of the 2020s
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Mr Box Office" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Mr Box Office
+https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Music" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Music
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="News 12 New York" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",News 12 New York
+https://livestream.chdrstatic.com/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8
+#EXTINF:-1 tvg-name="OAN Plus" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",OAN Plus
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
+#EXTINF:-1 tvg-name="OML on Revry" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",OML on Revry
+https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Pattrn" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Pattrn
+https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="PG Flix" tvg-id="" tvg-logo="https://i.imgur.com/tmm992A.png" group-title="USA LOCALNOW",PG Flix
+https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Quietude" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Quietude
+https://linear-81.frequency.stream/dist/localnow/81/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Revry" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Revry
+https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Revry News" tvg-id="" tvg-logo="https://i.imgur.com/bQaYuTZ.png" group-title="USA LOCALNOW",Revry News
+https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Romantique" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Romantique
+https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Seaside" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Seaside
+https://linear-209.frequency.stream/dist/localnow/209/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Sightline" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Sightline
+https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Sports LN" tvg-id="" tvg-logo="https://i.imgur.com/Nn8rqxA.png" group-title="USA LOCALNOW",Sports LN
+https://linear-86.frequency.stream/dist/localnow/86/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Stargaze" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Stargaze
+https://linear-214.frequency.stream/dist/localnow/214/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Survivor Net TV" tvg-id="" tvg-logo="https://i.imgur.com/sdGXaxv.png" group-title="USA LOCALNOW",Survivor Net TV
+https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="That's Funny" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",That's Funny
+https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="The Archive" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",The Archive
+https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
+#EXTINF:-1 tvg-name="The First" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",The First
+https://redseat-thefirst-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The First Family" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",The First Family
+https://linear-202.frequency.stream/dist/localnow/202/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="The Film Detective" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",The Film Detective
+https://filmdetective-localnow.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-name="The Grapevine" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",The Grapevine
+https://ov.ottera.tv/live/master.m3u8?channel=mcom_gv_us
+#EXTINF:-1 tvg-name="TheGrio" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",TheGrio
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index.m3u8
+#EXTINF:-1 tvg-name="Sports" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Sports
+https://linear-86.frequency.stream/dist/localnow/86/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Weather Gone Viral" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Weather Gone Viral
+https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Wild West" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Wild West
+https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Wired2Fish" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Wired2Fish
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Young Icons" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Young Icons
+https://linear-182.frequency.stream/dist/localnow/182/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Zen" tvg-id="" tvg-logo="https://i.imgur.com/rdx2GHQ.png" group-title="USA LOCALNOW",Zen
+https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8

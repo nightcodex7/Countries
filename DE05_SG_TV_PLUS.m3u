@@ -1,39 +1,221 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="*** GERMANY SG TV PLUS - F R E E - I P T V @Github.com" group-title="GERMANY SG TV PLUS" tvg-logo="https://i.imgur.com/xku2oyd.png",*** GERMANY SG TV PLUS - F R E E - I P T V @Github.com
-https://cutt.ly/omG1nwS
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies DE" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies DE
-https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies AT" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies AT
+#EXTINF:-1 tvg-name="*** GERMANY SG TV PLUS - github.com/free-iptv" group-title="GERMANY SG TV PLUS" tvg-logo="https://i.imgur.com/xku2oyd.png",*** GERMANY SG TV PLUS - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="Action Movies DE" tvg-id="DEAJ3500001Q1" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies DE
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Action Movies AT" tvg-id="ATAJ3500001J9" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies AT
 https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies CH" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies CH
+#EXTINF:-1 tvg-name="Action Movies CH" tvg-id="CHAJ35000021Z" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies CH
 https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies DE" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="GERMANY SG TV PLUS",Comedy Movies DE
-https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies AT" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="GERMANY SG TV PLUS",Comedy Movies AT
+#EXTINF:-1 tvg-name="artTV.ch" tvg-id="DEAH3904005A" tvg-logo="https://i.imgur.com/Iqqr26y.png" group-title="GERMANY SG TV PLUS",artTV.ch
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/195bc34d-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Auto Motor und Sport" tvg-id="DEAK0500452A" tvg-logo="https://i.imgur.com/NQoPaUw.png" group-title="GERMANY SG TV PLUS",Auto Motor und Sport
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/31209ff0-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Bachstiftung" tvg-id="DEAJ0500427A" tvg-logo="https://i.imgur.com/Fqke5a5.png" group-title="GERMANY SG TV PLUS",Bachstiftung
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/c10782d7-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Beauty TV DE" tvg-id="DEAK0500453A" tvg-logo="https://i.imgur.com/fVFGIst.png" group-title="GERMANY SG TV PLUS",Beauty TV DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a9232731-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Charlie DE" tvg-id="DEAK0500448A" tvg-logo="https://i.imgur.com/AtHlrTj.png" group-title="GERMANY SG TV PLUS",Charlie DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bad234c1-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Comedy Movies DE" tvg-id="DEAJ3500002EO" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="GERMANY SG TV PLUS",Comedy Movies DE
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy Movies AT" tvg-id="ATAJ35000024Y" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="GERMANY SG TV PLUS",Comedy Movies AT
 https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies CH" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="GERMANY SG TV PLUS",Comedy Movies CH
+#EXTINF:-1 tvg-name="Comedy Movies CH" tvg-id="CHAJ35000037Z" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="GERMANY SG TV PLUS",Comedy Movies CH
 https://rakuten-comedymovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drama DE" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="GERMANY SG TV PLUS",Drama DE
-https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drama AT" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="GERMANY SG TV PLUS",Drama AT
+#EXTINF:-1 tvg-name="Craction TV DE" tvg-id="DEBA3300038NO" tvg-logo="https://i.imgur.com/0oVHvcj.jpg" group-title="GERMANY SG TV PLUS",Craction TV DE
+https://cractiontv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Deluxe Lounge HD DE" tvg-id="DEAH3904006A" tvg-logo="https://i.imgur.com/X9feFap.png" group-title="GERMANY SG TV PLUS",Deluxe Lounge HD DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Deutsches Kino DE" tvg-id="" tvg-logo="https://i.imgur.com/WY5At0t.png" group-title="GERMANY SG TV PLUS",Deutsches Kino DE
+https://rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Drama DE" tvg-id="DEAJ3500003YF" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="GERMANY SG TV PLUS",Drama DE
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Drama AT" tvg-id="ATAJ3500003Y1" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="GERMANY SG TV PLUS",Drama AT
 https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drama CH" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="GERMANY SG TV PLUS",Drama CH
+#EXTINF:-1 tvg-name="Drama CH" tvg-id="CHAJ3500004D1" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="GERMANY SG TV PLUS",Drama CH
 https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Der Serienkanal DE (breaks off)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="GERMANY SG TV PLUS",Der Serienkanal DE (breaks off)
-https://endemol-derserienkanal-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Der Serienkanal AT (stop at ads)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="GERMANY SG TV PLUS",Der Serienkanal AT (stop at ads)
-https://endemol-derserienkanal-1-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Der Serienkanal CH (stop at ads)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="GERMANY SG TV PLUS",Der Serienkanal CH (stop at ads)
-https://endemol-derserienkanal-1-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Family DE" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="GERMANY SG TV PLUS",Family DE
-https://rakuten-family-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Family AT" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="GERMANY SG TV PLUS",Family AT
+#EXTINF:-1 tvg-name="EAT CLUB TV DE" tvg-id="DEAH3904009A" tvg-logo="https://i.imgur.com/e3zmcc0.png" group-title="GERMANY SG TV PLUS",EAT CLUB TV DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f7858cd7-7d4c-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="EOTV DE" tvg-id="DEAJ0500431A" tvg-logo="https://i.imgur.com/7GHv9kr.png" group-title="GERMANY SG TV PLUS",EOTV DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ead645b5-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="European League of Football TV DE" tvg-id="DEBA3300028C4" tvg-logo="https://i.imgur.com/0tUFk2c.png" group-title="GERMANY SG TV PLUS",European League of Football TV DE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-ottera-europeanfootballleague-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Fabella DE" tvg-id="DEBA15000130L" tvg-logo="https://i.imgur.com/DQaLU7Z.png" group-title="GERMANY SG TV PLUS",Fabella DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/fca9f5ec-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Family DE" tvg-id="DEBA33000212C" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="GERMANY SG TV PLUS",Family DE
+https://rakuten-family-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Family AT" tvg-id="ATBA330001376" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="GERMANY SG TV PLUS",Family AT
 https://rakuten-family-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Family CH - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="GERMANY SG TV PLUS",Family CH - F R E E - I P T V @Github.com
+#EXTINF:-1 tvg-name="Family CH" tvg-id="CHBA330001222" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="GERMANY SG TV PLUS",Family CH
 https://rakuten-family-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spotlight DE" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="GERMANY SG TV PLUS",Spotlight DE
-https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spotlight AT" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="GERMANY SG TV PLUS",Spotlight AT
+#EXTINF:-1 tvg-name="Fantasja DE" tvg-id="DEBA1500011RJ" tvg-logo="https://i.imgur.com/WJ0rxCr.png" group-title="GERMANY SG TV PLUS",Fantasja DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/db0bd9b5-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Focus TV" tvg-id="DEAJ0500413A" tvg-logo="https://i.imgur.com/PhtYtqK.png" group-title="GERMANY SG TV PLUS",Focus TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f67c7d68-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="GoldStar TV" tvg-id="DEAK0500445A" tvg-logo="https://i.imgur.com/hIq1D2o.png" group-title="GERMANY SG TV PLUS",GoldStar TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Grjngo DE" tvg-id="DEAK0500449A" tvg-logo="https://i.imgur.com/sR7xkYc.png" group-title="GERMANY SG TV PLUS",Grjngo DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/11edf121-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Health TV DE" tvg-id="DEAJ0500420A" tvg-logo="https://i.imgur.com/7YpFhU0.png" group-title="GERMANY SG TV PLUS",Health TV DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8df8031c-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Heimatkino.TV" tvg-id="DEBA1500024PZ" tvg-logo="https://i.imgur.com/fbRL4T0.png" group-title="GERMANY SG TV PLUS",Heimatkino.TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fd52f5-b250-11eb-a7de-bacfe1f83627/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Hip Trips DE" tvg-id="DEAJ0500424A" tvg-logo="https://i.imgur.com/bD0waAc.png" group-title="GERMANY SG TV PLUS",Hip Trips DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ebd246c0-6faf-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Horizon Sports DE (Subtitles)" tvg-id="DEAJ0500417A" tvg-logo="https://i.imgur.com/2gUwmbk.png" group-title="GERMANY SG TV PLUS",Horizon Sports DE (Subtitles)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3d48ace9-7cd7-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Insight TV" tvg-id="DEBA2200001LP" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="GERMANY SG TV PLUS",Insight TV
+https://insighttv-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Inwonder TV" tvg-id="DEBA2200002AN" tvg-logo="https://i.imgur.com/2V9wsWp.png" group-title="GERMANY SG TV PLUS",Inwonder TV
+https://inwonder-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Itsin TV DE (Subtitles)" tvg-id="DEAJ0500415A" tvg-logo="https://i.imgur.com/EwFLbYR.png" group-title="GERMANY SG TV PLUS",Itsin TV DE (Subtitles)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/6f93baef-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Just cooking DE" tvg-id="DEAK0500439A" tvg-logo="https://i.imgur.com/zfABCa2.png" group-title="GERMANY SG TV PLUS",Just cooking DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/44bf4cd7-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Kino DE" tvg-id="" tvg-logo="https://i.imgur.com/WY5At0t.png" group-title="GERMANY SG TV PLUS",Kino DE
+https://rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/playlist.m3u8 
+#EXTINF:-1 tvg-name="Moconomy DE" tvg-id="DEBA1500009ZY" tvg-logo="https://i.imgur.com/b07MA8O.png" group-title="GERMANY SG TV PLUS",Moconomy DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/77d4142c-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Monarda Arts DE" tvg-id="DEAK0500457A" tvg-logo="https://i.imgur.com/v4qAtm2.png" group-title="GERMANY SG TV PLUS",Monarda Arts DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3a02d811-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Motorvision TV DE" tvg-id="DEAH3904004A" tvg-logo="https://i.imgur.com/zcFYJLu.png" group-title="GERMANY SG TV PLUS",Motorvision TV DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a6f58959-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Motorvision Classic TV DE" tvg-id="DEAJ0500425A" tvg-logo="https://i.imgur.com/K8F9dm9.png" group-title="GERMANY SG TV PLUS",Motorvision Classic TV DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9755626d-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Moviedome DE" tvg-id="DEBA3300039TT" tvg-logo="https://i.imgur.com/Q0coUUQ.png" group-title="GERMANY SG TV PLUS",Moviedome DE
+https://moviedome-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Moviedome Family DE" tvg-id="DEBA3300040CR" tvg-logo="https://i.imgur.com/Q0coUUQ.png" group-title="GERMANY SG TV PLUS",Moviedome Family DE
+https://moviedomefamily-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Nanoki DE" tvg-id="DEAK0500447A" tvg-logo="https://i.imgur.com/DbMjqzm.png" group-title="GERMANY SG TV PLUS",Nanoki DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/09a1e54b-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Netzkino" tvg-id="DEAJ0500419A" tvg-logo="https://i.imgur.com/lhUdHAt.png" group-title="GERMANY SG TV PLUS",Netzkino
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9390cd38-818d-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="One Terra DE" tvg-id="DEBA15000227H" tvg-logo="https://i.imgur.com/Xdwhho7.png" group-title="GERMANY SG TV PLUS",One Terra DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0d7ddc61-818f-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="RiC TV DE" tvg-id="DEAH3904002A" tvg-logo="https://i.imgur.com/BTD5ImK.png" group-title="GERMANY SG TV PLUS",RiC TV DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8777772b-6faf-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Rocket Beans TV DE" tvg-id="DEAJ0500430A" tvg-logo="https://i.imgur.com/jmiJPqL.png" group-title="GERMANY SG TV PLUS",Rocket Beans TV DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/d9b8d119-818d-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Romance DE" tvg-id="" tvg-logo="https://i.imgur.com/7kOQpqQ.jpg" group-title="GERMANY SG TV PLUS",Romance DE
+https://rakuten-romance-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sofy TV DE (Subtitles)" tvg-id="DEBA2200009C1" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="GERMANY SG TV PLUS",Sofy TV DE  (Subtitles)
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="SPIEGEL.TV" tvg-id="DEAK0500441A" tvg-logo="https://i.imgur.com/yhsqH5O.png" group-title="GERMANY SG TV PLUS",SPIEGEL.TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0ac124fc-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Sportdigital DE" tvg-id="DEAJ0500429A" tvg-logo="https://i.imgur.com/ZYhynn7.png" group-title="GERMANY SG TV PLUS",Sportdigital DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3af04d27-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Spot On News DE" tvg-id="DEAK0500454A" tvg-logo="https://i.imgur.com/zqDLcKf.png" group-title="GERMANY SG TV PLUS",Spot On News DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bee5e646-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Spotlight DE" tvg-id="DEAJ35000044V" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="GERMANY SG TV PLUS",Spotlight DE
+https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Spotlight AT" tvg-id="" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="GERMANY SG TV PLUS",Spotlight AT
 https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spotlight CH" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="GERMANY SG TV PLUS",Spotlight CH
+#EXTINF:-1 tvg-name="Spotlight CH" tvg-id="" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="GERMANY SG TV PLUS",Spotlight CH
 https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Supertoons TV DE" tvg-id="DEBA3300025TK" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="GERMANY SG TV PLUS",Supertoons TV DE
+https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Teletubbies DE" tvg-id="DEBA3300023IR" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="GERMANY SG TV PLUS",Teletubbies DE
+https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Tempora DE" tvg-id="DEAK0500450A" tvg-logo="https://i.imgur.com/JxFlL7u.png" group-title="GERMANY SG TV PLUS",Tempora DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4a8e7464-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Thriller DE" tvg-id="" tvg-logo="https://i.imgur.com/WY5At0t.png" group-title="GERMANY SG TV PLUS",Thriller DE
+https://rakuten-thriller-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tierwelt" tvg-id="DEAJ0500423A" tvg-logo="https://i.imgur.com/F4Rg7Kk.png" group-title="GERMANY SG TV PLUS",Tierwelt
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5a7fe3dd-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Top Free DE" tvg-id="" tvg-id="" tvg-logo="https://i.imgur.com/WY5At0t.png" group-title="GERMANY SG TV PLUS",Top Free DE
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel XP DE" tvg-id="DEBA100000404" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="GERMANY SG TV PLUS",Travel XP DE
+https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Unterhaltung" tvg-id="DEAH3904008A" tvg-logo="https://i.imgur.com/AUOKD9L.png" group-title="GERMANY SG TV PLUS",Unterhaltung
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/728a293e-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Verbotene Liebe DE" tvg-id="DEBA3300036RH" tvg-logo="https://i.imgur.com/JYPL2yi.jpg" group-title="GERMANY SG TV PLUS",Verbotene Liebe DE
+https://verboteneliebe-popup-samsunguk.amagi.tv/playlist.m3u8 
+#EXTINF:-1 tvg-name="Waidwerk Free DE" tvg-id="DEAJ0500428A" tvg-logo="https://i.imgur.com/hgCqtoF.png" group-title="GERMANY SG TV PLUS",Waidwerk Free DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8fb3677f-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Watch4Movies DE" tvg-id="DEBA3300034HH" tvg-logo="https://i.imgur.com/PNI39zg.png" group-title="GERMANY SG TV PLUS",Watch4Movies DE
+https://watch4movies-samsunguk.amagi.tv/hls/amagi_hls_data_videosolu-watch4movies-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="XITE DE" tvg-id="DEBA2200007V6" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="GERMANY SG TV PLUS",XITE DE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Xplore Reisen" tvg-id="DEAJ0500422A" tvg-logo="https://i.imgur.com/CmhJyOb.png" group-title="GERMANY SG TV PLUS",Xplore Reisen
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bab21a88-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Yogamour DE" tvg-id="DEAH3904007A" tvg-logo="https://i.imgur.com/4WA8ysG.png" group-title="GERMANY SG TV PLUS",Yogamour DE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/aa5dae03-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Zeitgeschehen" tvg-id="DEAJ0500418A" tvg-logo="https://i.imgur.com/mqiDWT8.png" group-title="GERMANY SG TV PLUS",Zeitgeschehen
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ca7b4f32-7b7d-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="*** GERMANY SG TV PLUS-other languages" group-title="GERMANY SG TV PLUS" tvg-logo="https://i.imgur.com/xku2oyd.png",*** GERMANY SG TV PLUS-other languages
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="Absinthe TV (ENG)" tvg-id="DEAK0500456A" tvg-logo="https://i.imgur.com/H3VRhn8.png" group-title="GERMANY SG TV PLUS",Absinthe TV (ENG)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/52cb6c9d-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Amuse Animation (FR)" tvg-id="" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="GERMANY SG TV PLUS",Amuse Animation (FR)
+https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV+ (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/ZYFF5YN.png" group-title="GERMANY SG TV PLUS",Bloomberg TV+ (ENG)
+https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Classical Harmony (FR)" tvg-id="" tvg-logo="https://i.imgur.com/JQaZblm.jpg" group-title="GERMANY SG TV PLUS",Classical Harmony (FR)
+https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN International (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="GERMANY SG TV PLUS",CNN International (ENG)
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="DUST (ENG)" tvg-id="DEBA33000356L" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="GERMANY SG TV PLUS",DUST (ENG)
+https://dust-samsung-uk-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Edge Sport (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="GERMANY SG TV PLUS",Edge Sport (ENG)
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Eleven Sports (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="GERMANY SG TV PLUS",Eleven Sports (ENG)
+https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="ESR (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/N9DdtrE.png" group-title="GERMANY SG TV PLUS",ESR (ENG)
+https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Fashion TV (ENG)" tvg-id="DEBA3300022IF" tvg-logo="https://i.imgur.com/jHkdaWN.png" group-title="GERMANY SG TV PLUS",Fashion TV (ENG)
+https://288e7e5ea70f423590b5c441bbc0037e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FashionTV/playlist.m3u8?ads.wurl_channel=689&ads.wurl_name=FashionTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Froot TV (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/bRaihBR.png" group-title="GERMANY SG TV PLUS",Froot TV (ENG)
+https://outtv-froottv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Fuel TV (ENG)" tvg-id="DEBA10000051Z" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="GERMANY SG TV PLUS",Fuel TV (ENG)
+https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="GUSTO TV (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/vanl2NZ.jpg" group-title="GERMANY SG TV PLUS",GUSTO TV (ENG)
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Horse&Country DE" tvg-id="DEBA33000419P" tvg-logo="https://i.imgur.com/aJmojZK.png" group-title="GERMANY SG TV PLUS",Horse&Country DE
+https://hncfree-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MotorRacing (ENG)" tvg-id="DEAK0500440A" tvg-logo="https://i.imgur.com/uyJmeHG.png" group-title="GERMANY SG TV PLUS",MotorRacing (ENG)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/82b13192-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Outdoor America (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/fZDrLpd.png" group-title="GERMANY SG TV PLUS",Outdoor America (ENG)
+https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Outside TV (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/1CViR0E.png" group-title="GERMANY SG TV PLUS",Outside TV (ENG)
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="People are Awesome (ENG) tvg-id="DEAJ3500005RK" tvg-logo="https://i.imgur.com/2U84ozo.png" group-title="GERMANY SG TV PLUS",People are Awesome  (ENG)
+https://jukin-peopleareawesome-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Nation (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/iJmj6zC.png" group-title="GERMANY SG TV PLUS",Power Nation (ENG)
+https://rtmtv-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Qello Concerts by Stingray (ENG)" tvg-id="DEBA1000001ZC" tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="GERMANY SG TV PLUS",Qello Concerts by Stingray (ENG)
+https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="QUEST TV Jazz and Beyond (ENG)" tvg-id="DEBA2200003I0" tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="GERMANY SG TV PLUS",QUEST TV Jazz and Beyond (ENG)
+https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="QUEST TV Classical (ENG)" tvg-id="DEBA2200004S1" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="GERMANY SG TV PLUS",QUEST TV Classical (ENG)
+https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="QUEST TV MIX (ENG)" tvg-id="DEBA2200005C9" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="GERMANY SG TV PLUS",QUEST TV MIX (ENG)
+https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Reuters Now DE (ENG)" tvg-id="DEBA3300020Y3" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="GERMANY SG TV PLUS",Reuters Now DE (ENG)
+https://reuters-reutersnow-1-de.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Revry DE" tvg-id="" tvg-logo="https://i.imgur.com/5a3aMth.png" group-title="GERMANY SG TV PLUS",Revry DE
+https://revry-revry-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Stingray Karaoke  (ENG)" tvg-id="DEBA100000271" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="GERMANY SG TV PLUS",Stingray Karaoke (ENG)
+https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Stingray Naturescape (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="GERMANY SG TV PLUS",Stingray Naturescape (ENG)
+https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Tastemade (ENG)" tvg-id="DEBA2200006XB" tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="GERMANY SG TV PLUS",Tastemade (ENG)
+https://tastemade-de-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel Deutschland (ENG)" tvg-id="DEBA2200008NL" tvg-logo="https://i.imgur.com/A5FIraZ.png" group-title="GERMANY SG TV PLUS",Tennis Channel Deutschland (ENG)
+https://tennischannel-int-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-tennischannel-int-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="The Boat Show (ENG)" tvg-id="DEAH3904003A" tvg-logo="https://i.imgur.com/EwPX6o9.png" group-title="GERMANY SG TV PLUS",The Boat Show (ENG)
+https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="The Pet Collective (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/RHqiy4Z.png" group-title="GERMANY SG TV PLUS",The Pet Collective (ENG)
+https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Timeline (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/9JTMh3F.jpg" group-title="GERMANY SG TV PLUS",Timeline (ENG)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tiny House Nation (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/o8ooqA1.png" group-title="GERMANY SG TV PLUS",Tiny House Nation (ENG)
+https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="True Stories (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/CbZzzAI.png" group-title="GERMANY SG TV PLUS",True Stories (ENG)
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Weather Spy (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="GERMANY SG TV PLUS",Weather Spy (ENG)
+https://jukin-weatherspy-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Young Hollywood (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="GERMANY SG TV PLUS",Young Hollywood (ENG)
+https://younghollywood-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ZooMoo (ENG)" tvg-id="" tvg-logo="https://i.imgur.com/85LA7Zm.png" group-title="GERMANY SG TV PLUS",ZooMoo (ENG)
+https://rockentertainment-zoomoo-1-eu.rakuten.wurl.com/manifest/playlist.m3u8

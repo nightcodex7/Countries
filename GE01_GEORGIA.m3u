@@ -1,15 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** GEORGIA - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/LoT13Tk.png" group-title="GEORGIA",*** GEORGIA - F R E E - I P T V @Github.com
-https://cutt.ly/omG1nwS
-#EXTINF:-1 tvg-id="" tvg-name="1 TV" tvg-logo="https://i.imgur.com/0LJRlFz.png" group-title="GEORGIA",1 TV
+#EXTINF:-1 tvg-name="*** GEORGIA - github.com/free-iptv" tvg-logo="https://i.imgur.com/LoT13Tk.png" group-title="GEORGIA",*** GEORGIA - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="1 TV" tvg-id="" tvg-logo="https://i.imgur.com/0LJRlFz.png" group-title="GEORGIA",1 TV
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="2 TV" tvg-logo="https://i.imgur.com/VBmQCH7.png" group-title="GEORGIA",2 TV
+#EXTINF:-1 tvg-name="2 TV" tvg-id="" tvg-logo="https://i.imgur.com/VBmQCH7.png" group-title="GEORGIA",2 TV
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Formula" tvg-logo="https://i.imgur.com/sI6Grvu.png" group-title="GEORGIA",Formula
+#EXTINF:-1 tvg-name="Formula" tvg-id="" tvg-logo="https://i.imgur.com/sI6Grvu.png" group-title="GEORGIA",Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mtavari Arkhi - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/XVpqukA.png" group-title="GEORGIA",Mtavari Arkhi - F R E E - I P T V @Github.com
+#EXTINF:-1 tvg-name="Imedi TV" tvg-id="" tvg-logo="https://i.imgur.com/WJaXxEu.png" group-title="GEORGIA",Imedi TV
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-name="Mtavari Arkhi" tvg-id="" tvg-logo="https://i.imgur.com/XVpqukA.png" group-title="GEORGIA",Mtavari Arkhi
 https://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Palitra News" tvg-logo="https://i.imgur.com/9QVZGow.png" group-title="GEORGIA",Palitra News
+#EXTINF:-1 tvg-name="Palitra News" tvg-id="" tvg-logo="https://i.imgur.com/9QVZGow.png" group-title="GEORGIA",Palitra News
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rioni TV" tvg-logo="https://i.imgur.com/9ecTETD.png" group-title="GEORGIA",Rioni TV
+#EXTINF:-1 tvg-name="POS TV" tvg-id="" tvg-logo="https://i.imgur.com/lwzdQ12.png" group-title="GEORGIA",POS TV
+https://live.postv.media/stream/index.m3u8
+#EXTINF:-1 tvg-name="Rioni TV" tvg-id="" tvg-logo="https://i.imgur.com/9ecTETD.png" group-title="GEORGIA",Rioni TV
 http://video.rionitv.com:9090/hls/live/rioni.m3u8

@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** IRAQ - github.com/free-iptv" group-title="IRAQ" tvg-logo="https://i.imgur.com/PlJDyeH.png",*** IRAQ - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="Al-Iraqiya" tvg-id="" tvg-logo="https://i.imgur.com/7UPGZZO.png" group-title="IRAQ",Al-Iraqiya
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general2/chunks.m3u8
+#EXTINF:-1 tvg-name="Al-Hurra" tvg-id="" tvg-logo="https://i.imgur.com/FGl42Fl.png" group-title="IRAQ",Al-Hurra
+https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/master_2596.m3u8
+#EXTINF:-1 tvg-name="Al-Hurra Iraq" tvg-id="" tvg-logo="https://i.imgur.com/oPOl0k5.png" group-title="IRAQ",Al-Hurra Iraq
+https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/master_2596.m3u8
+#EXTINF:-1 tvg-name="Al-Sharqiya" tvg-id="" tvg-logo="https://i.imgur.com/CEOlkS7.png" group-title="IRAQ",Al-Sharqiya
+https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1408191520.m3u8
+#EXTINF:-1 tvg-name="Al-Sharqiya News" tvg-id="" tvg-logo="https://i.imgur.com/P6p17ZY.jpg" group-title="IRAQ",Al-Sharqiya News
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w449457930.m3u8
+#EXTINF:-1 tvg-name="Al Sumaria" tvg-id="" tvg-logo="https://i.imgur.com/i6MTR3j.png" group-title="IRAQ",Al Sumaria
+http://iptv.repl.co/Arabic/Al_summaria/
+#EXTINF:-1 tvg-name="Al-Rasheed" tvg-id="" tvg-logo="https://i.imgur.com/L4izE5P.png" group-title="IRAQ",Al-Rasheed
+https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Ava Entertainment" tvg-id="" tvg-logo="https://i.imgur.com/bMX9Lgf.png" group-title="IRAQ",Ava Entertainment
+https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/c9aa559e_1_3310000/chunklist.m3u8
+#EXTINF:-1 tvg-name="Dijlah Tarab" tvg-id="" tvg-logo="https://i.imgur.com/KmrmmcK.png" group-title="IRAQ",Dijlah Tarab
+https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Dijlah TV" tvg-id="" tvg-logo="https://i.imgur.com/x5sxSVE.png" group-title="IRAQ",Dijlah TV
+https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="IMN" tvg-id="" tvg-logo="https://i.imgur.com/DZGQb32.jpg" group-title="IRAQ",IMN
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news2/playlist.m3u8
+#EXTINF:-1 tvg-name="Iqraa TV" tvg-id="" tvg-logo="https://i.imgur.com/3A5PzUQ.png" group-title="IRAQ",Iqraa TV
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Iraq Future" tvg-id="" tvg-logo="https://i.imgur.com/15BGXKd.png" group-title="IRAQ",Iraq Future
+https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Kurdistan TV" tvg-id="" tvg-logo="https://i.imgur.com/GLfhYSH.png" group-title="IRAQ",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="KurdMax Music" tvg-id="" tvg-logo="https://i.imgur.com/4kp56qN.jpg" group-title="IRAQ",KurdMax Music
+https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="KurdMax Show" tvg-id="" tvg-logo="https://i.imgur.com/1nsndpW.png" group-title="IRAQ",KurdMax Show
+https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW1_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Kurdsat News" tvg-id="" tvg-logo="https://i.imgur.com/Mlkwdw0.png" group-title="IRAQ",Kurdsat News
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/playlist.m3u8
+#EXTINF:-1 tvg-name="Net TV" tvg-id="" tvg-logo="https://i.imgur.com/5CuxFVG.png" group-title="IRAQ",Net TV
+http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Rudaw" tvg-id="" tvg-logo="https://i.imgur.com/jFgJ9AG.png" group-title="IRAQ",Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_720p_chunks.m3u8
+#EXTINF:-1 tvg-name="Zagros TV" tvg-id="" tvg-logo="https://i.imgur.com/iOjpOOT.png" group-title="IRAQ",Zagros TV
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8

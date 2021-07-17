@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** USA SIMULTV - github.com/free-iptv" group-title="USA SIMULTV" tvg-logo="https://i.imgur.com/yzSg9gy.png",*** USA SIMULTV - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="1A Network" tvg-id="" tvg-logo="https://i.imgur.com/cZzWP2J.png" group-title="USA SIMULTV",1A Network
+https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8
+#EXTINF:-1 tvg-name="Comfy TV" tvg-id="" tvg-logo="https://i.imgur.com/mb27ED7.png" group-title="USA SIMULTV",Comfy TV
+https://simultv.s.llnwi.net/o054/ComfyTV/interlink.m3u8
+#EXTINF:-1 tvg-name="Cowboy Theater" tvg-id="" tvg-logo="https://i.imgur.com/qMdvDHI.png" group-title="USA SIMULTV",Cowboy Theater
+https://simultv.s.llnwi.net/o054/CowboyTheater/interlink.m3u8
+#EXTINF:-1 tvg-name="Cut Up N Cook" tvg-id="" tvg-logo="https://i.imgur.com/Fvne5EJ.png" group-title="USA SIMULTV",Cut Up N Cook
+https://simultv.s.llnwi.net/n4s4/CutUpNCook/interlink.m3u8
+#EXTINF:-1 tvg-name="Dimensions" tvg-id="" tvg-logo="https://i.imgur.com/4RsHg2M.png" group-title="USA SIMULTV",Dimensions
+https://simultv.s.llnwi.net/o054/Dimensions/interlink.m3u8
+#EXTINF:-1 tvg-name="Funnybone" tvg-id="" tvg-logo="https://i.imgur.com/KiEMB6d.png" group-title="USA SIMULTV",Funnybone
+https://simultv.s.llnwi.net/o054/FunnyBone/interlink.m3u8
+#EXTINF:-1 tvg-name="iHolyfield TV" tvg-id="" tvg-logo="https://i.imgur.com/9mntEGM.png" group-title="USA SIMULTV",iHolyfield TV
+https://simultv.s.llnwi.net/o058/iHolyfield/interlink.m3u8
+#EXTINF:-1 tvg-name="iShe TV" tvg-id="" tvg-logo="https://i.imgur.com/nQQSXEz.png" group-title="USA SIMULTV",iShe TV
+https://simultv.s.llnwi.net/o058/iSheTV/interlink.m3u8
+#EXTINF:-1 tvg-name="iTown TV" tvg-id="" tvg-logo="https://i.imgur.com/uAVF8Hc.png" group-title="USA SIMULTV",iTown TV
+https://simultv.s.llnwi.net/o064/iTownTV/interlink.m3u8
+#EXTINF:-1 tvg-name="Kartoon Circus" tvg-id="" tvg-logo="https://i.imgur.com/PUg0mjU.png" group-title="USA SIMULTV",Kartoon Circus
+https://simultv.s.llnwi.net/o062/KartoonCircus/interlink.m3u8
+#EXTINF:-1 tvg-name="Kid Central" tvg-id="" tvg-logo="https://i.imgur.com/Tq2kZxI.png" group-title="USA SIMULTV",Kid Central
+https://simultv.s.llnwi.net/o058/KidCentral/interlink.m3u8
+#EXTINF:-1 tvg-name="Lifestyle" tvg-id="" tvg-logo="https://i.imgur.com/hbEhWRn.png" group-title="USA SIMULTV",Lifestyle
+https://simultv.s.llnwi.net/o058/Lifestyle/interlink.m3u8
+#EXTINF:-1 tvg-name="Military Home Life" tvg-id="" tvg-logo="https://i.imgur.com/07HXJcx.png" group-title="USA SIMULTV",Military Home Life
+https://simultv.s.llnwi.net/n4s4/MilitaryHomeLife/interlink.m3u8
+#EXTINF:-1 tvg-name="Mythos" tvg-id="" tvg-logo="https://i.imgur.com/4NxQtB7.png" group-title="USA SIMULTV",Mythos
+https://simultv.s.llnwi.net/o058/Mythos/interlink.m3u8
+#EXTINF:-1 tvg-name="Outdoor Lifestyle" tvg-id="" tvg-logo="https://i.imgur.com/sQ6yIxf.png" group-title="USA SIMULTV",Outdoor Lifestyle
+https://simultv.s.llnwi.net/o061/OutdoorLifestyle/interlink.m3u8
+#EXTINF:-1 tvg-name="Prime Time Drama" tvg-id="" tvg-logo="https://i.imgur.com/9SF5LaN.png" group-title="USA SIMULTV",Prime Time Drama
+https://simultv.s.llnwi.net/o064/PrimeTimeDrama/interlink.m3u8
+#EXTINF:-1 tvg-name="Providence Christian Network" tvg-id="" tvg-logo="https://i.imgur.com/MceOia3.png" group-title="USA SIMULTV",Providence Christian Network
+https://simultv.s.llnwi.net/n4s4/ProvidenceNetwork/interlink.m3u8
+#EXTINF:-1 tvg-name="Ready Set Action" tvg-id="" tvg-logo="https://i.imgur.com/7OnZJTg.png" group-title="USA SIMULTV",Ready Set Action
+https://simultv.s.llnwi.net/o059/ReadySetAction/interlink.m3u8
+#EXTINF:-1 tvg-name="Real Family TV" tvg-id="" tvg-logo="https://i.imgur.com/exX1zwv.png" group-title="USA SIMULTV",Real Family TV
+https://simultv.s.llnwi.net/o059/RealFamilyTV/interlink.m3u8
+#EXTINF:-1 tvg-name="SimSi TV" tvg-id="" tvg-logo="https://i.imgur.com/NwsM2uA.png" group-title="USA SIMULTV",SimSi TV
+https://simultv.s.llnwi.net/o060/SimSiTV/interlink.m3u8
+#EXTINF:-1 tvg-name="Slap Tech" tvg-id="" tvg-logo="https://i.imgur.com/dPZu0F5.png" group-title="USA SIMULTV",Slap Tech
+https://simultv.s.llnwi.net/o061/SlapTech/interlink.m3u8
+#EXTINF:-1 tvg-name="Spydar" tvg-id="" tvg-logo="https://i.imgur.com/pVixB1A.png" group-title="USA SIMULTV",Spydar
+https://simultv.s.llnwi.net/o062/Spydar/interlink.m3u8
+#EXTINF:-1 tvg-name="Switch" tvg-id="" tvg-logo="https://i.imgur.com/TzuX42c.png" group-title="USA SIMULTV",Switch
+https://simultv.s.llnwi.net/o062/Switch/interlink.m3u8
+#EXTINF:-1 tvg-name="Thrillerz" tvg-id="" tvg-logo="https://i.imgur.com/KH790df.png" group-title="USA SIMULTV",Thrillerz
+https://simultv.s.llnwi.net/o059/Thrillerz/interlink.m3u8
+#EXTINF:-1 tvg-name="XZone" tvg-id="" tvg-logo="https://i.imgur.com/VvHNL6o.png" group-title="USA SIMULTV",XZone
+https://simultv.s.llnwi.net/o060/xzone/interlink.m3u8
+#EXTINF:-1 tvg-name="Youth Success" tvg-id="" tvg-logo="https://i.imgur.com/ie3vEcD.png" group-title="USA SIMULTV",Youth Success
+https://simultv.s.llnwi.net/o060/YouthSuccess/interlink.m3u8
+#EXTINF:-1 tvg-name="Veteran Success" tvg-id="" tvg-logo="https://i.imgur.com/OMtxA8Z.png" group-title="USA SIMULTV",Veteran Success
+https://simultv.s.llnwi.net/o054/VeteranSuccess/interlink.m3u8

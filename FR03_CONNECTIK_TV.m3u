@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** FRANCE CONNECTIK - github.com/free-iptv" group-title="FRANCE CONNECTIK" tvg-logo="https://i.imgur.com/OPau00Q.png",*** FRANCE CONNECTIK - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="Afrobit" tvg-id="" tvg-logo="https://i.imgur.com/08gNcpL.jpg" group-title="FRANCE CONNECTIK",Afrobit
+http://connectiktv.ddns.me:8080/afrobit/index.m3u8
+#EXTINF:-1 tvg-name="Dream Channel" tvg-id="" tvg-logo="https://i.imgur.com/wGBtxMX.png" group-title="FRANCE CONNECTIK",Dream Channel
+http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="Emergence TV" tvg-id="" tvg-logo="https://i.imgur.com/wAD7GCR.jpg" group-title="FRANCE CONNECTIK",Emergence TV
+http://connectiktv.ddns.me:8080/emergencetv/emergencetv/playlist.m3u8
+#EXTINF:-1 tvg-name="Logos Channel" tvg-id="" tvg-logo="https://i.imgur.com/HLboDZU.jpg" group-title="FRANCE CONNECTIK",Logos Channel
+http://connectiktv.ddns.me:8080/logoschannel/logoschannel/index.m3u8
+#EXTINF:-1 tvg-name="MYTV CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/fdnEAWo.png" group-title="FRANCE CONNECTIK",MYTV CHANNEL
+http://connectiktv.ddns.me:8080/mytv-android/playlist.m3u8
+#EXTINF:-1 tvg-name="Play TV" tvg-id="" tvg-logo="https://i.imgur.com/OxSXDsV.png" group-title="FRANCE CONNECTIK",Play TV
+http://connectiktv.ddns.me:8080/play/index.m3u8
+#EXTINF:-1 tvg-name="PLEX TV" tvg-id="" tvg-logo="https://i.imgur.com/foJ46Rr.jpg" group-title="FRANCE CONNECTIK",PLEX TV
+http://connectiktv.ddns.me:8080/plextvandroid/playlist.m3u8
+#EXTINF:-1 tvg-name="Profilma TV" tvg-id="" tvg-logo="https://i.imgur.com/k1cOTOx.png" group-title="FRANCE CONNECTIK",Profilma TV
+http://connectiktv.ddns.me:8080/profilma-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Regard Afrique TV" tvg-id="" tvg-logo="https://i.imgur.com/KQHGqZ6.jpg" group-title="FRANCE CONNECTIK",Regard Afrique TV
+http://connectiktv.ddns.me:8080/regardafriquetv/index.m3u8
+#EXTINF:-1 tvg-name="Repantence" tvg-id="" tvg-logo="https://i.imgur.com/kFP3ZAc.jpg" group-title="FRANCE CONNECTIK",Repantence
+http://connectiktv.ddns.me:8080/repantence/repantence/index.m3u8

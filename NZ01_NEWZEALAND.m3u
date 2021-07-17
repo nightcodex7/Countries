@@ -1,17 +1,23 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="*** NEWZEALAND - EPG by i.mjh.nz" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/bqrxeDu.png",*** NEWZEALAND - EPG by i.mjh.nz
-https://cutt.ly/omG1nwS
-#EXTINF:-1 tvg-name="Firstlight" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/2TKL6BX.png",Firstlight
+#EXTM3U x-tvg-url="http://i.mjh.nz/nzau/epg.xml.gz"
+#EXTINF:-1 tvg-name="*** NEWZEALAND - github.com/free-iptv" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/bqrxeDu.png",*** NEWZEALAND - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="BREEZE TV" tvg-id="" tvg-logo="https://i.imgur.com/bb71OBk.png" group-title="NEWZEALAND",BREEZE TV
+https://i.mjh.nz/nz/tv.68.m3u8
+#EXTINF:-1 tvg-name="Firstlight" tvg-id="Firstlight.nz" tvg-logo="https://i.imgur.com/2TKL6BX.png" group-title="NEWZEALAND",Firstlight
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Kordia TV" tvg-id="tv.66" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/7FCjq7C.png",Kordia TV
+#EXTINF:-1 tvg-name="Juice TV" tvg-id="JuiceTV.nz" tvg-logo="https://i.imgur.com/MeLhDhx.jpg" group-title="NEWZEALAND",Juice TV
 https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
-#EXTINF:-1 tvg-id="tv.13" tvg-name="Maori Television" tvg-logo="https://i.imgur.com/yo8kEk5.png" group-title="NEWZEALAND",Maori Television
+#EXTINF:-1 tvg-name="Maori Television" tvg-id="MaoriTelevision.nz" tvg-logo="https://i.imgur.com/yo8kEk5.png" group-title="NEWZEALAND",Maori Television
 http://i.mjh.nz/nz/tv.13.m3u8
-#EXTINF:-1 tvg-name="Parliament TV" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/Bmt34GV.png",Parliament TV
+#EXTINF:-1 tvg-name="Parliament TV" tvg-id="ParliamentTV.nz" tvg-logo="https://www.parliament.nz/timeline/assets/logo.jpg" group-title="NEWZEALAND",Parliament TV
 https://i.mjh.nz/nz/tv.18.m3u8
-#EXTINF:-1 tvg-id="tv.20" tvg-name="Te Reo - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/UermurO.png" group-title="NEWZEALAND",Te Reo - F R E E - I P T V @Github.com
+#EXTINF:-1 tvg-name="Rialto" tvg-id="Rialto.nz" tvg-logo="https://i.imgur.com/HjSVxGk.png" group-title="NEWZEALAND",Rialto
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Te Reo NZ" tvg-id="TeReo.nz" tvg-logo="https://i.imgur.com/UermurO.png" group-title="NEWZEALAND",Te Reo NZ
 http://i.mjh.nz/nz/tv.20.m3u8
-#EXTINF:-1 tvg-name="TVSN NZ" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/qQALC7M.png",TVSN NZ
+#EXTINF:-1 tvg-name="The Edge TV" tvg-id="" tvg-logo="https://i.imgur.com/7IbZby5.png" group-title="NEWZEALAND",The Edge TV
+https://i.mjh.nz/nz/tv.51.m3u8
+#EXTINF:-1 tvg-name="TVSN NZ" tvg-id="TVSN.nz" tvg-logo="https://i.imgur.com/qQALC7M.png" group-title="NEWZEALAND",TVSN NZ
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
-#EXTINF:-1 tvg-name="Wairarapa TV" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/qwGFZKE.png",Wairarapa TV
+#EXTINF:-1 tvg-name="Wairarapa TV" tvg-id="WairarapaTV.nz" tvg-logo="https://i.imgur.com/qwGFZKE.png" group-title="NEWZEALAND",Wairarapa TV
 http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8

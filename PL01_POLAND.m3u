@@ -1,13 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** POLAND - F R E E - I P T V @Github.com" group-title="POLAND" tvg-logo="https://i.imgur.com/uxgNIq5.png",*** POLAND - F R E E - I P T V @Github.com
-https://cutt.ly/omG1nwS
+#EXTINF:-1 tvg-name="*** POLAND - github.com/free-iptv" group-title="POLAND" tvg-logo="https://i.imgur.com/uxgNIq5.png",*** POLAND - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="4FUN TV" tvg-id="" group-title="POLAND" tvg-logo="https://i.imgur.com/VFs7mdh.jpg",4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-name="Ezo TV" tvg-id="" group-title="POLAND" tvg-logo="https://i.imgur.com/Z0idxC4.png",Ezo TV
+http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Telewizja Pogranicze" tvg-id="" group-title="POLAND" tvg-logo="https://i.imgur.com/rYjBP3G.jpg",Telewizja Pogranicze
+http://95.160.28.218:1935/pogranicze/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Telewizja Wielkopolska" tvg-id="" tvg-logo="https://i.imgur.com/0n5Vbqg.png" group-title="POLAND",Telewizja Wielkopolska
+https://stream6.nadaje.com:35308/live/stream-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Truso TV" tvg-id="" group-title="POLAND" tvg-logo="https://i.imgur.com/MUp7IJD.png",Truso TV
+http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Kujawy" tvg-id="" group-title="POLAND" tvg-logo="http://www.kujawy.info/wp-content/uploads/kujawy-info-logo-top.jpg",TV K Kujawy
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP3 Warszawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Warszawa
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
-#EXTINF:-1 tvg-id="" tvg-name="TVP info - F R E E - I P T V @Github.com" tvg-logo="https://i.imgur.com/5GK0CeC.png" group-title="POLAND",TVP info - F R E E - I P T V @Github.com
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-#EXTINF:-1 tvg-id="" tvg-name="TVT Zgorzelec" tvg-logo="http://haldajazz.com/2016/images/sponsor/tvt.jpg" group-title="POLAND",TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Torun" tvg-logo="http://www.toruntv.pl/public/img/new/logo.png" group-title="POLAND",TV Torun
+#EXTINF:-1 tvg-name="TV Regionalna Lubin" tvg-id="" group-title="POLAND" tvg-logo="https://i.imgur.com/0Txl1VA.png",TV Regionalna Lubin
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:-1 tvg-name="TV Republika" tvg-id="" group-title="POLAND" tvg-logo="https://i.imgur.com/Gwrzu20.jpg",TV Republika
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
+#EXTINF:-1 tvg-name="TV Torun" tvg-id="" tvg-logo="http://www.toruntv.pl/public/img/new/logo.png" group-title="POLAND",TV Torun
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1 tvg-name="TV Trwam" tvg-id="" tvg-logo="https://i.imgur.com/fgtZ7Nj.png" group-title="POLAND",TV Trwam
+https://trwamtv.live.e56-po.insyscd.net/cl01/out/u/trwam_1.m3u8
+#EXTINF:-1 tvg-name="TVP3 Kraków" tvg-id="" group-title="POLAND" tvg-logo="https://i.imgur.com/exZEtlP.png",TVP3 Kraków
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
+#EXTINF:-1 tvg-name="TVP3 Warszawa" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Warszawa
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+#EXTINF:-1 tvg-name="TVP info" tvg-id="" tvg-logo="https://i.imgur.com/5GK0CeC.png" group-title="POLAND",TVP info
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+#EXTINF:-1 tvg-name="TVP Parlament" tvg-id="" group-title="POLAND" tvg-logo="https://i.imgur.com/LCphWfW.jpg",TVP Parlament
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
+#EXTINF:-1 tvg-name="TVT" tvg-id="" group-title="POLAND" tvg-logo="https://i.imgur.com/rT6Occp.png",TVT
+http://176.107.129.219/media/tvt/index.m3u8
+#EXTINF:-1 tvg-name="TVT Zgorzelec" tvg-id="" group-title="POLAND" tvg-logo="https://i.imgur.com/JkSIkcl.png",TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8

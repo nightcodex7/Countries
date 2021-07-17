@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** ALGERIA - github.com/free-iptv" tvg-logo="https://i.imgur.com/89Meg0V.png" group-title="ALGERIA",*** ALGERIA - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="ALANIS TV " tvg-id="" tvg-logo="https://i.imgur.com/JHOq9sx.png" group-title="ALGERIA",ALANIS TV 
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie TV3" tvg-id="" tvg-logo="https://i.imgur.com/N4M4hGT.png" group-title="ALGERIA",Algerie TV3
+https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="Algerie TV4" tvg-id="" tvg-logo="https://i.imgur.com/eXpuQGy.png" group-title="ALGERIA",Algerie TV4
+https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="Algerie TV5" tvg-id="" tvg-logo="https://i.imgur.com/qKQFcVw.png" group-title="ALGERIA",Algerie TV5
+https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="Algerie TV6" tvg-id="" tvg-logo="https://i.imgur.com/dFUgdiS.png" group-title="ALGERIA",Algerie TV6
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="Algerie TV7" tvg-id="" tvg-logo="https://i.imgur.com/7sHva8f.png" group-title="ALGERIA",Algerie TV7
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="Algerie TV8" tvg-id="" tvg-logo="https://i.imgur.com/cagwQNW.png" group-title="ALGERIA",Algerie TV8
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="Bahia TV" tvg-id="" tvg-logo="https://i.imgur.com/zET7uZI.png" group-title="ALGERIA",Bahia TV
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="Beur TV" tvg-id="" tvg-logo="https://i.imgur.com/fHdzdyz.png" group-title="ALGERIA",Beur TV
+https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="Canal Algérie" tvg-id="" tvg-logo="https://i.imgur.com/lpUfZxC.png" group-title="ALGERIA",Canal Algérie
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="Echorouk NEWS " tvg-id="" tvg-logo="https://i.imgur.com/zYjZfa8.png" group-title="ALGERIA",Echorouk NEWS 
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+#EXTINF:-1 tvg-name="Echorouk TV" tvg-id="" tvg-logo="https://i.imgur.com/IDaGX86.jpg" group-title="ALGERIA",Echorouk TV
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="El Bilad" tvg-id="" tvg-logo="https://i.imgur.com/s7PPToI.png" group-title="ALGERIA",El Bilad
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
+#EXTINF:-1 tvg-name="El Djazair N1" tvg-id="" tvg-logo="https://i.imgur.com/BB8ohg6.png" group-title="ALGERIA",El Djazair N1
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
+#EXTINF:-1 tvg-name="El Djazairia One" tvg-id="" tvg-logo="https://i.imgur.com/ZqErjQh.png" group-title="ALGERIA",El Djazairia One
+https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="EL FADJR TV" tvg-id="" tvg-logo="https://i.imgur.com/2TZBV6Z.png" group-title="ALGERIA",EL FADJR TV
+https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
+#EXTINF:-1 tvg-name="EL HAYAT TV " tvg-id="" tvg-logo="https://i.imgur.com/5f2wuwV.png" group-title="ALGERIA",EL HAYAT TV 
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
+#EXTINF:-1 tvg-name="El Heddaf TV" tvg-id="" tvg-logo="https://i.imgur.com/SFg3PXT.png" group-title="ALGERIA",El Heddaf TV
+https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="Ennahar TV " tvg-id="" tvg-logo="https://i.imgur.com/KWjBPxC.png" group-title="ALGERIA",Ennahar TV 
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="Lina TV " tvg-id="" tvg-logo="https://i.imgur.com/gj1PJzS.png" group-title="ALGERIA",Lina TV 
+https://cdn02.hta.dz/abr_htatv/Lina_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="Samira TV" tvg-id="" tvg-logo="https://i.imgur.com/cDColjR.png" group-title="ALGERIA",Samira TV
+https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8

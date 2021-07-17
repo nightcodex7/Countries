@@ -1,29 +1,121 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** USA MYTVTOGO - F R E E - I P T V @Github.com" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA MYTVTOGO - F R E E - I P T V @Github.com
-https://cutt.ly/omG1nwS
-#EXTINF:-1 tvg-name="Action Sports 4U" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/K2XHhWW.png",Action Sports 4U
-https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="USA MYTVTOGO",American Classic TV
-https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgYEjYE.png" group-title="USA MYTVTOGO",Blush TV
-https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Cooking 4U" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/SxRzFO8.png",Cooking 4U
-https://nimble.dashstreams.net/onestudio/cooking_4u_network/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0UDljE.png" group-title="USA MYTVTOGO",It's At The Movies
-https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RMnzfj1.png" group-title="USA",Opportunity Knocks TV
-https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
-#EXTINF:-1 tvg-name="Travel 4U" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/GFyJviy.png",Travel 4U
-https://nimble.dashstreams.net/onestudio/travel4u/playlist.m3u8
-#EXTINF:-1 tvg-name="Network - Bluegrass Music" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/wha8zxc.png",Network - Bluegrass Music
-https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/playlist.m3u8
-#EXTINF:-1 tvg-name="Network - Going To War" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="",Network - Going To War
-https://nimble.dashstreams.net/onestudio/going_to_war/playlist.m3u8
-#EXTINF:-1 tvg-name="Network - Lets Talk About It" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="",Network - Lets Talk About It
-https://nimble.dashstreams.net/onestudio/lets_talk_about_it/playlist.m3u8
-#EXTINF:-1 tvg-name="Network - nPowered TV" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="",Network - nPowered TV
-https://nimble.dashstreams.net/onestudio/npowered/playlist.m3u8
-#EXTINF:-1 tvg-name="Network - OK TV - F R E E - I P T V @Github.com" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="",Network - OK TV - F R E E - I P T V @Github.com
-https://nimble.dashstreams.net/onestudio/myoktv/playlist.m3u8
-#EXTINF:-1 tvg-name="Network - Planet Cannabis Shopping - F R E E - I P T V @Github.com" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="",Network - Planet Cannabis Shopping - F R E E - I P T V @Github.com
-https://nimble.dashstreams.net/onestudio/planetshopping/playlist.m3u8
+#EXTINF:-1 tvg-name="*** USA MYTVTOGO - github.com/free-iptv" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA MYTVTOGO - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="Action Sports 4U" tvg-id="" tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="USA MYTVTOGO",Action Sports 4U
+https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/chunklist_w1162107810.m3u8
+#EXTINF:-1 tvg-name="American Classic TV" tvg-id="" tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="USA MYTVTOGO",American Classic TV
+https://broadcast.mytvtogo.net/AmericanClassicTV/AmericanClassicTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="" tvg-logo="https://i.imgur.com/MeXCLL5.png" group-title="USA MYTVTOGO",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="American Horrors" tvg-id="" tvg-logo="https://i.imgur.com/QVuHIjh.jpg" group-title="USA MYTVTOGO",American Horrors
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastamericanhorrors/playlist.m3u8
+#EXTINF:-1 tvg-name="Apple Sauce TV" tvg-id="" tvg-logo="https://i.imgur.com/sz6vuXl.png" group-title="USA MYTVTOGO",Apple Sauce TV
+https://broadcast.mytvtogo.net/applesaucetv/applesaucetv/playlist.m3u8
+#EXTINF:-1 tvg-name="Australian News Channel" tvg-id="" tvg-logo="https://i.imgur.com/WcqfsLp.png" group-title="USA MYTVTOGO",Australian News Channel
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaustralianewschannel/playlist.m3u8
+#EXTINF:-1 tvg-name="AWE Plus" tvg-id="" tvg-logo="https://i.imgur.com/5v7rUhm.jpg" group-title="USA MYTVTOGO",AWE Plus
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaweplus/playlist.m3u8
+#EXTINF:-1 tvg-name="Beach Coast TV" tvg-id="" tvg-logo="https://i.imgur.com/XEwBuW5.jpg" group-title="USA MYTVTOGO",Beach Coast TV
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastbeachtveastcoast/playlist.m3u8
+#EXTINF:-1 tvg-name="Black Widow TV" tvg-id="" tvg-logo="https://i.imgur.com/mk4yB6U.jpg" group-title="USA MYTVTOGO",Black Widow TV
+https://broadcast.mytvtogo.net/blackwidowtv/blackwidowtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bluegrass Music 4U" tvg-id="" tvg-logo="https://i.imgur.com/wha8zxc.png" group-title="USA MYTVTOGO",Bluegrass Music 4U
+https://broadcast.mytvtogo.net/blugrassmusic/blugrassmusic/playlist.m3u8
+#EXTINF:-1 tvg-name="Blush TV" tvg-id="" tvg-logo="https://i.imgur.com/RgYEjYE.png" group-title="USA MYTVTOGO",Blush TV
+https://broadcast.mytvtogo.net/blushtv/blushtv/playlist.m3u8
+#EXTINF:-1 tvg-name="bspoketv" tvg-id="" tvg-logo="https://i.imgur.com/dJRUVNg.png" group-title="USA MYTVTOGO",bspoketv
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastbespoketv/playlist.m3u8
+#EXTINF:-1 tvg-name="California Music Channel" tvg-id="" tvg-logo="https://i.imgur.com/uYIthhc.jpg" group-title="USA MYTVTOGO",California Music Channel
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcaliforniamusicchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="Camera Smile TV" tvg-id="" tvg-logo="https://i.imgur.com/gFoJeHB.jpg" group-title="USA MYTVTOGO",Camera Smile TV
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcamerasmile/playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoons 4U" tvg-id="" tvg-logo="https://i.imgur.com/yOMjIOA.png" group-title="USA MYTVTOGO",Cartoons 4U
+https://broadcast.mytvtogo.net/cartoon4utvnetwork/cartoon4utvnetwork/playlist.m3u8
+#EXTINF:-1 tvg-name="CBN News" tvg-id="" tvg-logo="https://i.imgur.com/Le0bqdE.jpg" group-title="USA MYTVTOGO",CBN News
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcbnnews/playlist.m3u8
+#EXTINF:-1 tvg-name="Celebrity Scene TV" tvg-id="" tvg-logo="https://i.imgur.com/mgBDPN6.jpg" group-title="USA MYTVTOGO",Celebrity Scene TV
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcelebrityscene/playlist.m3u8
+#EXTINF:-1 tvg-name="Classic Arts Showcase" tvg-id="" tvg-logo="https://i.imgur.com/XrZgXjH.jpg" group-title="USA MYTVTOGO",Classic Arts Showcase
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastclassicartsshowcase/playlist.m3u8
+#EXTINF:-1 tvg-name="Classic TV 4U" tvg-id="" tvg-logo="https://i.imgur.com/N1R96w2.jpg" group-title="USA MYTVTOGO",Classic TV 4U
+https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8
+#EXTINF:-1 tvg-name="CNA News" tvg-id="" tvg-logo="https://i.imgur.com/d1fBdhw.jpg" group-title="USA MYTVTOGO",CNA News
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcnanews/playlist.m3u8
+#EXTINF:-1 tvg-name="Cooking 4U" tvg-id="" tvg-logo="https://i.imgur.com/SxRzFO8.png" group-title="USA MYTVTOGO",Cooking 4U
+https://broadcast.mytvtogo.net/cooking4u/cooking4u/playlist.m3u8
+#EXTINF:-1 tvg-name="Contemporary Christian Music 4U" tvg-id="" tvg-logo="https://i.imgur.com/UoRKXgr.jpg" group-title="USA MYTVTOGO",Contemporary Christian Music 4U
+https://broadcast.mytvtogo.net/contemporarychristian/contemporarychristian/playlist.m3u8
+#EXTINF:-1 tvg-name="Country Music 4U" tvg-id="" tvg-logo="https://i.imgur.com/S33YDK0.png" group-title="USA MYTVTOGO",Country Music 4U
+https://broadcast.mytvtogo.net/countrymusic4u/countrymusic4u/playlist.m3u8
+#EXTINF:-1 tvg-name="Documentaries 4U" tvg-id="" tvg-logo="https://i.imgur.com/jsamDEl.png" group-title="USA MYTVTOGO",Documentaries 4U
+https://broadcast.mytvtogo.net/documentaries4u/documentaries4u/playlist.m3u8
+#EXTINF:-1 tvg-name="Downtown Beats" tvg-id="" tvg-logo="https://i.imgur.com/z9EBBoP.jpg" group-title="USA MYTVTOGO",Downtown Beats
+https://broadcast.mytvtogo.net/downtownbeats/downtownbeats/playlist.m3u8
+#EXTINF:-1 tvg-name="Energy Network" tvg-id="" tvg-logo="https://i.imgur.com/0Uox7K6.png" group-title="USA MYTVTOGO",Energy Network
+https://broadcast.mytvtogo.net/energytv/energytv/playlist.m3u8
+#EXTINF:-1 tvg-name="Family TV 4U" tvg-id="" tvg-logo="https://i.imgur.com/ObwE88b.png" group-title="USA MYTVTOGO",Family TV 4U
+https://broadcast.mytvtogo.net/familytv4u/familytv4u/playlist.m3u8
+#EXTINF:-1 tvg-name="Fight Plus TV" tvg-id="" tvg-logo="https://i.imgur.com/ROMchnT.png" group-title="USA MYTVTOGO",Fight Plus TV
+http://playout4multirtmp.tulix.tv/live5/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-name="Going To War" tvg-id="" tvg-logo="https://i.imgur.com/3mM9cwd.jpg" group-title="USA MYTVTOGO",Going To War
+https://broadcast.mytvtogo.net/letsgotowar/letsgotowar/playlist.m3u8
+#EXTINF:-1 tvg-name="Gone Fishing" tvg-id="" tvg-logo="https://i.imgur.com/jpTP6rV.png" group-title="USA MYTVTOGO",Gone Fishing
+https://broadcast.mytvtogo.net/gonefishing/gonefishing/playlist.m3u8
+#EXTINF:-1 tvg-name="Gone Fishing Offshore" tvg-id="" tvg-logo="https://i.imgur.com/6QNr4vu.png" group-title="USA MYTVTOGO",Gone Fishing Offshore
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastFishingOffshore30a/playlist.m3u8
+#EXTINF:-1 tvg-name="Gone Hunting" tvg-id="" tvg-logo="https://i.imgur.com/DEfS6DK.png" group-title="USA MYTVTOGO",Gone Hunting
+https://broadcast.mytvtogo.net/gonehunting/gonehunting/playlist.m3u8
+#EXTINF:-1 tvg-name="Gospel Music 4U" tvg-id="" tvg-logo="https://i.imgur.com/Jo9E7S5.jpg" group-title="USA MYTVTOGO",Gospel Music 4U
+https://broadcast.mytvtogo.net/gospelmusic4u/gospelmusic4u/playlist.m3u8
+#EXTINF:-1 tvg-name="HD Fashion & Lifestyle" tvg-id="" tvg-logo="https://i.imgur.com/jh1p65N.jpg" group-title="USA MYTVTOGO",HD Fashion & Lifestyle
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcasthdfashionlifestyle/playlist.m3u8
+#EXTINF:-1 tvg-name="Horrified TV" tvg-id="" tvg-logo="https://i.imgur.com/cA6Mh6l.jpg" group-title="USA MYTVTOGO",Horrified TV
+https://broadcast.mytvtogo.net/horrifiedtv/horrifiedtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Let’s Build Together" tvg-id="" tvg-logo="https://i.imgur.com/V9aoNiT.png" group-title="USA MYTVTOGO",Let’s Build Together
+https://broadcast.mytvtogo.net/letsbuildtv/letsbuildtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Let’s Go To The Movies" tvg-id="" tvg-logo="https://i.imgur.com/WklYyHR.jpg" group-title="USA MYTVTOGO",Let’s Go To The Movies
+https://broadcast.mytvtogo.net/itsatthemovies/itsatthemovies/playlist.m3u8
+#EXTINF:-1 tvg-name="Lets Talk About It" tvg-id="" tvg-logo="https://i.imgur.com/ZAnZFKx.png" group-title="USA MYTVTOGO",Lets Talk About It
+https://broadcast.mytvtogo.net/letstalkaboutit/letstalkaboutit/playlist.m3u8
+#EXTINF:-1 tvg-name="Living Outdoors" tvg-id="" tvg-logo="https://i.imgur.com/qShL1iy.jpg" group-title="USA MYTVTOGO",Living Outdoors
+https://broadcast.mytvtogo.net/livingoutdoors/livingoutdoors/playlist.m3u8
+#EXTINF:-1 tvg-name="Mo Laughter" tvg-id="" tvg-logo="https://i.imgur.com/NGWICaT.png" group-title="USA MYTVTOGO",Mo Laughter
+https://broadcast.mytvtogo.net/molaughtertv/molaughtertv/playlist.m3u8
+#EXTINF:-1 tvg-name="Movee 4U" tvg-id="" tvg-logo="https://i.imgur.com/CA3plWr.jpg" group-title="USA MYTVTOGO",Movee 4U
+https://broadcast.mytvtogo.net/movee4u/movee4u/playlist.m3u8
+#EXTINF:-1 tvg-name="Musica Latina Para Ti" tvg-id="" tvg-logo="https://i.imgur.com/Sh62w2j.png" group-title="USA MYTVTOGO",Musica Latina Para Ti
+https://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/playlist.m3u8
+#EXTINF:-1 tvg-name="My 30-A TV" tvg-id="" tvg-logo="https://i.imgur.com/dHoqNFD.jpg" group-title="USA MYTVTOGO",My 30-A TV
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmy30atvLifestyle30a/playlist.m3u8
+#EXTINF:-1 tvg-name="My Beach TV" tvg-id="" tvg-logo="https://i.imgur.com/Yf3kceX.png" group-title="USA MYTVTOGO",My Beach TV
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmybeachtv30a/playlist.m3u8
+#EXTINF:-1 tvg-name="My Life 4U" tvg-id="" tvg-logo="https://i.imgur.com/auiyUxr.jpg" group-title="USA MYTVTOGO",My Life 4U
+https://broadcast.mytvtogo.net/mylifetv/mylifetv/playlist.m3u8
+#EXTINF:-1 tvg-name="NASA TV" tvg-id="" tvg-logo="https://i.imgur.com/jizW4FY.png" group-title="USA MYTVTOGO",NASA TV
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnasa/playlist.m3u8
+#EXTINF:-1 tvg-name="News Net" tvg-id="" tvg-logo="https://i.imgur.com/rVaFe36.png" group-title="USA MYTVTOGO",News Net
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnewsnet/playlist.m3u8
+#EXTINF:-1 tvg-name="NewsMax TV" tvg-id="" tvg-logo="https://i.imgur.com/989fA5J.jpg" group-title="USA MYTVTOGO",NewsMax TV
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnewsmaxtv/playlist.m3u8
+#EXTINF:-1 tvg-name="OAN Plus" tvg-id="" tvg-logo="https://i.imgur.com/mrxrEKi.jpg" group-title="USA MYTVTOGO",OAN Plus
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastoannews/playlist.m3u8
+#EXTINF:-1 tvg-name="Planet Cannabis Entertainment" tvg-id="" tvg-logo="https://i.imgur.com/VvFKRN0.png" group-title="USA MYTVTOGO",Planet Cannabis Entertainment
+https://broadcast.mytvtogo.net/planetcannabis/planetcannabis/playlist.m3u8
+#EXTINF:-1 tvg-name="Planet Cannabis Music" tvg-id="" tvg-logo="https://i.imgur.com/cnb03gs.png" group-title="USA MYTVTOGO",Planet Cannabis Music
+https://broadcast.mytvtogo.net/pcenmusic/pcenmusic/playlist.m3u8
+#EXTINF:-1 tvg-name="Planet Cannabis Shopping" tvg-id="" tvg-logo="https://i.imgur.com/WbfIQHl.png" group-title="USA MYTVTOGO",Planet Cannabis Shopping
+https://broadcast.mytvtogo.net/shopping4u/shopping4u/playlist.m3u8
+#EXTINF:-1 tvg-name="Right Now TV" tvg-id="" tvg-logo="https://i.imgur.com/E9tsf53.jpg" group-title="USA MYTVTOGO",Right Now TV
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastrightnowtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sci-Fi 4U" tvg-id="" tvg-logo="https://i.imgur.com/IvNHCp3.png" group-title="USA MYTVTOGO",Sci-Fi 4U
+https://broadcast.mytvtogo.net/SciFiTV4u/SciFiTV4u/playlist.m3u8
+#EXTINF:-1 tvg-name="Sports TV Plus" tvg-id="" tvg-logo="https://i.imgur.com/C64NyYt.png" group-title="USA MYTVTOGO",Sports TV Plus
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastsportstvplus/playlist.m3u8
+#EXTINF:-1 tvg-name="Street Music 4U" tvg-id="" tvg-logo="https://i.imgur.com/rb6w7yY.png" group-title="USA MYTVTOGO",Street Music 4U
+https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8
+#EXTINF:-1 tvg-name="Toon Krazy TV" tvg-id="" tvg-logo="https://i.imgur.com/D0wg6CP.png" group-title="USA MYTVTOGO",Toon Krazy TV
+https://broadcast.mytvtogo.net/toonkrazy/toonkrazy/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel 4U" tvg-id="" tvg-logo="https://i.imgur.com/nTwpGor.png" group-title="USA MYTVTOGO",Travel 4U
+https://broadcast.mytvtogo.net/travel4u/travel4u/playlist.m3u8
+#EXTINF:-1 tvg-name="Westerns 4U" tvg-id="" tvg-logo="https://i.imgur.com/WupyC5e.png" group-title="USA MYTVTOGO",Westerns 4U
+https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
