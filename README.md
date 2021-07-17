@@ -46,6 +46,11 @@ https://whrl.pl/RginK8
 
 ... and more and more. Hate, lies... Fear that FREE-IPTV will go back online completely because WE have the best repo with legal streams, over 5100 streams!!!!
 
+Saturday, 17 July 2021: 23:06 (MHZ +1) - the private repo has just been deleted! Fuck you Geonsey and and Free2ViewTV, That's the only reason for your agitation, because we are better, not only in the search results... Haha...
+
+https://www.google.com/search?q=free+iptv&source=hp&ei=ikfzYJHsKOCEjLsPq4uZEA&iflsig=AINFCbYAAAAAYPNVmvQw5yOkeIXFuWlcHtZmLw6CiGKy&oq=free+iptv&gs_lcp=Cgdnd3Mtd2l6EAMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOggIABCxAxCDAToCCC46CAguELEDEIMBOgUIABCxAzoLCC4QsQMQxwEQowI6BQguELEDOg4ILhCxAxDHARCjAhCTAjoICC4QxwEQrwFQixpYo0FgzVVoAXAAeACAAVeIAYsFkgEBOZgBAKABAaoBB2d3cy13aXqwAQA&sclient=gws-wiz&ved=0ahUKEwiR2Y6zguvxAhVgAmMBHatFBgIQ4dUDCAg&uact=5
+
+Good night!
 # Simple Rules
 
 1. ALL M3U´s ARE INTENDED FOR PRIVATE USE ONLY
