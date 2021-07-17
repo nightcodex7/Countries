@@ -46,7 +46,7 @@ https://whrl.pl/RginK8
 
 ... and more and more. Hate, lies... Fear that FREE-IPTV will go back online completely because WE have the best repo with legal streams, over 5100 streams!!!!
 
-# Simple Rules (Soon the complete repo will be freely available for ALL here)
+# Simple Rules
 
 1. ALL M3U´s ARE INTENDED FOR PRIVATE USE ONLY
 2. IT IS NOT ALLOWED TO SEND US ILLGEGAL STREAMS VIA PULL REQUEST OR POST HERE IN OUR REPO
@@ -56,7 +56,7 @@ https://whrl.pl/RginK8
 6. INCITEMENT ON THE INTERNET RE: OUR OLD REPO WILL NOT BE TOLERATED
 7. STUPID FORKING IS NOT TOLERATED. IF YOU WANT TO CREATE A FORK IN ORDER TO WORK WITH US, PLEASE CLARIFY IT WITH US BEFOREHAND VIA ISSUE.
 
-THOSE WHO THINK THEY DON'T HAVE TO OBEY THESE RULES WILL THEN READ SOMETHING ABOUT THEIR STUPID BEHAVIOUR ON GITHUB (OUR BLACKLIST(coming soon)), FACEBOOK, TWITTER, INSTAGRAM AND OUR WP-BLOCK. ;-)
+THOSE WHO THINK THEY DON'T HAVE TO OBEY THESE RULES WILL THEN READ SOMETHING ABOUT THEIR STUPID BEHAVIOUR ON GITHUB (OUR BLACKLIST(coming soon)), FACEBOOK, TWITTER, INSTAGRAM AND OUR WP-BLOCK. ;-) Special greetings here to IPTV-ORG, IPTVMATE, MAGGY (vuplus-support.org) and some insignificant, but whose website with DCMA (blocked by Google) we know! 
 
 # How to use the m3u´s
 
