@@ -36,6 +36,62 @@ https://freeiptv4all.wordpress.com/2021/07/17/geonsey-free2viewtv-macht-dumm-wei
 
 So the end is unfortunately open, thank the guy (link) who seems to have no brains ;-)
 
-Have a good weekend
+Saturday, 17 July 2021: Late afternoon! Because of the agitation and the lies of the 2 idiots Geonsey and Apsattv, exactly what they are afraid of is now happening! That is the ONLY reason why they keep on agitating, hoping that IPTV will give up. That's what we say... fuck you both, it's NOW going full REpo online for ALL.
+
+https://whrl.pl/Rgij0y
+
+https://whrl.pl/RgilYX
+
+https://whrl.pl/RginK8
+
+... and more and more. Hate, lies... Fear that FREE-IPTV will go back online completely because WE have the best repo with legal streams, over 5100 streams!!!!
+
+# Simple Rules (Soon the complete repo will be freely available for ALL here)
+
+1. ALL M3U´s ARE INTENDED FOR PRIVATE USE ONLY
+2. IT IS NOT ALLOWED TO SEND US ILLGEGAL STREAMS VIA PULL REQUEST OR POST HERE IN OUR REPO
+3. USE FOR COMMERCIAL PURPOSES IS NOT PERMITTED (You can ask for it per ISSUE)
+4. USE FOR OPEN SOURCE PROJEKTS ONLY WITH OUR CONSENT (You can ask for it per ISSUE)
+5. DISTRIBUTING OR POSTING OUR LISTS IN GITHUB, FORUMS, HOMEPAGES OR IN SOCIAL NETWORKS IS NOT ALLOWED WITHOUT REFERENCE (BACKLINK TO REPO)
+6. INCITEMENT ON THE INTERNET RE: OUR OLD REPO WILL NOT BE TOLERATED
+7. STUPID FORKING IS NOT TOLERATED. IF YOU WANT TO CREATE A FORK IN ORDER TO WORK WITH US, PLEASE CLARIFY IT WITH US BEFOREHAND VIA ISSUE.
+
+THOSE WHO THINK THEY DON'T HAVE TO OBEY THESE RULES WILL THEN READ SOMETHING ABOUT THEIR STUPID BEHAVIOUR ON GITHUB (OUR BLACKLIST(coming soon)), FACEBOOK, TWITTER, INSTAGRAM AND OUR WP-BLOCK. ;-)
+
+# How to use the m3u´s
+
+The lists work fine with me in the IPTV Simple Client from Kodi or the VLC Player. To automatically create the individual lists
+to one list, I use the Add-on IPTV-Merge from Matt Huisman. ;-) You find this great Add-on here: [IPTV Merge Kodi Add-on](https://www.matthuisman.nz/2019/02/iptv-merge-kodi-add-on.html)
+
+Without Kodi you can use the lists in the VLC Media Player. :-)
+
+You can also use the `ZZ_PLAYLIST_ALL_TV.m3u`, there you have all TV stations in one list (.m3u).
+
+The remote path to the m3u´s is (Example):
+
+https://raw.githubusercontent.com/Free-IPTV/Countries/master/DE01_GERMANY.m3u
+
+or the playlist (all streams in one file):
+
+https://raw.githubusercontent.com/Free-IPTV/Countries/master/ZZ_PLAYLIST_ALL_TV.m3u
+
+# Important to contributors (fork)
+
+If you add streams to your current fork and make a pull request, please note the following:
+
+1. Pay attention to the alphabetical order (0-9. A-Z).
+2. Add the same Group-Name, it is the Country
+3. Do not add any GEO-Blocked streams, the streams in my M3Us can be seen by anyone, anywhere.
+4. Don't add illegal streams. Unfortunately there have been people who already did that and gave the name Kodi a bad reputation through their ignorance.
+5. Don't add new parameters. Only use these tags and order: #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title=""` and no others!
+
+I'm always grateful for any help, it's a lot of work. If everything fits, your pull request will also be accepted. :-)
+
+Have a nice weekend!
+
+
+
+
+
 
 
