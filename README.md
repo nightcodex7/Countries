@@ -15,10 +15,10 @@ Just as Mr Huisman demands something to change, I make the following demand!
 
 If we find a way and I accept it, the following happens:
 
-1. The private repo is deleted
-2. All m3u's we have with the newest and latest streams will go back into the public repo!
-3. Anything posted by Free-IPTV regarding the smear campaign here or in other media will be deleted by us!
-4. Free-IPTV also publicly apologises
+4. The private repo is deleted
+5. All m3u's we have with the newest and latest streams will go back into the public repo!
+6. Anything posted by Free-IPTV regarding the smear campaign here or in other media will be deleted by us!
+7. Free-IPTV also publicly apologises
 
 There will be new and simple rules, whoever simply copies and pastes our work as before and does not mention Free-IPTV as a source will be put on the 01_Blacklist.md and will also be mentioned on Twitter and the WP-Blog of Free-IPTV. 
 
@@ -29,6 +29,12 @@ What comes now, let's wait and see what the reaction is. I hope that sanity and 
 Friday, 16 July 2021: There are always a few people who think they can continue to spread lies about Free-ITV. I offer a peaceful way and just wait for those who remain factual and think. In Germany there is a saying that goes "Der Klügere gibt nach". ;-) 
 
 https://forums.whirlpool.net.au/thread/3m0107l6?p=3
+
+Saturday, 17 July 2021: Thanks to Mr. Matt Huisman, point 1 is almost fulfilled. :-) Unfortunately, there are also guys who are apparently too stupid to use their brains. Point 3 is NOT fulfilled! More info here:
+
+https://freeiptv4all.wordpress.com/2021/07/17/geonsey-free2viewtv-macht-dumm-weiter/
+
+So the end is unfortunately open, thank the guy (link) who seems to have no brains ;-)
 
 Have a good weekend
 
