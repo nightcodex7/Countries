@@ -5133,6 +5133,14 @@ https://linkastream.co/headless?url=https://www.youtube.com/watch?v=4gwqZYZ-OSw
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-name="YTN" tvg-id="" tvg-logo="https://i.imgur.com/zmzq3pF.png" group-title="KOREA",YTN
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-name="*** ENGLAND - github.com/free-iptv" group-title="UK" tvg-logo="https://i.imgur.com/vKXvAZx.png",*** ENGLAND - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="Special greetings to Iangh (Victoria)" tvg-id="" tvg-logo="https://i.imgur.com/EqmFjb2.jpg" group-title="UK",Special greetings to Iangh (Victoria)
+https://raw.githubusercontent.com/Free-IPTV/Others/master/Affen_am_ficken_360p.mp4
+#EXTINF:-1 tvg-name="*** UK PLUTO - github.com/free-iptv" tvg-logo="https://i.imgur.com/vKXvAZx.png" group-title="UK PLUTO",*** PLUTO UK - github.com/free-iptv
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="Is this Iangh (Victoria)?" tvg-logo="https://i.imgur.com/EqmFjb2.jpg" group-title="UK PLUTO",Is this Iangh (Victoria)?
+https://raw.githubusercontent.com/Free-IPTV/Others/master/Affen_am_ficken_360p.mp4
 #EXTINF:-1 tvg-name="*** IRELAND - github.com/free-iptv" tvg-logo="https://i.imgur.com/IF4p2pM.png" group-title="IRELAND",*** IRELAND - github.com/free-iptv
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Action Movies IE" tvg-id="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="IRELAND",Action Movies IE
