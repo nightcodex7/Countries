@@ -1,7 +1,7 @@
 # Countries
 Free IPTV with legally receivable TV channels for Kodi, VLC or other media players as .m3u for Kodi. :-) The idea and the launch of the repo started at the end of 2019. From the beginning, it was written on the flag to provide ONLY LEGAL streams for everyone. You don't need a VPN, everything in the m3u's should be available everywhere.
 
-**We now have over 5000 free and legal streams, no rights are violated, there are no violations of existing laws. This should be supported and not boycotted with stupid actions (Geonsey and Apsattv).**
+**We now have more than 5000 free and legal streams, no rights are violated, there are no violations of existing laws. This should be supported and not boycotted with stupid hate speech (Geonsey, Apsattv, Iangh and Drspy).**
 
 With such a large number of streams and so many contributors, mistakes can happen. The entries are checked to the best of our knowledge and belief. Should we ever make a mistake, please report it to us as an "ISSUE".
 
@@ -35,9 +35,13 @@ or the playlist (all streams in one file):
 https://raw.githubusercontent.com/Free-IPTV/Countries/master/ZZ_PLAYLIST_ALL_TV.m3u
 
 # Additional information about the stream names
+
 (YT) = This stream only works with the Youtube addon in Kodi
+
 (DM) = This stream only works with the Dailymotion addon in Kodi
+
 YT = This Youtube stream works without the Youtube addon
+
 DM = This Dailymotionstream works without the Dailymotion addon
 
 # Important to contributors (fork)
