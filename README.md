@@ -3,7 +3,7 @@ Free IPTV with legally receivable TV channels for Kodi, VLC or other media playe
 
 **We now have more than 5000 free and legal streams, no rights are violated, there are no violations of existing laws. This should be supported and not boycotted with stupid hate speech (Geonsey, Apsattv, Iangh and Drspy).**
 
-With such a large number of streams and so many contributors, mistakes can happen. The entries are checked to the best of our knowledge and belief. Should we ever make a mistake, please report it to us as an "ISSUE".
+With such a large number of streams and so many contributors, mistakes can happen. The entries are always checked to the best of our knowledge and belief. Should we ever make a mistake, please report it to us as an "ISSUE".
 
 # Simple Rules
 
