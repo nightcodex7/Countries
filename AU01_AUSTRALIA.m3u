@@ -35,6 +35,8 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 tvg-name="Australian Sports Channel" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="AUSTRALIA",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-name="Best! Is this Iangh (Victoria)?" tvg-id="" tvg-logo="https://i.imgur.com/EqmFjb2.jpg" group-title="AUSTRALIA",Best! Is this Iangh (Victoria)?
+https://raw.githubusercontent.com/Free-IPTV/Others/master/To_MY_Special_Friends_360p.mp4
 #EXTINF:-1 tvg-name="Bloomberg AU" tvg-id="" tvg-logo="https://i.imgur.com/qx2uHRU.png" group-title="AUSTRALIA",Bloomberg AU
 https://bloomberg-bloomberg-2-au.samsung.wurl.com	/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Bloomberg Australia" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/KKFqbHw.png" group-title="AUSTRALIA",Bloomberg Australia

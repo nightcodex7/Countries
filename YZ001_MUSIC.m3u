@@ -535,7 +535,7 @@ https://cloud2.streaminglivehd.com/8098/8098/.m3u8
 #EXTINF:-1 tvg-name="Xtra TV HD (ES)" tvg-id="" tvg-logo="https://i.imgur.com/w1Lc150.jpg" group-title="MUSIC",Xtra TV HD (ES)
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/playlist.m3u8
 #EXTINF:-1 tvg-name="XTV Music HD (CI)" tvg-id="" tvg-logo="https://i.imgur.com/Gh3UlFo.jpg" group-title="MUSIC",XTV Music HD (CI)
-https://tls.cdnz.cl/xtvmusic/xtvmusic/playlist.m3u8
+https://tls.cdnz.cl/xtvmusic-media/xtvmusic-media/playlist.m3u8
 #EXTINF:-1 tvg-name="Yuna Vision (DO)" tvg-id="" tvg-logo="https://i.imgur.com/SSGx4fa.png" group-title="MUSIC",Yuna Vision (DO)
 https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 #EXTINF:-1 tvg-name="Zerouno Tv Music (IT)" tvg-id="" tvg-logo="https://i.imgur.com/vC9NJ6D.png" group-title="MUSIC",Zerouno Tv Music (IT)

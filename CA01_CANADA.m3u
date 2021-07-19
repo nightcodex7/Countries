@@ -15,6 +15,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Toronto Gaunda Punjab" tvg-id="" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="CANADA",BBC Toronto Gaunda Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Best! I this Geonsey (CA)?" tvg-id="" tvg-logo="https://i.imgur.com/EqmFjb2.jpg" group-title="CANADA",Best! I this Geonsey (CA)?
+https://raw.githubusercontent.com/Free-IPTV/Others/master/To_MY_Special_Friends_360p.mp4
 #EXTINF:-1 tvg-name="Canada One" tvg-id="CanadaOne.ca" tvg-logo="https://i.imgur.com/KviUTYt.png" group-title="CANADA",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Canada Star TV" tvg-id="CanadaStarTV.ca" tvg-logo="https://i.imgur.com/2Q5kMbN.png" group-title="CANADA",Canada Star TV
