@@ -9,6 +9,8 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Arise News" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/BlNMp0k.png",Arise News
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-name="Best - Is this Iangh (Victoria)?" tvg-id="" tvg-logo="https://i.imgur.com/EqmFjb2.jpg" group-title="UK",Best- Is this Iangh (Victoria)?
+https://raw.githubusercontent.com/Free-IPTV/Others/master/To_MY_Special_Friends_360p.mp4
 #EXTINF:-1 tvg-name="Beano TV UK" tvg-id="" tvg-logo="https://i.imgur.com/XvBi1Ou.png" group-title="UK",Beano TV UK
 https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Bloomberg+ 4K UK" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg+ 4K  UK

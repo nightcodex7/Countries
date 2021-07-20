@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/uk.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/gb.xml"
 #EXTINF:-1 tvg-name="*** UK PLUTO - github.com/free-iptv" tvg-logo="https://i.imgur.com/vKXvAZx.png" group-title="UK PLUTO",*** PLUTO UK - github.com/free-iptv
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="5d4af00df345adb154b7a1f4" tvg-logo="https://images.pluto.tv/channels/5d4af00df345adb154b7a1f4/colorLogoPNG.png" group-title="UK PLUTO",21 Jump Street
