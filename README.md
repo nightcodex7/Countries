@@ -26,6 +26,8 @@ Without Kodi you can use the lists in the VLC Media Player. :-)
 
 You can also use the `ZZ_PLAYLIST_ALL_TV.m3u`, there you have all TV stations in one list (.m3u).
 
+You can also use this URL from a shortener: https://bit.ly/2To5gDh
+
 The remote path to the m3u´s is (Example):
 
 https://raw.githubusercontent.com/Free-IPTV/Countries/master/DE01_GERMANY.m3u
@@ -58,9 +60,6 @@ If you add streams to your current fork and make a pull request, please note the
 I'm always grateful for any help, it's a lot of work. If everything fits, your pull request will also be accepted. :-)
 
 Have fun with our m3u´s :-)
-
-
-
 
 
 
