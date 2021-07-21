@@ -29,6 +29,8 @@ https://streamlive85.arcapuglia.it:8080/live/canale85/index.m3u8
 https://streamlivesud.arcapuglia.it:8080/live/teleonda/index.m3u8
 #EXTINF:-1 tvg-name="Antenna Sud 174 Eventi" tvg-id="" tvg-logo="https://i.imgur.com/iXyoDKN.png" group-title="ITALY",Antenna Sud 174 Eventi
 https://streamlivesud.arcapuglia.it:8080/live/eventi/index.m3u8
+#EXTINF:-1 tvg-name="Antenna Sud 299" tvg-id="" tvg-logo="https://i.imgur.com/DDrhTB3.png" group-title="ITALY",Antenna Sud 299
+https://streamlivesud.arcapuglia.it:8080/live/cult/index.m3u8
 #EXTINF:-1 tvg-name="Antenna Tre Veneto" tvg-id="" tvg-logo="https://i.imgur.com/O3ZCHbt.jpg" group-title="ITALY",Antenna Tre Veneto
 https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Arte Network" tvg-id="" tvg-logo="https://i.imgur.com/DuTqycJ.png" group-title="ITALY",Arte Network
@@ -39,6 +41,8 @@ https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
 #EXTINF:-1 tvg-name="Azzura TV" tvg-id="" tvg-logo="https://i.imgur.com/YfbMq1r.jpg" group-title="ITALY",Azzura TV
 https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
+#EXTINF:-1 tvg-name="Basilicata 1" tvg-id="" tvg-logo="https://i.imgur.com/HigJFMG.png" group-title="ITALY",Basilicata 1
+http://77.68.40.210:8888/hls/basilicata1.m3u8
 #EXTINF:-1 tvg-name="Bergamo TV" tvg-id="" tvg-logo="https://i.imgur.com/6jNbS4e.png" group-title="ITALY",Bergamo TV
 http://api.new.livestream.com/accounts/245066/events/3063596/live.m3u8
 #EXTINF:-1 tvg-name="Big Name" tvg-id="" tvg-logo="https://i.imgur.com/hChduSn.png" group-title="ITALY",Big Name
