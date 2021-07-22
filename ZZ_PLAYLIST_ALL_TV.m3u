@@ -5134,9 +5134,7 @@ http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 #EXTINF:-1 tvg-name="KBS LiveCam DokDo" tvg-id="" tvg-logo="https://i.imgur.com/b7uMB9T.png" group-title="KOREA",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="KBS World YT" tvg-id="" tvg-logo="https://i.imgur.com/gljQEfD.png" group-title="KOREA",KBS World YT
-https://linkastream.co/headless?url=https://www.youtube.com/watch?v=4gwqZYZ-OSw
-#EXTINF:-1 tvg-name="TVN (English subtitles)" tvg-id=""  tvg-logo="https://i.imgur.com/G4Vi0rM.png" group-title="KOREA",TVN (English subtitles)
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+https://linkastream.co/headless?url=https://www.youtube.com/watch?v=dbw4EbTEbe0
 #EXTINF:-1 tvg-name="YTN" tvg-id="" tvg-logo="https://i.imgur.com/zmzq3pF.png" group-title="KOREA",YTN
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-name="*** ENGLAND - github.com/free-iptv" group-title="UK" tvg-logo="https://i.imgur.com/vKXvAZx.png",*** ENGLAND - github.com/free-iptv
@@ -7117,7 +7115,7 @@ http://tv-trt3.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Arabi" tvg-id="TRT Avaz" tvg-logo="https://i.imgur.com/qDPBS9C.png" group-title="TURKEY",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master_360.m3u8
 #EXTINF:-1 tvg-name="TRT Avaz" tvg-id="TRT Avaz" tvg-logo="https://i.imgur.com/gRd6UHn.png" group-title="TURKEY",TRT Avaz
-http://tv-trtavaz.live.trt.com.tr/master_720.m3u8
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel" tvg-id="TRT Belgesel" tvg-logo="https://i.imgur.com/9lW0TV2.png" group-title="TURKEY",TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Cocuk" tvg-id="TRT Cocuk" tvg-logo="https://i.imgur.com/ThPgKiG.jpg" group-title="TURKEY",TRT Çocuk
