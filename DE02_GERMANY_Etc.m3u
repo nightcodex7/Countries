@@ -13,3 +13,5 @@ https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlis
 https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tesas TV" tvg-id="" tvg-logo="https://i.imgur.com/xEGCX1f.png" group-title="GERMANY Etc",Tesas TV
 https://jola.live:16200/tesastv.m3u8
+#EXTINF:-1 tvg-name="ZDF Event Olympia 1" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 1
+https://zdf-hls-12.akamaized.net/hls/live/2016495/de/high/master.m3u8
