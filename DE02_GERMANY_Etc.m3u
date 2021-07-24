@@ -13,5 +13,33 @@ https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlis
 https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tesas TV" tvg-id="" tvg-logo="https://i.imgur.com/xEGCX1f.png" group-title="GERMANY Etc",Tesas TV
 https://jola.live:16200/tesastv.m3u8
-#EXTINF:-1 tvg-name="ZDF Event Olympia 1" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 1
+#EXTINF:-1 tvg-name="*** Event Streams Olympia 2021" group-title="GERMANY Etc" tvg-logo="https://i.imgur.com/ugG7gUs.png",*** Event Streams Olympia 2021
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="ARD Event Olympia 1" tvg-id="" tvg-logo="https://i.imgur.com/luroyTG.png" group-title="GERMANY Etc",ARD Event Olympia 1
+http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
+#EXTINF:-1 tvg-name="ARD Event Olympia 2" tvg-id="" tvg-logo="https://i.imgur.com/luroyTG.png" group-title="GERMANY Etc",ARD Event Olympia 2
+https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event Olympia 1" tvg-id="" tvg-logo="https://i.imgur.com/ZQXWoHC.png" group-title="GERMANY Etc",NDR Event Olympia 1
+http://ndrspezial-lh.akamaihd.net/i/spezial_1@430235/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event Olympia 2" tvg-id="" tvg-logo="https://i.imgur.com/ZQXWoHC.png" group-title="GERMANY Etc",NDR Event Olympia 2
+http://ndrspezial-lh.akamaihd.net/i/spezial_2@430236/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event Olympia 3" tvg-id="" tvg-logo="https://i.imgur.com/ZQXWoHC.png" group-title="GERMANY Etc",NDR Event Olympia 3
+http://ndrspezial-lh.akamaihd.net/i/spezial_3@430237/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event Olympia 4" tvg-id="" tvg-logo="https://i.imgur.com/ZQXWoHC.png" group-title="GERMANY Etc",NDR Event Olympia 4
+http://ndrspezial-lh.akamaihd.net/i/spezial_4@430238/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event Olympia 5" tvg-id="" tvg-logo="https://i.imgur.com/ZQXWoHC.png" group-title="GERMANY Etc",NDR Event Olympia 5
+http://ndrspezial-lh.akamaihd.net/i/spezial_5@430239/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event Olympia 6" tvg-id="" tvg-logo="https://i.imgur.com/ZQXWoHC.png" group-title="GERMANY Etc",NDR Event Olympia 6
+https://ndrspezial-lh.akamaihd.net/i/spezial_6@430240/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event Olympia 7" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 7
+https://zdf-hls-07.akamaized.net/hls/live/2016302/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event Olympia 8" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 8
+https://zdf-hls-08.akamaized.net/hls/live/2016303/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event Olympia 9" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 9
+https://zdf-hls-09.akamaized.net/hls/live/2016304/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event Olympia 10" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 10
+https://zdf-hls-10.akamaized.net/hls/live/2016305/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event Olympia 11" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 11
+https://zdf-hls-11.akamaized.net/hls/live/2016436/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event Olympia 12" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 12
 https://zdf-hls-12.akamaized.net/hls/live/2016495/de/high/master.m3u8

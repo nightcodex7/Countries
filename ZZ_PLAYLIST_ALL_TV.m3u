@@ -505,7 +505,35 @@ https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlis
 https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tesas TV" tvg-id="" tvg-logo="https://i.imgur.com/xEGCX1f.png" group-title="GERMANY Etc",Tesas TV
 https://jola.live:16200/tesastv.m3u8
-#EXTINF:-1 tvg-name="ZDF Event Olympia 1" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 1
+#EXTINF:-1 tvg-name="*** Event Streams Olympia 2021" group-title="GERMANY Etc" tvg-logo="https://i.imgur.com/ugG7gUs.png",*** Event Streams Olympia 2021
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="ARD Event Olympia 1" tvg-id="" tvg-logo="https://i.imgur.com/luroyTG.png" group-title="GERMANY Etc",ARD Event Olympia 1
+http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
+#EXTINF:-1 tvg-name="ARD Event Olympia 2" tvg-id="" tvg-logo="https://i.imgur.com/luroyTG.png" group-title="GERMANY Etc",ARD Event Olympia 2
+https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event Olympia 1" tvg-id="" tvg-logo="https://i.imgur.com/ZQXWoHC.png" group-title="GERMANY Etc",NDR Event Olympia 1
+http://ndrspezial-lh.akamaihd.net/i/spezial_1@430235/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event Olympia 2" tvg-id="" tvg-logo="https://i.imgur.com/ZQXWoHC.png" group-title="GERMANY Etc",NDR Event Olympia 2
+http://ndrspezial-lh.akamaihd.net/i/spezial_2@430236/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event Olympia 3" tvg-id="" tvg-logo="https://i.imgur.com/ZQXWoHC.png" group-title="GERMANY Etc",NDR Event Olympia 3
+http://ndrspezial-lh.akamaihd.net/i/spezial_3@430237/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event Olympia 4" tvg-id="" tvg-logo="https://i.imgur.com/ZQXWoHC.png" group-title="GERMANY Etc",NDR Event Olympia 4
+http://ndrspezial-lh.akamaihd.net/i/spezial_4@430238/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event Olympia 5" tvg-id="" tvg-logo="https://i.imgur.com/ZQXWoHC.png" group-title="GERMANY Etc",NDR Event Olympia 5
+http://ndrspezial-lh.akamaihd.net/i/spezial_5@430239/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event Olympia 6" tvg-id="" tvg-logo="https://i.imgur.com/ZQXWoHC.png" group-title="GERMANY Etc",NDR Event Olympia 6
+https://ndrspezial-lh.akamaihd.net/i/spezial_6@430240/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event Olympia 7" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 7
+https://zdf-hls-07.akamaized.net/hls/live/2016302/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event Olympia 8" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 8
+https://zdf-hls-08.akamaized.net/hls/live/2016303/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event Olympia 9" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 9
+https://zdf-hls-09.akamaized.net/hls/live/2016304/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event Olympia 10" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 10
+https://zdf-hls-10.akamaized.net/hls/live/2016305/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event Olympia 11" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 11
+https://zdf-hls-11.akamaized.net/hls/live/2016436/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event Olympia 12" tvg-id="" tvg-logo="https://i.imgur.com/aDtEi8D.png" group-title="GERMANY Etc",ZDF Event Olympia 12
 https://zdf-hls-12.akamaized.net/hls/live/2016495/de/high/master.m3u8
 #EXTINF:-1 tvg-name="*** GERMANY LOCAL - github.com/free-iptv" group-title="GERMANY LOCAL" tvg-logo="https://i.imgur.com/xku2oyd.png",*** GERMANY LOCAL - github.com/free-iptv
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
@@ -10422,7 +10450,7 @@ https://linkastream.co/headless?url=https://www.youtube.com/watch?v=K7rjApxYPtQ
 #EXTINF:-1 tvg-name="Zero Point Levi (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/3omxQFG.jpg" group-title="WEBCAMS",Zero Point Levi (FI) YT
 https://linkastream.co/headless?url=https://www.youtube.com/watch?v=LwihxyJ4V20
 #EXTINF:-1 tvg-name="****** GERMANY ******" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/gJGRDcn.jpg",****** GERMANY ******
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="105'5 Spreeradio" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/SfdY3rr.png",105'5 Spreeradio
 http://stream.spreeradio.de/spree-live/mp3-128/konsole
 #EXTINF:-1 tvg-name="105'5 Spreeradio 80er" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/1iayQmM.png",105'5 Spreeradio 80er
@@ -10450,14 +10478,23 @@ https://webstream.schlagerparadies.de/schlagerparadies128k.mp3
 #EXTINF:-1 tvg-name="Rock Antenne" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 tvg-name="****** SPAIN ******" group-title="RADIO SPAIN" radio="true" tvg-logo="https://i.imgur.com/acuIUpD.png",****** SPAIN ******
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="La Cuenca Radio" group-title="RADIO SPAIN" radio="true" tvg-logo="https://i.imgur.com/R0DQaME.jpg",La Cuenca Radio
 http://usa3.lhdserver.es:8082/stream
 #EXTINF:-1 tvg-name="****** USA ******" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/FDdeKor.png",****** USA ******
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/uHm1KSm.png",Fun Radio 92.7 Alabama
 https://ais-edge08-live365-dal02.cdnstream.com/a20884
 #EXTINF:-1 tvg-name="Thebig1510.com New Jersey" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/1z6u6ye.jpg",Thebig1510.com New Jersey
 https://ais-edge09-live365-dal02.cdnstream.com/a23482
 #EXTINF:-1 tvg-name="TOP GOLD" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/MN7jL8S.jpg",TOP GOLD
 https://live.topgold.al/topgold
+#EXTINF:-1 tvg-name="****** OLDIES ******" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/Jv8DmQr.jpg",****** OLDIES ******
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="60´s - Beatles Radio" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/0tj4sXv.png",60´s - Beatles Radio
+http://www.beatlesradio.com:8000/stream/1/
+#EXTINF:-1 tvg-name="60´s - Harmony Radio" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/iSdRq7b.png",60´s - Harmony Radio
+http://server1.harmonyradio.be:8052/stream/1/
+#EXTINF:-1 tvg-name="60´s - KTL Oldieradio" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/xHCWak0.jpg",60´s - KTL Oldieradio
+http://streamplus36.leonex.de:24844/stream/1/
+

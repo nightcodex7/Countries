@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="****** GERMANY ******" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/gJGRDcn.jpg",****** GERMANY ******
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="105'5 Spreeradio" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/SfdY3rr.png",105'5 Spreeradio
 http://stream.spreeradio.de/spree-live/mp3-128/konsole
 #EXTINF:-1 tvg-name="105'5 Spreeradio 80er" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/1iayQmM.png",105'5 Spreeradio 80er
@@ -28,14 +28,23 @@ https://webstream.schlagerparadies.de/schlagerparadies128k.mp3
 #EXTINF:-1 tvg-name="Rock Antenne" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 tvg-name="****** SPAIN ******" group-title="RADIO SPAIN" radio="true" tvg-logo="https://i.imgur.com/acuIUpD.png",****** SPAIN ******
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="La Cuenca Radio" group-title="RADIO SPAIN" radio="true" tvg-logo="https://i.imgur.com/R0DQaME.jpg",La Cuenca Radio
 http://usa3.lhdserver.es:8082/stream
 #EXTINF:-1 tvg-name="****** USA ******" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/FDdeKor.png",****** USA ******
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/uHm1KSm.png",Fun Radio 92.7 Alabama
 https://ais-edge08-live365-dal02.cdnstream.com/a20884
 #EXTINF:-1 tvg-name="Thebig1510.com New Jersey" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/1z6u6ye.jpg",Thebig1510.com New Jersey
 https://ais-edge09-live365-dal02.cdnstream.com/a23482
 #EXTINF:-1 tvg-name="TOP GOLD" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/MN7jL8S.jpg",TOP GOLD
 https://live.topgold.al/topgold
+#EXTINF:-1 tvg-name="****** OLDIES ******" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/Jv8DmQr.jpg",****** OLDIES ******
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="60´s - Beatles Radio" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/0tj4sXv.png",60´s - Beatles Radio
+http://www.beatlesradio.com:8000/stream/1/
+#EXTINF:-1 tvg-name="60´s - Harmony Radio" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/iSdRq7b.png",60´s - Harmony Radio
+http://server1.harmonyradio.be:8052/stream/1/
+#EXTINF:-1 tvg-name="60´s - KTL Oldieradio" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/xHCWak0.jpg",60´s - KTL Oldieradio
+http://streamplus36.leonex.de:24844/stream/1/
+
