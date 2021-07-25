@@ -159,8 +159,10 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a6f58959-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 tvg-name="Motorvision Classic TV DE" tvg-id="DEAJ0500425A" tvg-logo="https://i.imgur.com/K8F9dm9.png" group-title="GERMANY SG TV PLUS",Motorvision Classic TV DE
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9755626d-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1 tvg-name="Moviedome DE" tvg-id="DEBA3300039TT" tvg-logo="https://i.imgur.com/Q0coUUQ.png" group-title="GERMANY SG TV PLUS",Moviedome DE
-https://moviedome-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Moviedome Test 1 DE" tvg-id="DEBA3300039TT" tvg-logo="https://i.imgur.com/Q0coUUQ.png" group-title="GERMANY SG TV PLUS",Moviedome Test 1 DE
+https://moviedome-samsung.amagi.tv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-name="Moviedome Test 2 DE" tvg-id="DEBA3300039TT" tvg-logo="https://i.imgur.com/Q0coUUQ.png" group-title="GERMANY SG TV PLUS",Moviedome Test 2 DE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-kochmedia-moviedome-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-name="Moviedome Family DE" tvg-id="DEBA3300040CR" tvg-logo="https://i.imgur.com/Q0coUUQ.png" group-title="GERMANY SG TV PLUS",Moviedome Family DE
 https://moviedomefamily-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Nanoki DE" tvg-id="DEAK0500447A" tvg-logo="https://i.imgur.com/DbMjqzm.png" group-title="GERMANY SG TV PLUS",Nanoki DE
@@ -9177,26 +9179,38 @@ https://video-auth4.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/playlist.
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 #EXTINF:-1 tvg-name="*** ITALY - github.com/free-iptv" group-title="ITALY" tvg-logo="https://i.imgur.com/PzFJG5f.png",*** ITALY - github.com/free-iptv
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="7 Gold" tvg-id="" tvg-logo="https://i.imgur.com/6XYKu9l.jpg" group-title="ITALY",7 Gold
+https://stream6.xdevel.com/video0s86-370/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="12 TV Parma" tvg-id="" tvg-logo="https://i.imgur.com/7w0xhMG.png" group-title="ITALY",12 TV Parma
 https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
 #EXTINF:-1 tvg-name="51 Radio TV" tvg-id="" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="ITALY",51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-name="7 Gold" tvg-id="" tvg-logo="https://i.imgur.com/6XYKu9l.jpg" group-title="ITALY",7 Gold
-https://stream6.xdevel.com/video0s86-370/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="20 Mediaset" tvg-id="" tvg-logo="https://i.imgur.com/8SoOefS.png" group-title="ITALY",20 Mediaset
 https://origin-free-live1.mediaset.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:-1 tvg-name="111 TV" tvg-id="" tvg-logo="https://i.imgur.com/r5vcUF3.png" group-title="ITALY",111 TV
+https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
+#EXTINF:-1 tvg-name="696 TV" tvg-id="" tvg-logo="https://i.imgur.com/Z0ebuIY.png" group-title="ITALY",696 TV
+https://meridelive-lh.akamaihd.net/i/ottop_1@118465/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="AB Channel" tvg-id="" tvg-logo="https://i.imgur.com/y5564NI.png" group-title="ITALY",AB Channel
 https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC TV" tvg-id="" tvg-logo="https://i.imgur.com/9JIf9n9.png" group-title="ITALY",ABC TV
+https://streamlive.arcapuglia.it:8080/live/abctv/index.m3u8
 #EXTINF:-1 tvg-name="Action Movies" tvg-id="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="ITALY",Action Movies
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="AlmaTv" tvg-id="" tvg-logo="https://i.imgur.com/Ow9h0EQ.png" group-title="ITALY",AlmaTv
 https://5f11919dca3bd.streamlock.net/AlmaTv/AlmaTv/playlist.m3u8
+#EXTINF:-1 tvg-name="Alpa UNO" tvg-id="" tvg-logo="https://i.imgur.com/dCz8nQ4.png" group-title="ITALY",Alpa UNO
+http://live.streamcaster.net:1935/alpauno/alpauno/playlist.m3u8
 #EXTINF:-1 tvg-name="Alpauno" tvg-id="" tvg-logo="https://i.imgur.com/WU8RfJ5.jpg" group-title="ITALY",Alpauno
 https://5cbd3bc28341f.streamlock.net:444/alpauno/alpauno/playlist.m3u8
 #EXTINF:-1 tvg-name="AltoAdige TV" tvg-id="" tvg-logo="https://i.imgur.com/8SMHZls.png" group-title="ITALY",AltoAdige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Amuse Animation" tvg-id="" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="ITALY",Amuse Animation
 https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Antenna 2 Bergamo" tvg-id="" tvg-logo="https://i.imgur.com/MQxlSHy.png" group-title="ITALY",Antenna 2 Bergamo
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Antenna 3 Massa" tvg-id="" tvg-logo="https://i.imgur.com/tj5Ejsk.png" group-title="ITALY",Antenna 3 Massa
+http://163.172.88.73:1935/antenna3massa/a3/playlist.m3u8
 #EXTINF:-1 tvg-name="Antenna Sud 13" tvg-id="" tvg-logo="https://i.imgur.com/UlRYBy9.png" group-title="ITALY",Antenna Sud 13
 https://streamlive13.arcapuglia.it:8080/live/antennasud/index.m3u8
 #EXTINF:-1 tvg-name="Antenna Sud 85" tvg-id="" tvg-logo="https://i.imgur.com/npQpucm.png" group-title="ITALY",Antenna Sud 85
@@ -9209,6 +9223,8 @@ https://streamlivesud.arcapuglia.it:8080/live/eventi/index.m3u8
 https://streamlivesud.arcapuglia.it:8080/live/cult/index.m3u8
 #EXTINF:-1 tvg-name="Antenna Tre Veneto" tvg-id="" tvg-logo="https://i.imgur.com/O3ZCHbt.jpg" group-title="ITALY",Antenna Tre Veneto
 https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Apulia TV" tvg-id="" tvg-logo="https://i.imgur.com/KwO9o1G.png" group-title="ITALY",Apulia TV
+https://cp1.server89.com:19360/apuliawebtv/apuliawebtv.m3u8
 #EXTINF:-1 tvg-name="Arte Network" tvg-id="" tvg-logo="https://i.imgur.com/DuTqycJ.png" group-title="ITALY",Arte Network
 https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
 #EXTINF:-1 tvg-name="Atre Series" tvg-id="" tvg-logo="https://i.imgur.com/g5iBSq4.png" group-title="ITALY",Atre Series
@@ -9239,6 +9255,8 @@ https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m
 https://backup.superstreaming.inaria.me/BFC/index.m3u8
 #EXTINF:-1 tvg-name="CafeTV24" tvg-id="" tvg-logo="https://i.imgur.com/Ta05IbG.jpg" group-title="ITALY",CafeTV24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Calabria TV" tvg-id="" tvg-logo="https://i.imgur.com/qWirucd.png" group-title="ITALY",Calabria TV
+https://5db313b643fd8.streamlock.net:443/CalabriaTv2/CalabriaTv2/playlist.m3u8
 #EXTINF:-1 tvg-name="CalabriaUno TV" tvg-id="" tvg-logo="https://i.imgur.com/2X8wMxi.jpg" group-title="ITALY",CalabriaUno TV
 https://5f22d76e220e1.streamlock.net/calabriaunotv/calabriaunotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Camera dei Deputati" tvg-id="" tvg-logo="https://i.imgur.com/iRYFrGE.png" group-title="ITALY",Camera dei Deputati
@@ -9584,6 +9602,8 @@ https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky TG24" tvg-id="" tvg-logo="https://i.imgur.com/BATAEWy.png" group-title="ITALY",Sky TG24
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+#EXTINF:-1 tvg-name="SL 48 TV" tvg-id="" tvg-logo="https://i.imgur.com/dvXkutf.jpg" group-title="ITALY",SL 48 TV
+http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 #EXTINF:-1 tvg-name="Spike" tvg-id="" tvg-logo="https://i.imgur.com/XOJMD0u.png" group-title="ITALY",Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1 tvg-name="Sofy TV IT" tvg-id="" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="ITALY",Sofy TV IT
@@ -9596,6 +9616,8 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8
 #EXTINF:-1 tvg-name="Spotlight IT" tvg-id="" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" group-title="ITALY",Spotlight IT
 https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ST Europe Channel" tvg-id="" tvg-logo="https://i.imgur.com/yaS7e8H.png" group-title="ITALY",ST Europe Channel
+https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Stereo 5 TV" tvg-id="" tvg-logo="https://i.imgur.com/HnrRo2k.jpg" group-title="ITALY",Stereo 5 TV
 https://stream1.aswifi.it/stereo5/live/index.m3u8
 #EXTINF:-1 tvg-name="Stile TV" tvg-id="" tvg-logo="https://i.imgur.com/tx4D5de.jpg" group-title="ITALY",Stile TV
