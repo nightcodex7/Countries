@@ -1,29 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** FINLAND - github.com/free-iptv" group-title="FINLAND" tvg-logo="https://i.imgur.com/TiGFekJ.png",*** FINLAND - github.com/free-iptv
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Alfa TV" tvg-id="" tvg-logo="https://imgur.com/a/KZkkV8B" group-title="FINLAND",Alfa TV
-https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
-#EXTINF:-1 tvg-name="Bloomberg Quicktake FI" tvg-id="" tvg-logo="https://i.imgur.com/oe5jSEg.jpg" group-title="FINLAND",Bloomberg Quicktake FI
-https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV FI" tvg-id="" tvg-logo="https://i.imgur.com/ZYFF5YN.png" group-title="FINLAND",Bloomberg TV FI
-https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Comedy Channel FI" tvg-id="" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="FINLAND",Comedy Channel FI
-https://rakuten-comedy-12-fi.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Documentaries FI"  tvg-id="" tvg-logo="https://i.imgur.com/WY5At0t.png" group-title="FINLAND",Documentaries FI
-https://rakuten-documentaries-12-fi.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Drama FI" tvg-id="" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="FINLAND",Drama FI
-https://rakuten-drama-12-fi.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Duck TV FI" tvg-id="" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="FINLAND",Duck TV FI
-https://mmm-ducktv-4-fi.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Euronews FI" tvg-id="" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="FINLAND",Euronews FI
-https://rakuten-euronews-1-fi.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Family Channel FI" tvg-id="" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="FINLAND",Family Channel FI
-https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Spotlight FI" tvg-id="" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="FINLAND",Spotlight FI
-https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Taivas TV7" tvg-id="" tvg-logo="https://i.imgur.com/pIYSEUN.jpg" group-title="FINLAND",Taivas TV7
+#EXTINF:-1 tvg-name="*** FINLAND - github.com/Free-IPTV" group-title="FINLAND" tvg-logo="https://i.imgur.com/TiGFekJ.png",*** FINLAND - github.com/Free-IPTV
+https://
+#EXTINF:-1 tvg-id="" tvg-name="Taivas TV7" tvg-logo="https://i.imgur.com/pIYSEUN.jpg" group-title="FINLAND",Taivas TV7
 http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8
-#EXTINF:-1 tvg-name="YLE TV1" tvg-id="" tvg-logo="https://i.imgur.com/MTZM0k5.png" group-title="FINLAND",YLE TV1
+#EXTINF:-1 tvg-id="" tvg-name="YLE TV1" tvg-logo="https://i.imgur.com/MTZM0k5.png" group-title="FINLAND",YLE TV1
 https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
-#EXTINF:-1 tvg-name="YLE TV2" tvg-id="" tvg-logo="https://i.imgur.com/SHLh731.png" group-title="FINLAND",YLE TV2
+#EXTINF:-1 tvg-id="" tvg-name="YLE TV2" tvg-logo="https://i.imgur.com/SHLh731.png" group-title="FINLAND",YLE TV2 - github.com/Free-IPTV
 https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8

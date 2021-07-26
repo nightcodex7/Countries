@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** USA BUMBLEBEE - github.com/free-iptv" group-title="USA Bumblebee" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA BUMBLEBEE - github.com/free-iptv
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="*** USA BUMBLEBEE - github.com/Free-IPTV" group-title="USA Bumblebee" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA BUMBLEBEE - github.com/Free-IPTV
+https://
 #EXTINF:-1 tvg-name="Animals Live" tvg-logo="https://i.imgur.com/mJZHoUj.png" group-title="USA Bumblebee",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:-1 tvg-name="Aurora Live" tvg-logo="https://i.imgur.com/vNrFKse.png" group-title="USA Bumblebee",Aurora Live
@@ -19,12 +19,10 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
 #EXTINF:-1 tvg-name="Cute Zone" tvg-logo="https://i.imgur.com/1H2KOju.png" group-title="USA Bumblebee",Cute Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
-#EXTINF:-1 tvg-name="Divorce Court" tvg-logo="https://i.imgur.com/V0CDykG.png" group-title="USA Bumblebee",Divorce Court
+#EXTINF:-1 tvg-name="Divorce Court - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/V0CDykG.png" group-title="USA Bumblebee",Divorce Court - github.com/Free-IPTV
 https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
 #EXTINF:-1 tvg-name="Docs Channel" tvg-logo="https://i.imgur.com/peb9qn3.png" group-title="USA Bumblebee",Docs Channel
 https://0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609d9d6344257cbfb6ee4/playlist.m3u8
-#EXTINF:-1 tvg-name="EN TV" tvg-logo="https://i.imgur.com/PKvkIGV.png" group-title="USA Bumblebee",EN TV
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e25a1932c8368bdbfd87d/playlist.m3u8
 #EXTINF:-1 tvg-name="Epic Misses & Mayhem" tvg-name="" tvg-logo="https://i.imgur.com/JcDDd5I.png" group-title="USA Bumblebee",Epic Misses & Mayhem
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
 #EXTINF:-1 tvg-name="External Ottera" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="USA Bumblebee",External Ottera
@@ -51,8 +49,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 #EXTINF:-1 tvg-name="Let's Play Minecraft" tvg-logo="https://i.imgur.com/lW4n39E.png" group-title="USA Bumblebee",Let's Play Minecraft
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
-#EXTINF:-1 tvg-name="Level One" tvg-logo="https://i.imgur.com/7RR0xB0.png" group-title="USA Bumblebee",Level One
-https://stitcheraws.unreel.me/wse-node04.powr.com/live/5af61be7d5eeee7af3d1db47/playlist.m3u8
 #EXTINF:-1 tvg-name="Lifebae" tvg-logo="https://i.imgur.com/8aNLwPG.png" group-title="USA Bumblebee",Lifebae
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
 #EXTINF:-1 tvg-name="Master Builders" tvg-logo="https://i.imgur.com/4GQ78zv.png" group-title="USA Bumblebee",Master Builders
@@ -69,7 +65,7 @@ https://stitcheraws.unreel.me/wse-node04.powr.com/live/5b284f40d5eeee07522b775e/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 tvg-name="Recoil TV" tvg-logo="https://i.imgur.com/YfDWYmN.png" group-title="USA Bumblebee",Recoil TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8
-#EXTINF:-1 tvg-name="Rivers Live" tvg-logo="https://i.imgur.com/asqplX6.png" group-title="USA Bumblebee",Rivers Live
+#EXTINF:-1 tvg-name="Rivers Live - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/asqplX6.png" group-title="USA Bumblebee",Rivers Live - github.com/Free-IPTV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-name="Roblox" tvg-logo="https://i.imgur.com/Byan2OK.jpg" group-title="USA Bumblebee",Roblox
 https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
@@ -93,5 +89,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
 #EXTINF:-1 tvg-name="Tropics Live" tvg-logo="https://i.imgur.com/lvCjTl5.png" group-title="USA Bumblebee",Tropics Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 tvg-name="Wanderluster" tvg-logo="https://i.imgur.com/rFL5oBe.png" group-title="USA Bumblebee",Wanderluster
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2267fd5eeee0f5a4094c0/playlist.m3u8
 #EXTINF:-1 tvg-name="Waterfalls Live" tvg-logo="https://i.imgur.com/b0jl5EG.png" group-title="USA Bumblebee",Waterfalls Live
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8

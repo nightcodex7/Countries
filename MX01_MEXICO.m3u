@@ -1,79 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** MEXICO - github.com/free-iptv" group-title="MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",*** MEXICO - github.com/free-iptv
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="adn40 (Partly GEO-Blocked outside MX)" tvg-id="" tvg-logo="https://i.imgur.com/VCLWgAY.jpg" group-title="MEXICO",adn40 (Partly GEO-Blocked outside MX)
+#EXTINF:-1 tvg-name="*** MEXICO - github.com/Free-IPTV" group-title="MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",*** MEXICO - github.com/Free-IPTV
+https://
+#EXTINF:-1 tvg-id="" tvg-name="adn40 (Partly GEO-Blocked outside MX)" tvg-logo="https://i.imgur.com/VCLWgAY.jpg" group-title="MEXICO",adn40 (Partly GEO-Blocked outside MX)
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
-#EXTINF:-1 tvg-name="Alcarria TV" tvg-id="" tvg-logo="https://i.imgur.com/aJL1mjy.png" group-title="MEXICO",Alcarria TV
+#EXTINF:-1 tvg-id="" tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="MEXICO",Alcarria TV
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-name="Azteca Uno" tvg-id="" tvg-logo="https://i.imgur.com/jNip3An.png" group-title="MEXICO",Azteca Uno
-https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_83looakw/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-name="Baby Shark TV MX" tvg-id="" tvg-logo="https://i.imgur.com/6TMGj6p.png" group-title="MEXICO", Baby Shark TV MX
-https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="BCC Gaming" tvg-id="" tvg-logo="https://i.imgur.com/et710pV.png" group-title="MEXICO",BCC Gaming
-https://arcade-cloud-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV MX" tvg-id="" tvg-logo="https://i.imgur.com/ZYFF5YN.png" group-title="MEXICO",Bloomberg TV MX
-https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Butaca TV" tvg-id="" tvg-logo="https://i.imgur.com/bJggECf.jpg" group-title="MEXICO",Butaca TV
-https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 5 TDT" tvg-id="" tvg-logo="https://i.imgur.com/sjsvc7P.png" group-title="MEXICO",Canal 5 TDT
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
-#EXTINF:-1 tvg-name="Canal 10" tvg-id="" tvg-logo="https://i.imgur.com/3vv7aoM.jpg" group-title="MEXICO",Canal 10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10" tvg-logo="https://i.imgur.com/3vv7aoM.jpg" group-title="MEXICO",Canal 10
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Catorce" tvg-id="" tvg-logo="https://i.imgur.com/g46GRL2.jpg" group-title="MEXICO",Canal Catorce
+#EXTINF:-1 tvg-id="" tvg-name="Canal Catorce" tvg-logo="https://i.imgur.com/g46GRL2.jpg" group-title="MEXICO",Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-#EXTINF:-1 tvg-name="Canal Mundo +" tvg-id="" tvg-logo="https://i.imgur.com/iT2V865.jpg" group-title="MEXICO",Canal Mundo +
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Once Internacional" tvg-id="" tvg-logo="https://i.imgur.com/VdLvmDt.png" group-title="MEXICO",Canal Once Internacional
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once Internacional" tvg-logo="https://i.imgur.com/VdLvmDt.png" group-title="MEXICO",Canal Once Internacional
 https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Canela TV MX" tvg-id="" tvg-logo="https://i.imgur.com/2hKEDny.png" group-title="MEXICO",Canela TV MX
-https://canelamedia-canelatv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Casa Comedy" tvg-id="" tvg-logo="https://i.imgur.com/k5hvT1O.jpg" group-title="MEXICO",Casa Comedy
-https://d2hzei7tms9zge.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-CasaComedy/72a1f430-fa0f-479c-a9e5-b91a41bc3914/1.m3u8
-#EXTINF:-1 tvg-name="Claro Sports" tvg-id="" tvg-logo="https://i.imgur.com/cRXD0YD.png" group-title="MEXICO",Claro Sports
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/cRXD0YD.png" group-title="MEXICO",Claro Sports
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
-#EXTINF:-1 tvg-name="Demand Africa MX" tvg-id="" tvg-logo="https://i.imgur.com/iGVZ2qq.png" group-title="MEXICO",Demand Africa MX
-https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Euronews MX" tvg-id="" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="MEXICO",Euronews MX
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Hipodromo de las Americas" tvg-id="" tvg-logo="https://i.imgur.com/wc8MlGw.png" group-title="MEXICO",Hipodromo de las Americas
+#EXTINF:-1 tvg-id="" tvg-name="Hipodromo de las Americas" tvg-logo="https://i.imgur.com/wc8MlGw.png" group-title="MEXICO",Hipodromo de las Americas
 http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8
-#EXTINF:-1 tvg-name="Hollywire MX" tvg-id="" tvg-logo="https://i.imgur.com/bT8Wnmq.png" group-title="MEXICO",Hollywire MX
-https://hollywire-samsung-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Introuble TV MX" tvg-id="" tvg-logo="https://i.imgur.com/iVw55kC.png" group-title="MEXICO",Introuble TV MX
-https://introuble-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Kaloopy" tvg-id="" tvg-logo="https://i.imgur.com/3uN5oXI.jpg" group-title="MEXICO",Kaloopy
-https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-LittleStar/496db010-8bae-4ff3-9dc4-ed927024c397/1.m3u8
-#EXTINF:-1 tvg-name="Multimedios Guadalajara" tvg-id="" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Guadalajara
+#EXTINF:-1 tvg-id="" tvg-name="Milenio TV" tvg-logo="https://i.imgur.com/R9szRua.png" group-title="MEXICO",Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Guadalajara" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Guadalajara
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-name="Multimedios Laguna" tvg-id="" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Laguna
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Laguna" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Laguna
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-name="Multimedios Monterrey" tvg-id="" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Monterrey
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Monterrey" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Monterrey
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-name="MVM Noticias" tvg-id="" tvg-logo="https://i.imgur.com/dhLXN9n.png" group-title="MEXICO",MVM Noticias
+#EXTINF:-1 tvg-id="" tvg-name="MVM Noticias - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/dhLXN9n.png" group-title="MEXICO",MVM Noticias - github.com/Free-IPTV
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="MyTime Movies" tvg-id="" tvg-logo="https://i.imgur.com/SQInLji.png" group-title="MEXICO",MyTime Movies
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Novo Comedy" tvg-id="" tvg-logo="https://i.imgur.com/zudggwr.jpg" group-title="MEXICO",Novo Comedy
-https://stream-us-east-1.getpublica.com/cl/d7281ffd-e2f0-4532-98aa-8b47adad279b/1280x720_2300000_4.m3u8
-#EXTINF:-1 tvg-name="Oro TV MX" tvg-id="" tvg-logo="https://i.imgur.com/SBsRfMV.jpg" group-title="MEXICO",Oro TV MX
-https://veranda-orotv-1-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="RCG 2 Saltillo" tvg-id="" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="MEXICO",RCG 2 Saltillo
+#EXTINF:-1 tvg-id="" tvg-name="RCG 2 Saltillo" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="MEXICO",RCG 2 Saltillo
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 tvg-name="RCG 3 Saltillo" tvg-id="" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="MEXICO",RCG 3 Saltillo
+#EXTINF:-1 tvg-id="" tvg-name="RCG 3 Saltillo" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="MEXICO",RCG 3 Saltillo
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 tvg-name="RTQ Queretaro" tvg-id="" tvg-logo="https://i.imgur.com/x9jcMwu.png" group-title="MEXICO",RTQ Queretaro
+#EXTINF:-1 tvg-id="" tvg-name="RTQ Queretaro" tvg-logo="https://i.imgur.com/x9jcMwu.png" group-title="MEXICO",RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 tvg-name="Runtime" tvg-id="" tvg-logo="https://i.imgur.com/0Wdnqym.png" group-title="MEXICO",Runtime
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleFormula" tvg-id="" tvg-logo="https://i.imgur.com/jR6taXt.png" group-title="MEXICO",TeleFormula
+#EXTINF:-1 tvg-id="" tvg-name="Sipse TV Cancun" tvg-logo="https://i.imgur.com/WYwlaK4.png" group-title="MEXICO",Sipse TV Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TeleFormula" tvg-logo="https://i.imgur.com/jR6taXt.png" group-title="MEXICO",TeleFormula
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 tvg-name="Telemax" tvg-id="" tvg-logo="https://i.imgur.com/H716og6.jpg" group-title="MEXICO",Telemax
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://i.imgur.com/H716og6.jpg" group-title="MEXICO",Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-#EXTINF:-1 tvg-name="Teleritmo" tvg-id="" tvg-logo="https://i.imgur.com/2j49PQV.png" group-title="MEXICO",Teleritmo
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-name="TVMAS" tvg-id="" tvg-logo="https://i.imgur.com/h8Fv80L.png" group-title="MEXICO",TVMAS
+#EXTINF:-1 tvg-id="" tvg-name="TVMAS" tvg-logo="https://i.imgur.com/h8Fv80L.png" group-title="MEXICO",TVMAS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
-#EXTINF:-1 tvg-name="Videorola HD" tvg-id="" tvg-logo="https://i.imgur.com/MWBk2hQ.jpg" group-title="MEXICO",Videorola HD
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 tvg-name="Weather Spy MX" tvg-id="" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="MEXICO",Weather Spy MX
-https://jukin-weatherspy-2-mx.samsung.wurl.com/manifest/playlist.m3u8

@@ -1,29 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** TAIWAN - github.com/free-iptv" group-title="TAIWAN" tvg-logo="https://i.imgur.com/KXcPGuA.png",*** TAIWAN - github.com/free-iptv
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="CTS YT" tvg-id="" tvg-logo="https://i.imgur.com/VMLLsWs.jpg" group-title="TAIWAN",CTS YT
-https://linkastream.co/headless?url=https://www.youtube.com/watch?v=PQLMD4iHhG8
-#EXTINF:-1 tvg-name="Da Ai TV" tvg-id="" tvg-logo="https://i.imgur.com/jz3KV6a.png" group-title="TAIWAN",Da Ai TV
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-name="Dali TV" tvg-id="" tvg-logo="https://i.imgur.com/WstJhjs.jpg" group-title="TAIWAN",Dali TV
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-name="Formosa YT" tvg-id="" tvg-logo="https://i.imgur.com/SSaCVNV.jpg" group-title="TAIWAN",Formosa YT
-https://linkastream.co/headless?url=https://www.youtube.com/watch?v=XxJKnDLYZz4
-#EXTINF:-1 tvg-name="FTV News" tvg-id="" tvg-logo="https://i.imgur.com/8JPOdS8.png" group-title="TAIWAN",FTV News
+#EXTINF:-1 tvg-name="*** TAIWAN - github.com/Free-IPTV" group-title="TAIWAN" tvg-logo="https://i.imgur.com/KXcPGuA.png",*** TAIWAN - github.com/Free-IPTV
+http://
+#EXTINF:-1 tvg-id="" tvg-name="CTS" tvg-logo="https://i.imgur.com/VMLLsWs.jpg" group-title="TAIWAN",CTS
+plugin://plugin.video.youtube/play/?video_id=PQLMD4iHhG8
+#EXTINF:-1 tvg-id="" tvg-name="CTV News " tvg-logo="https://i.imgur.com/NKFqN5z.png" group-title="TAIWAN",CTV News 
+plugin://plugin.video.youtube/play/?video_id=lSZZ3YRsW1w
+#EXTINF:-1 tvg-id="" tvg-name="Da Ai TV" tvg-logo="https://i.imgur.com/jz3KV6a.png" group-title="TAIWAN",Da Ai TV
+plugin://plugin.video.youtube/play/?video_id=oV_i3Hsl_zg
+#EXTINF:-1 tvg-id="" tvg-name="EBC News" tvg-logo="https://i.imgur.com/BP9EMLw.png" group-title="TAIWAN",EBC News
+plugin://plugin.video.youtube/play/?video_id=63RmMXCd_bQ
+#EXTINF:-1 tvg-id="" tvg-name="Formosa" tvg-logo="https://i.imgur.com/SSaCVNV.jpg" group-title="TAIWAN",Formosa
+plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4
+#EXTINF:-1 tvg-id="" tvg-name="FTV News" tvg-logo="https://i.imgur.com/8JPOdS8.png" group-title="TAIWAN",FTV News
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-name="Hua Zang TV" tvg-id="" tvg-logo="https://i.imgur.com/RFJGMPr.png" group-title="TAIWAN",Hua Zang TV
-http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Ideal Channel Wei Xin" tvg-id="" tvg-logo="https://i.imgur.com/R9iRuGw.png" group-title="TAIWAN",Ideal Channel Wei Xin
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Indigenous TV" tvg-id="" tvg-logo="https://i.imgur.com/RuAYuSM.png" group-title="TAIWAN",Indigenous TV
+#EXTINF:-1 tvg-id="" tvg-name="Indigenous TV" tvg-logo="https://i.imgur.com/RuAYuSM.png" group-title="TAIWAN",Indigenous TV
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Legislative Yuan" tvg-id="" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="TAIWAN",Legislative Yuan
+#EXTINF:-1 tvg-id="" tvg-name="Legislative Yuan" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="TAIWAN",Legislative Yuan
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-name="Next TV" tvg-id="" tvg-logo="https://i.imgur.com/W4ERTLH.jpg" group-title="TAIWAN",Next TV
-http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 tvg-name="Ti TV" tvg-id="" tvg-logo="https://i.imgur.com/8bVdZqw.png" group-title="TAIWAN",Ti TV
-http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-name="TTV NEWS YT" tvg-id="" tvg-logo="https://cdn.teleon.tv/logo/ttv-news-tw.png" group-title="TAIWAN",TTV NEWS YT
-https://linkastream.co/headless?url=https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1 tvg-name="TVBS YT" tvg-id="" tvg-logo="https://i.imgur.com/YHMXeqI.jpg" group-title="TAIWAN",TVBS YT
-https://linkastream.co/headless?url=https://www.youtube.com/watch?v=XxJKnDLYZz4
+#EXTINF:-1 tvg-id="" tvg-name="Set News - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/d5s3EwA.png" group-title="TAIWAN",Set News - github.com/Free-IPTV
+plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
+#EXTINF:-1 tvg-id="" tvg-name="TTV NEWS" tvg-logo="https://cdn.teleon.tv/logo/ttv-news-tw.png" group-title="TAIWAN",TTV NEWS
+plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
+#EXTINF:-1 tvg-id="TVBS" tvg-name="" tvg-logo="https://i.imgur.com/YHMXeqI.jpg" group-title="TAIWAN",TVBS
+plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4

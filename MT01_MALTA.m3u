@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** MALTA - github.com/free-iptv" tvg-logo="https://i.imgur.com/abDNQno.png" group-title="MALTA",*** MALTA - github.com/free-iptv
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="One" tvg-id="" tvg-logo="https://i.imgur.com/b83uZuP.jpg" group-title="MALTA",One
+#EXTINF:-1 tvg-id="" tvg-name="*** MALTA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/abDNQno.png" group-title="MALTA",*** MALTA - github.com/Free-IPTV
+https://
+#EXTINF:-1 tvg-name="One" tvg-id="" group-title="MALTA" tvg-logo="",One
 https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Smash TV" tvg-id="" tvg-logo="https://i.imgur.com/rdvn5sZ.jpg" group-title="MALTA",Smash TV
+#EXTINF:-1 tvg-name="Smash TV" tvg-id="" group-title="MALTA" tvg-logo="",Smash TV
 http://s3.smashmalta.com/hls/smash/smash.m3u8
-#EXTINF:-1 tvg-name="TVM News" tvg-id="" tvg-logo="https://i.imgur.com/Ej7imgm.jpg" group-title="MALTA",TVM News
-https://live.23video.com/live/amlst:4o87cp9dghh1pqqniur7m4tm3f:16966825-2ca040dbfeea9e5cb868.mp4/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-name="TVM News" tvg-id="" group-title="MALTA" tvg-logo="",TVM News
+plugin://plugin.video.youtube/play/?video_id=kZnhMpR_w78

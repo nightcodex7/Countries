@@ -1,37 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** USA FILMRISE - github.com/free-iptv" group-title="USA FILMRISE"  tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA FILMRISE - github.com/free-iptv
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="FilmRise Action" tvg-id="" tvg-logo="https://i.imgur.com/l0tJxe0.png" group-title="USA FILMRISE",FilmRise Action
-https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/1280x720_2500000/index.m3u8
-#EXTINF:-1 tvg-name="FilmRise CBC's Heartland" tvg-logo="https://i.imgur.com/hWT0N7A.png" group-title="USA FILMRISE",FilmRise CBC's Heartland
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuheartland/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="Filmrise Classic" tvg-id="" tvg-logo="https://i.imgur.com/FDytT6l.png" group-title="USA FILMRISE",Filmrise Classic
-https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/1280x720_2500000/index.m3u8
-#EXTINF:-1 tvg-name="FilmRise Classic Redbox" tvg-logo="https://i.imgur.com/RRWbjc2.png" group-title="USA FILMRISE",FilmRise Classic Redbox
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-name="Filmrise Crime" tvg-id="" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA FILMRISE",Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-filmrisecrime/CDN/1280x720_440000/index.m3u8
-#EXTINF:-1 tvg-name="Filmrise Family" tvg-id="" tvg-logo="https://i.imgur.com/lQL8tNl.png" group-title="USA FILMRISE",Filmrise Family
+#EXTINF:-1 tvg-name="*** USA FILMRISE - github.com/Free-IPTV" group-title="USA FILMRISE"  tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA FILMRISE - github.com/Free-IPTV
+https://
+#EXTINF:-1 tvg-name="Filmrise Classics" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71te2lAHq5L._SY355_.png" group-title="USA FILMRISE",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-name="Filmrise Family" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="USA FILMRISE",Filmrise Family
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="FilmRise Family Redbox" tvg-logo="https://i.imgur.com/RRWbjc2.png" group-title="USA FILMRISE",FilmRise Family Redbox
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-name="FilmRise Forensic Files 24/7" tvg-id="" tvg-logo="https://i.imgur.com/IJqEo4E.png" group-title="USA FILMRISE",FilmRise Forensic Files 24/7
+#EXTINF:-1 tvg-name="FilmRise Forensic Files 24/7" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA FILMRISE",FilmRise Forensic Files 24/7
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
-#EXTINF:-1 tvg-name="FilmRise Forensic Mysteries 24/7" tvg-id="" tvg-logo="https://i.imgur.com/YaqDq9y.png" group-title="USA FILMRISE",FilmRise Mysteries 24/7
+#EXTINF:-1 tvg-name="FilmRise Forensic Mysteries 24/7" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA FILMRISE",FilmRise Mysteries 24/7
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="FilmRise Hell's Kitchen" tvg-logo="https://i.imgur.com/FHijGDi.png" group-title="USA FILMRISE",FilmRise Hell's Kitchen
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="FilmRise Horror" tvg-id="" tvg-logo="https://i.imgur.com/LgVTTxo.png" group-title="USA FILMRISE",FilmRise Horror
-https://hls.xumo.com/channel-hls/v1/c69269ddcc1f4b9f/9993049/master.m3u8
-#EXTINF:-1 tvg-name="Filmrise Movies" tvg-id="" tvg-logo="https://i.imgur.com/hM0W1wP.png" group-title="USA FILMRISE",Filmrise Movies
+#EXTINF:-1 tvg-name="Filmrise Movies - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA FILMRISE",Filmrise Movies - github.com/Free-IPTV
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="FilmRise Movies Redbox" tvg-logo="https://i.imgur.com/RRWbjc2.png" group-title="USA FILMRISE",FilmRise Movies Redbox
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-name="FilmRise Mysteries" tvg-logo="https://i.imgur.com/aNemXI3.png" group-title="USA FILMRISE",FilmRise Mysteries
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-id="" tvg-logo="https://i.imgur.com/RYvh49V.png" group-title="USA FILMRISE",FilmRise Sci-Fi
+#EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA FILMRISE",FilmRise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
-#EXTINF:-1 tvg-name="FilmRise Sci-Fi Redbox" tvg-logo="https://i.imgur.com/RRWbjc2.png" group-title="USA FILMRISE",FilmRise Sci-Fi Redbox
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-name="FilmRise Westerns" tvg-logo="https://i.imgur.com/3oFT5X3.png" group-title="USA FILMRISE",FilmRise Westerns
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
