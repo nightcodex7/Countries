@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** GREECE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bn9XpG5.png" group-title="GREECE",*** GREECE - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4 
 #EXTINF:-1 tvg-id="Alert" tvg-name="Alert" tvg-logo="https://i.imgur.com/plW8kkT.png" group-title="GREECE",Alert
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-id="ALPHA GR" tvg-name="Alpha TV" tvg-logo="https://i.imgur.com/WF7e1u0.png" group-title="GREECE",Alpha TV

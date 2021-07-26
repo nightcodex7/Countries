@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** CZECH REPUBLIC - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/cRl8w0t.png" group-title="CZECH REPUBLIC",*** CZECH REPUBLIC - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4 
 #EXTINF:-1 tvg-id="" tvg-name="Elektrika TV" tvg-logo="https://i.imgur.com/rl09RVe.png" group-title="CZECH REPUBLIC",Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FashionTV Czech&Slovak" tvg-logo="https://i.imgur.com/2sXdYxa.png" group-title="CZECH REPUBLIC",FashionTV Czech&Slovak

@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** AUSTRIA - github.com/Free-IPTV" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/RqwwAU5.png",*** AUSTRIA - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4 
 #EXTINF:-1 tvg-name="Antenne Vorarlberg (Webradio)" tvg-id="" tvg-logo="https://i.imgur.com/TpBbZwq.png" group-title="AUSTRIA",Antenne Vorarlberg (Webradio)
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8 
 #EXTINF:-1 tvg-name="dorf tv" tvg-id="" group-title="AUSTRIA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dorftv.png",dorf tv

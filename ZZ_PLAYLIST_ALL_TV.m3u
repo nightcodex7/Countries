@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="GERMANY" tvg-chno="1" tvg-id="GERMANY (Partly GEO-Blocked outside DE) github.com/Free-IPTV" tvg-logo="https://i.imgur.com/xku2oyd.png" tvg-name="GERMANY (Partly GEO-Blocked outside DE) github.com/Free-IPTV",GERMANY (Partly GEO-Blocked outside DE) - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="GERMANY" tvg-chno="2" tvg-id="ARD.de" tvg-logo="http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" tvg-name="Das Erste HD",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
@@ -115,7 +115,7 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
 
 #EXTINF:-1 group-title="GERMANY SG TV PLUS" tvg-chno="39" tvg-id="*** GERMANY SG TV PLUS - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/xku2oyd.png" tvg-name="*** GERMANY SG TV PLUS - github.com/Free-IPTV",*** GERMANY SG TV PLUS - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="GERMANY SG TV PLUS" tvg-chno="40" tvg-id="Action Movies DE" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" tvg-name="Action Movies DE",Action Movies DE
 https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -172,7 +172,7 @@ https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="GERMANY LOCAL" tvg-chno="58" tvg-id="*** GERMANY LOCAL - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/xku2oyd.png" tvg-name="*** GERMANY LOCAL - github.com/Free-IPTV",*** GERMANY LOCAL - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="GERMANY LOCAL" tvg-chno="59" tvg-id="Alex Berlin" tvg-logo="https://i.imgur.com/eTmHk4e.png" tvg-name="Alex Berlin",Alex Berlin
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
@@ -469,7 +469,7 @@ https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 
 #EXTINF:-1 group-title="GERMANY Etc" tvg-chno="157" tvg-id="*** GERMANY Etc. - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/xku2oyd.png" tvg-name="*** GERMANY Etc. - github.com/Free-IPTV",*** GERMANY Etc. - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="GERMANY Etc" tvg-chno="158" tvg-id="DeutscheWelleDE.de" tvg-logo="https://i.imgur.com/PXxEUkz.png",Deutsche Welle English
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
@@ -781,7 +781,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 group-title="AUSTRIA" tvg-chno="261" tvg-id="*** AUSTRIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/RqwwAU5.png" tvg-name="*** AUSTRIA - github.com/Free-IPTV",*** AUSTRIA - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="AUSTRIA" tvg-chno="262" tvg-id="Antenne Vorarlberg (Webradio)" tvg-logo="https://i.imgur.com/TpBbZwq.png" tvg-name="Antenne Vorarlberg (Webradio)",Antenne Vorarlberg (Webradio)
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
@@ -853,7 +853,7 @@ https://rakuten-family-5-at.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="SWITZERLAND" tvg-chno="285" tvg-id="*** SWITZERLAND - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/eqVr8td.jpg" tvg-name="*** SWITZERLAND - github.com/Free-IPTV",*** SWITZERLAND - github.com/Free-IPTV
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="SWITZERLAND" tvg-chno="286" tvg-id="Kanal9.ch" tvg-logo="https://i.imgur.com/nQVDOVb.png" tvg-name="Canal 9",Canal 9
 https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
@@ -964,7 +964,7 @@ https://rakuten-family-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="LIECHTENSTEIN" tvg-chno="322" tvg-id="*** LIECHTENSTEIN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/Cs6U2K4.png" tvg-name="*** LIECHTENSTEIN - github.com/Free-IPTV",*** LIECHTENSTEIN - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="LIECHTENSTEIN" tvg-chno="323" tvg-id="KommuTV.li" tvg-logo="https://i.imgur.com/hNA8pC9.png" tvg-name="Kommu TV",Kommu TV
 http://31.10.19.12:8066/live/999/0.m3u8
@@ -4612,7 +4612,7 @@ https://linear-182.frequency.stream/dist/localnow/182/hls/master/playlist.m3u8
 https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="CANADA" tvg-chno="1538" tvg-id="*** CANADA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/XO7BLqf.png" tvg-name="*** CANADA - github.com/Free-IPTV",*** CANADA - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="CANADA" tvg-chno="1539" tvg-id="5AAB TV" tvg-logo="https://i.imgur.com/k9M5ydW.png" tvg-name="5AAB TV",5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
@@ -4852,7 +4852,7 @@ https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="GEM ONLINE" tvg-chno="1618" tvg-id="*** GEM ONLINE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/XO7BLqf.png" tvg-name="*** GEM ONLINE - github.com/Free-IPTV",*** GEM ONLINE - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="GEM ONLINE" tvg-chno="1619" tvg-id="GEM 24B" tvg-logo="https://i.imgur.com/7dQioKG.png" tvg-name="GEM 24B",GEM 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
@@ -4930,7 +4930,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist.m3u8
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="BRAZIL" tvg-chno="1644" tvg-id="*** BRAZIL - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/4IRPTyM.png" tvg-name="*** BRAZIL - github.com/Free-IPTV",*** BRAZIL - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="BRAZIL" tvg-chno="1645" tvg-id="98 Live" tvg-logo="https://i.imgur.com/DXwyj7S.png",98 Live
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
@@ -5242,7 +5242,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 group-title="MEXICO" tvg-chno="1748" tvg-id="*** MEXICO - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/O8x5LLR.jpg" tvg-name="*** MEXICO - github.com/Free-IPTV",*** MEXICO - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="MEXICO" tvg-chno="1749" tvg-id="adn40 (Partly GEO-Blocked outside MX)" tvg-logo="https://i.imgur.com/VCLWgAY.jpg" tvg-name="adn40 (Partly GEO-Blocked outside MX)",adn40 (Partly GEO-Blocked outside MX)
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
@@ -5635,7 +5635,7 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA" tvg-chno="1879" tvg-id="*** AUSTRALIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/lqiMPkK.png" tvg-name="*** AUSTRALIA - github.com/Free-IPTV",*** AUSTRALIA - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="AUSTRALIA" tvg-chno="1880" tvg-id="3AW Melburne (Webradio)" tvg-logo="https://i.imgur.com/Uvie0ws.png" tvg-name="3AW Melburne (Webradio)",3AW Melburne (Webradio)
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
@@ -5803,7 +5803,7 @@ https://venntv-samsungau.amagi.tv/playlist.m3u8
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWZEALAND" tvg-chno="1935" tvg-id="*** NEWZEALAND - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bqrxeDu.png" tvg-name="*** NEWZEALAND - github.com/Free-IPTV",*** NEWZEALAND - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="NEWZEALAND" tvg-chno="1936" tvg-id="Firstlight" tvg-logo="https://i.imgur.com/2TKL6BX.png" tvg-name="Firstlight",Firstlight
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
@@ -5827,7 +5827,7 @@ http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN" tvg-chno="1943" tvg-id="*** JAPAN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/RCEdG3K.png" tvg-name="*** JAPAN - github.com/Free-IPTV",*** JAPAN - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="JAPAN" tvg-chno="1944" tvg-id="ANN News" tvg-logo="https://i.imgur.com/WXjmhdZ.jpg" tvg-name="ANN News",ANN News
 plugin://plugin.video.youtube/play/?video_id=coYw-eVU0Ks
@@ -5878,7 +5878,7 @@ https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-chno="1960" tvg-id="*** INDIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bopCE0h.png" tvg-name="*** INDIA - github.com/Free-IPTV",*** INDIA - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="INDIA" tvg-chno="1961" tvg-id="5aab TV" tvg-logo="" tvg-name="",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
@@ -6235,7 +6235,7 @@ https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 https://zmcl-live.akamaized.net/zeenewsclean_mbr/index.m3u8?hdnts=st=1607509766~exp=1607512766~acl=/*~hmac=b0891fd69bc6a0783203529934bc82a562c9b7a6d9215f3759bac7a30068e556
 
 #EXTINF:-1 group-title="CHINA" tvg-chno="2079" tvg-id="*** CHINA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/6mKCDf1.png" tvg-name="*** CHINA - github.com/Free-IPTV",*** CHINA - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="CHINA" tvg-chno="2080" tvg-id="Aniu TV" tvg-logo="https://i.imgur.com/N8YdX6W.png",Aniu TV
 http://cclive.aniu.tv/live/anzb.m3u8
@@ -6346,7 +6346,7 @@ http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream/playlist.m3u8
 http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8
 
 #EXTINF:-1 group-title="TAIWAN" tvg-chno="2116" tvg-id="*** TAIWAN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/KXcPGuA.png" tvg-name="*** TAIWAN - github.com/Free-IPTV",*** TAIWAN - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="TAIWAN" tvg-chno="2117" tvg-id="CTS" tvg-logo="https://i.imgur.com/VMLLsWs.jpg" tvg-name="CTS",CTS
 plugin://plugin.video.youtube/play/?video_id=PQLMD4iHhG8
@@ -6382,13 +6382,13 @@ plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
 plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-chno="2128" tvg-id="*** SINGAPORE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/EWAThw2.png" tvg-name="*** SINGAPORE - github.com/Free-IPTV",*** SINGAPORE - github.com/Free-IPTV
-plugin://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-chno="2129" tvg-id="CNA 24/7" tvg-logo="https://i.imgur.com/sP727kx.png" tvg-name="CNA 24/7",CNA 24/7
 plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
 
 #EXTINF:-1 group-title="KOREA" tvg-chno="2130" tvg-id="*** KOREA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/3lx0R7g.png" tvg-name="*** KOREA - github.com/Free-IPTV",*** KOREA - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="KOREA" tvg-chno="2131" tvg-id="KCTV - Nordkorea" tvg-logo="https://i.imgur.com/aYmkkM2.png" tvg-name="KCTV - Nordkorea",KCTV - Nordkorea
 plugin://plugin.video.youtube/play/?video_id=wSGVaSDgkdY
@@ -6433,7 +6433,7 @@ plugin://plugin.video.youtube/play/?video_id=4gwqZYZ-OSw
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 
 #EXTINF:-1 group-title="UK" tvg-chno="2145" tvg-id="*** ENGLAND - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/vKXvAZx.png" tvg-name="*** ENGLAND - github.com/Free-IPTV",*** ENGLAND - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="UK" tvg-chno="2146" tvg-id="92 News UK" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" tvg-name="",92 News UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
@@ -7114,7 +7114,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d796e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1ddd108ee5378be82db3a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 group-title="IRELAND" tvg-chno="2372" tvg-id="*** IRELAND - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/IF4p2pM.png" tvg-name="*** IRELAND - github.com/Free-IPTV",*** IRELAND - github.com/Free-IPTV
-https://live.rte.ie/live/a/channel3/news.isml/news-video=144960.m3u8
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="IRELAND" tvg-chno="2373" tvg-id="RTENewsNow.ie" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtenewsnow.png" tvg-name="RTE News Now",RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
@@ -7123,7 +7123,7 @@ https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 
 #EXTINF:-1 group-title="MALTA" tvg-chno="2375" tvg-id="*** MALTA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/abDNQno.png" tvg-name="*** MALTA - github.com/Free-IPTV",*** MALTA - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="MALTA" tvg-chno="2376" tvg-id="One" tvg-logo="" tvg-name="One",One
 https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
@@ -7135,7 +7135,7 @@ http://s3.smashmalta.com/hls/smash/smash.m3u8
 plugin://plugin.video.youtube/play/?video_id=kZnhMpR_w78
 
 #EXTINF:-1 group-title="NETHERLANDS" tvg-chno="2379" tvg-id="*** NETHERLANDS - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/9sNF9uX.png" tvg-name="*** NETHERLANDS - github.com/Free-IPTV",*** NETHERLANDS - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="NETHERLANDS" tvg-chno="2380" tvg-id="BNR Nieuwsradio (Webradio)" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" tvg-name="",BNR Nieuwsradio (Webradio)
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
@@ -7282,7 +7282,7 @@ https://streams.uitzending.tv/zo34/zo34/playlist.m3u8
 https://olon.ctl.cdn.ebsd.ericsson.net/L8B/2cc7091a/dc57b750.isml/.m3u8
 
 #EXTINF:-1 group-title="BELGIUM" tvg-chno="2428" tvg-id="*** BELGIUM - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/51uhUUT.png" tvg-name="*** BELGIUM - github.com/Free-IPTV",*** BELGIUM - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="BELGIUM" tvg-chno="2429" tvg-id="A T V" tvg-logo="https://i.imgur.com/iWXUmje.jpg" tvg-name="A T V",A T V
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
@@ -7363,7 +7363,7 @@ https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
 #EXTINF:-1 group-title="LUXEMBOURG" tvg-chno="2455" tvg-id="*** LUXEMBOURG - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/eEWsJ3S.png" tvg-name="*** LUXEMBOURG - github.com/Free-IPTV",*** LUXENBURG - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="LUXEMBOURG" tvg-chno="2456" tvg-id="Chamber TV" tvg-logo="" tvg-name="Chamber TV",Chamber TV
 https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
@@ -7381,7 +7381,7 @@ https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 
 #EXTINF:-1 group-title="DENMARK" tvg-chno="2461" tvg-id="*** DENMARK - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/UmNJwLI.png" tvg-name="*** DENMARK - github.com/Free-IPTV",*** DENMARK - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="DENMARK" tvg-chno="2462" tvg-id="Kanal Hovedstaden" tvg-logo="https://i.imgur.com/hATNB38.jpg" tvg-name="Kanal Hovedstaden",Kanal Hovedstaden
 https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
@@ -7411,7 +7411,7 @@ http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/t/bvgwwfCgkC73
 https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8
 
 #EXTINF:-1 group-title="SWEDEN" tvg-chno="2471" tvg-id="*** SWEDEN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/6RX1gF5.jpg" tvg-name="*** SWEDEN - github.com/Free-IPTV",*** SWEDEN - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="SWEDEN" tvg-chno="2472" tvg-id="ATG Live" tvg-logo="https://i.imgur.com/5CdW62M.png" tvg-name="ATG Live",ATG Live
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
@@ -7444,7 +7444,7 @@ https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 
 #EXTINF:-1 group-title="NORWAY" tvg-chno="2482" tvg-id="*** NORWAY - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/kAFLbMA.png" tvg-name="*** NORWAY - github.com/Free-IPTV",*** NORWAY - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="NORWAY" tvg-chno="2483" tvg-id="Canal Motor" tvg-logo="https://i.imgur.com/BHm0wem.png" tvg-name="Canal Motor",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
@@ -7462,7 +7462,7 @@ http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/play
 https://900c544ac47302fffd7d3f12b4c745fd-httpcache0-90216-cachelive0.dna.qbrick.com/90216-cachelive0/smil:APPLETV/playlist.m3u8
 
 #EXTINF:-1 group-title="ICELAND" tvg-chno="2488" tvg-id="*** ICELAND - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/4DcfPZp.png" tvg-name="*** ICELAND - github.com/Free-IPTV",*** ICELAND - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="ICELAND" tvg-chno="2489" tvg-id="KVF Faroe Island" tvg-logo="" tvg-name="KVF Faroe Island",KVF Faroe Island
 https://w2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w587901821_b772000_slfao.m3u8
@@ -7471,7 +7471,7 @@ https://w2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w587
 https://live.tv.c.is/n4/index.m3u8
 
 #EXTINF:-1 group-title="FINLAND" tvg-chno="2491" tvg-id="*** FINLAND - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/TiGFekJ.png" tvg-name="*** FINLAND - github.com/Free-IPTV",*** FINLAND - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="FINLAND" tvg-chno="2492" tvg-id="Taivas TV7" tvg-logo="https://i.imgur.com/pIYSEUN.jpg" tvg-name="Taivas TV7",Taivas TV7
 http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8
@@ -7483,7 +7483,7 @@ https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-
 https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8
 
 #EXTINF:-1 group-title="LATVIA" tvg-chno="2495" tvg-id="*** LATVIA  - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/KrIyaMf.png" tvg-name="*** LATVIA  - github.com/Free-IPTV",*** LATVIA  - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="LATVIA" tvg-chno="2496" tvg-id="Chau TV" tvg-logo="https://i.imgur.com/c4q2PQj.png" tvg-name="Chau TV",Chau TV
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
@@ -7498,7 +7498,7 @@ http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
 
 #EXTINF:-1 group-title="ESTONIA" tvg-chno="2500" tvg-id="*** ESTONIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/mE9gSDt.png" tvg-name="*** ESTONIA - github.com/Free-IPTV",*** ESTONIA - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="ESTONIA" tvg-chno="2501" tvg-id="ETV+" tvg-logo="https://i.imgur.com/L8fGd9d.png" tvg-name="ETV+",ETV+
 https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
@@ -7519,13 +7519,13 @@ https://riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
 https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="LITHUANIA" tvg-chno="2507" tvg-id="*** LITHUANIA  - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/t9dFrZw.png" tvg-name="*** LITHUANIA  - github.com/Free-IPTV",*** LITHUANIA  - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="LITHUANIA" tvg-chno="2508" tvg-id="LRT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" tvg-name="",LRT
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 
 #EXTINF:-1 group-title="UKRAINE" tvg-chno="2509" tvg-id="***UKRAINE  - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/kP0PTbp.png" tvg-name="***UKRAINE  - github.com/Free-IPTV",*** UKRAINE  - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="UKRAINE" tvg-chno="2510" tvg-id="pervy-gorodskoy-kryvrig" tvg-logo="https://i.imgur.com/Mzh7Xz5.jpg" tvg-name="1 Krivoy Rog",1 Krivoy Rog
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
@@ -7711,7 +7711,7 @@ plugin://plugin.video.youtube/play/?video_id=a_3eJgMMBsg
 https://stream.ztv.zp.ua/hls/live.m3u8
 
 #EXTINF:-1 group-title="GEORGIA" tvg-chno="2571" tvg-id="*** GEORGIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/LoT13Tk.png" tvg-name="*** GEORGIA - github.com/Free-IPTV",*** GEORGIA - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="GEORGIA" tvg-chno="2572" tvg-id="1 TV" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-name="1 TV",1 TV
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
@@ -7732,7 +7732,7 @@ https://live.palitranews.ge/hls/palitratv/index.m3u8
 http://video.rionitv.com:9090/hls/live/rioni.m3u8
 
 #EXTINF:-1 group-title="BELARUS" tvg-chno="2578" tvg-id="*** BELARUS - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/PIBvtP3.png" tvg-name="*** BELARUS - github.com/Free-IPTV",*** BELARUS - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="BELARUS" tvg-chno="2579" tvg-id="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" tvg-name="1Mus",1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
@@ -7780,7 +7780,7 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BULGARIA" tvg-chno="2594" tvg-id="*** BULGARIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/nCmtGS8.png" tvg-name="*** BULGARIA - github.com/Free-IPTV",*** BULGARIA - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="BULGARIA" tvg-chno="2595" tvg-id="100% Auto Moto TV" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" tvg-name="100% Auto Moto TV",100% Auto Moto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
@@ -7822,7 +7822,7 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://wness103.neterra.tv/wness/wness.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="POLAND" tvg-chno="2608" tvg-id="*** POLAND - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/uxgNIq5.png" tvg-name="*** POLAND - github.com/Free-IPTV",*** POLAND - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="POLAND" tvg-chno="2609" tvg-id="TV Kujawy" tvg-logo="http://www.kujawy.info/wp-content/uploads/kujawy-info-logo-top.jpg" tvg-name="TV Kujawy",TV K Kujawy
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
@@ -7840,7 +7840,7 @@ http://gargoyle.tomkow.pl/hls/tvt.m3u8
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 
 #EXTINF:-1 group-title="HUNGARY" tvg-chno="2614" tvg-id="*** HUNGARY - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/l7pTHPu.png" tvg-name="*** HUNGARY - github.com/Free-IPTV",*** HUNGARY - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="HUNGARY" tvg-chno="2615" tvg-id="1Music Hungary" tvg-logo="https://i.imgur.com/6CNlnpY.jpg" tvg-name="1Music Hungary",1Music Hungary
 http://1music.hu/1music.m3u8
@@ -7885,7 +7885,7 @@ https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
 
 #EXTINF:-1 group-title="CZECH REPUBLIC" tvg-chno="2629" tvg-id="*** CZECH REPUBLIC - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/cRl8w0t.png" tvg-name="*** CZECH REPUBLIC - github.com/Free-IPTV",*** CZECH REPUBLIC - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="CZECH REPUBLIC" tvg-chno="2630" tvg-id="Elektrika TV" tvg-logo="https://i.imgur.com/rl09RVe.png" tvg-name="Elektrika TV",Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
@@ -7933,7 +7933,7 @@ https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3
 https://w101.quickmedia.tv/prozeta-live04/_definst_/prozeta-live04.smil/Playlist.m3u8?id=mPl75tTRpFzGS2-03
 
 #EXTINF:-1 group-title="SLOVAKIA" tvg-chno="2645" tvg-id="*** SLOVAKIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/ajHUvqV.png" tvg-name="*** SLOVAKIA - github.com/Free-IPTV",*** SLOVAKIA - github.com/Free-IPTV
-rtmp://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="SLOVAKIA" tvg-chno="2646" tvg-id="BTV" tvg-logo="https://i.imgur.com/hgdR9cp.png" tvg-name="BTV",BTV
 rtmp://s1.media-planet.sk:80/live/bardejov1
@@ -7990,7 +7990,7 @@ rtmp://s1.media-planet.sk:80/live/turzovka
 https://nn.geo.joj.sk/live/wau-index.m3u8
 
 #EXTINF:-1 group-title="SLOVENIA" tvg-chno="2664" tvg-id="*** SLOVENIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/6swAlGR.png" tvg-name="*** SLOVENIA - github.com/Free-IPTV",*** SLOVENIA - github.com/Free-IPTV- github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="SLOVENIA" tvg-chno="2665" tvg-id="RTV MMC" tvg-logo="" tvg-name="RTV MMC",RTV MMC
 https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
@@ -8011,7 +8011,7 @@ https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 
 #EXTINF:-1 group-title="ROMANIA" tvg-chno="2671" tvg-id="*** ROMANIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/ufOC17d.png" tvg-name="*** ROMANIA - github.com/Free-IPTV",*** ROMANIA - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="ROMANIA" tvg-chno="2672" tvg-id="7TV" tvg-logo="https://i.imgur.com/z10bwPn.jpg",7TV
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
@@ -8302,7 +8302,7 @@ https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 
 #EXTINF:-1 group-title="TURKEY" tvg-chno="2768" tvg-id="*** TURKEY - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/WxJSQp8.png" tvg-name="*** TURKEY - github.com/Free-IPTV",*** TURKEY - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="TURKEY" tvg-chno="2769" tvg-id="24 TV" tvg-logo="https://i.imgur.com/8FO41es.png" tvg-name="24 TV",24 TV
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
@@ -8707,7 +8707,7 @@ https://waw1.artiyerelmedya.net/yesilyurttv/bant1/chunks.m3u8?hash=2ed1974639ec6
 https://stream.yol.tv:9443/medialive/yol.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 
 #EXTINF:-1 group-title="IRAN" tvg-chno="2903" tvg-id="*** IRAN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/6Fb1ysK.jpg" vg-name="*** IRAN - github.com/Free-IPTV",*** IRAN - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="IRAN" tvg-chno="2904" tvg-id="11 TV" tvg-logo="https://i.imgur.com/Uo3iDXN.jpg" tvg-name="11 TV",11 TV
 http://51.210.199.43/hls/stream.m3u8
@@ -8896,7 +8896,7 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_720p_chunks.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="AFGHANISTAN" tvg-chno="2966" tvg-id="*** AFGHANISTAN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/f7pAUiw.png" tvg-name="*** AFGHANISTAN - github.com/Free-IPTV",*** AFGHANISTAN - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="AFGHANISTAN" tvg-chno="2967" tvg-id="Andisheh" tvg-logo="https://i.imgur.com/yCFIC60.jpg" tvg-name="Andisheh",Andisheh
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
@@ -9007,7 +9007,7 @@ https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
 #EXTINF:-1 group-title="PAKISTAN" tvg-chno="3003" tvg-id="*** PAKISTAN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/mX0sUfc.png" vg-name="*** PAKISTAN - github.com/Free-IPTV",*** PAKISTAN - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="PAKISTAN" tvg-chno="3004" tvg-id="92 News" tvg-logo="https://i.imgur.com/Ji563Ed.jpg" tvg-name="92 News",92 News
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
@@ -9088,7 +9088,7 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/in
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 #EXTINF:-1 group-title="GREECE" tvg-chno="3030" tvg-id="*** GREECE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bn9XpG5.png" tvg-name="*** GREECE - github.com/Free-IPTV",*** GREECE - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="GREECE" tvg-chno="3031" tvg-id="Alert" tvg-logo="https://i.imgur.com/plW8kkT.png" tvg-name="Alert",Alert
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
@@ -9652,7 +9652,7 @@ https://cdn02.hta.dz/abr_htatv/Lina_TV/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
 
 #EXTINF:-1 group-title="FRANCE" tvg-chno="3218" tvg-id="*** FRANCE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/OPau00Q.png" tvg-name="*** FRANCE - github.com/Free-IPTV",*** FRANCE - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="FRANCE" tvg-chno="3219" tvg-id="A2i TV" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" tvg-name="A2i TV",A2i TV
 https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
@@ -9892,7 +9892,7 @@ https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="FRANCE PLUTO" tvg-chno="3298" tvg-id="*** FRANCE PLUTO - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/OPau00Q.png" tvg-name="*** FRANCE PLUTO - github.com/Free-IPTV",*** FRANCE PLUTO - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="FRANCE PLUTO" tvg-chno="3299" tvg-id="5f92b5ba040eaa0007074d0a" tvg-logo="https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png" tvg-name="BET CLASSICS Pluto TV",BET CLASSICS Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -10015,13 +10015,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb8a8b
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 group-title="MONACO" tvg-chno="3339" tvg-id="*** MONACO - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/BvK2VEz.png" tvg-name="*** MONACO - github.com/Free-IPTV",*** MONACO - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="MONACO" tvg-chno="3340" tvg-id="Monaco Info" tvg-logo="" tvg-name="Monaco Info",Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 
 #EXTINF:-1 group-title="SPAIN" tvg-chno="3341" tvg-id="*** SPAIN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/acuIUpD.png" tvg-name="*** SPAIN - github.com/Free-IPTV",*** SPAIN - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="SPAIN" tvg-chno="3342" tvg-id="24Horas.TV" tvg-logo="https://i.imgur.com/XMbCrRU.png" tvg-name="24 Horas",24 Horas
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
@@ -10738,7 +10738,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604f8125c6669b0007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604930bc28b24d0007e0e171/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-chno="3580" tvg-id="*** PORTUGAL - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/qjhJNaZ.png" tvg-name="*** PORTUGAL - github.com/Free-IPTV",*** PORTUGAL - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-chno="3581" tvg-id="Caca Vision" tvg-logo="https://i.imgur.com/3qB3JL7.png" tvg-name="Caca Vision",Caca Vision
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
@@ -10774,7 +10774,7 @@ https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
 #EXTINF:-1 group-title="ITALY" tvg-chno="3592" tvg-id="*** ITALY - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/PzFJG5f.png" tvg-name="*** ITALY - github.com/Free-IPTV",*** ITALY - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
 #EXTINF:-1 group-title="ITALY" tvg-chno="3593" tvg-id="20 Mediaset" tvg-logo="https://i.imgur.com/8SoOefS.png" tvg-name="20 Mediaset",20 Mediaset
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8

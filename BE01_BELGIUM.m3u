@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** BELGIUM - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/51uhUUT.png" group-title="BELGIUM",*** BELGIUM - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4 
 #EXTINF:-1 tvg-id="" tvg-name="A T V" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="BELGIUM",A T V
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-id="BEL Radio PROS (Webradio)" tvg-name="BEL Radio PROS" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c8/01/37519/1/c175.png" group-title="BELGIUM",BEL Radio PROS (Webradio)
